@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="61bdd50b-fa31-4d5b-9171-e239cca827a2">
+  <Properties>
+    <Name>LOC_YNAMP_BMC_TITLE</Name>
+    <Teaser>LOC_YNAMP_BMC_TEASER</Teaser>
+    <Description>LOC_YNAMP_BMC_DESCRIPTION</Description>
+    <Authors>Gedemon</Authors>
+  </Properties>
+
+	<LocalizedText>
+		<Text id="LOC_YNAMP_BMC_TITLE">
+			<en_US>YnAMP - Basic Modern Civilizations</en_US>
+		</Text>
+		<Text id="LOC_YNAMP_BMC_TEASER">
+			<en_US>50+ Basic Modern Civilizations for YnAMP</en_US>
+		</Text>
+		<Text id="LOC_YNAMP_BMC_DESCRIPTION">
+			<en_US>50+ Basic Modern Civilizations for YnAMP</en_US>
+		</Text>
+	</LocalizedText>
+
+	<Components>
+		<ImportFiles id="YNAMP_BMC_IMPORT">
+			<Items>
+				<File>UI/CityBannerManager.lua</File>
+				<File>Art/dom_blank.dds</File>
+				<File>Art/AMERICA.dds</File>
+				<File>Art/CHINA.dds</File>
+				<File>Art/ENGLAND.dds</File>
+				<File>Art/FRANCE.dds</File>
+				<File>Art/GERMANY.dds</File>
+				<File>Art/GREECE.dds</File>
+				<File>Art/ITALY.dds</File>
+				<File>Art/JAPAN.dds</File>
+				<File>Art/RUSSIA.dds</File>
+				<File>Art/Icons/FlagsAtlas256.dds</File>
+				<File>Art/Icons/FlagsAtlas32.dds</File>
+				<File>Art/Icons/FlagsAtlas45.dds</File>
+				<File>Art/Icons/FlagsAtlas48.dds</File>
+				<File>Art/Icons/FlagsAtlas50.dds</File>
+				<File>Art/Icons/FlagsAtlas55.dds</File>
+				<File>Art/Icons/FlagsAtlas64.dds</File>
+				<File>Art/Icons/FlagsAtlas80.dds</File>
+			</Items>
+		</ImportFiles>
+		<Icons id="YNAMP_BMC_ICONS">
+			<Items>
+				<File>Data/Icons.xml</File>
+			</Items>
+		</Icons>
+		<UpdateDatabase id="YNAMP_BMC_DEFAULT_COMPONENT">
+			<Items>
+				<File>Data/Tables.sql</File>
+			</Items>
+		</UpdateDatabase>
+		<UpdateDatabase id="YNAMP_BMC_POST_COMPONENTS">
+           	<Properties>
+				<LoadOrder>18100</LoadOrder>
+				<!-- Before despecialize -->
+           	</Properties>
+			<Items>
+				<File>Data/Civilization.sql</File>
+				<File>Data/CivilizationPost.xml</File>
+				<File>Data/TSL.xml</File>
+				<File>Data/PostData.sql</File>
+			</Items>
+		</UpdateDatabase>
+		<UpdateDatabase id="YNAMP_BMC_USER_CUSTOMIZATION">
+           	<Properties>
+				<LoadOrder>100600</LoadOrder>
+           	</Properties>
+			<Items>
+				<File>custom.sql</File>
+				<File>custom.xml</File>
+			</Items>
+		</UpdateDatabase>
+		<LocalizedText id="YNAMP_BMC_DEFAULT_LOC">
+           	<Properties>
+				<LoadOrder>100700</LoadOrder>
+           	</Properties>
+			<Items>
+				<File>Text/CivilizationsText.sql</File>
+			</Items>
+		</LocalizedText>
+	</Components>
+
+	<Settings>
+		<Custom id="YNAMP_BMC_SETTING">
+			<Items>
+				<File>Config/CivilizationsConfig.sql</File>
+			</Items>
+		</Custom>
+		<Custom id="YNAMP_BMC_POST_SETTING">
+           	<Properties>
+				<LoadOrder>100800</LoadOrder>
+           	</Properties>
+			<Items>
+				<File>Config/PostConfig.sql</File>
+			</Items>
+		</Custom>
+		<LocalizedText id="GCO_SETTING_LOC">
+			<Items>
+				<File>Text/CivilizationsText.sql</File>
+			</Items>
+		</LocalizedText>
+		<ImportFiles id="GCO_SETTING_IMPORT">
+			<Items>
+				<File>Art/PortraitBackground.dds</File>
+				<File>Art/Portrait.dds</File>
+				<File>Art/Icons/FlagsAtlas256.dds</File>
+				<File>Art/Icons/FlagsAtlas32.dds</File>
+				<File>Art/Icons/FlagsAtlas45.dds</File>
+				<File>Art/Icons/FlagsAtlas48.dds</File>
+				<File>Art/Icons/FlagsAtlas50.dds</File>
+				<File>Art/Icons/FlagsAtlas55.dds</File>
+				<File>Art/Icons/FlagsAtlas64.dds</File>
+				<File>Art/Icons/FlagsAtlas80.dds</File>
+			</Items>
+		</ImportFiles>
+		<Icons id="GCO_SETTING_ICONS">
+			<Items>
+				<File>Data/Icons.xml</File>
+			</Items>
+		</Icons>
+	</Settings>
+
+	<Files>
+		<File>Data/Tables.sql</File>
+		<File>Data/Icons.xml</File>
+		<File>Data/Civilization.sql</File>
+		<File>Data/CivilizationPost.xml</File>
+		<File>Data/TSL.xml</File>
+		<File>Data/PostData.sql</File>
+		<File>Text/CivilizationsText.sql</File>
+		<File>Config/CivilizationsConfig.sql</File>
+		<File>Config/PostConfig.sql</File>
+		<File>UI/CityBannerManager.lua</File>
+		<File>Art/dom_blank.dds</File>
+		<File>Art/AMERICA.dds</File>
+		<File>Art/CHINA.dds</File>
+		<File>Art/ENGLAND.dds</File>
+		<File>Art/FRANCE.dds</File>
+		<File>Art/GERMANY.dds</File>
+		<File>Art/GREECE.dds</File>
+		<File>Art/ITALY.dds</File>
+		<File>Art/JAPAN.dds</File>
+		<File>Art/RUSSIA.dds</File>
+		<File>Art/Icons/FlagsAtlas256.dds</File>
+		<File>Art/Icons/FlagsAtlas32.dds</File>
+		<File>Art/Icons/FlagsAtlas45.dds</File>
+		<File>Art/Icons/FlagsAtlas48.dds</File>
+		<File>Art/Icons/FlagsAtlas50.dds</File>
+		<File>Art/Icons/FlagsAtlas55.dds</File>
+		<File>Art/Icons/FlagsAtlas64.dds</File>
+		<File>Art/Icons/FlagsAtlas80.dds</File>
+	</Files>
+</Mod>
