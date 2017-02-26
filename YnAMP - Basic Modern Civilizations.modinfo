@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mod id="61bdd50b-fa31-4d5b-9171-e239cca827a2">
-  <Properties>
-    <Name>LOC_YNAMP_BMC_TITLE</Name>
-    <Teaser>LOC_YNAMP_BMC_TEASER</Teaser>
-    <Description>LOC_YNAMP_BMC_DESCRIPTION</Description>
-    <Authors>Gedemon</Authors>
-  </Properties>
+	<Properties>
+		<Name>LOC_YNAMP_BMC_TITLE</Name>
+		<Teaser>LOC_YNAMP_BMC_TEASER</Teaser>
+		<Description>LOC_YNAMP_BMC_DESCRIPTION</Description>
+		<Authors>Gedemon</Authors>
+	</Properties>
 
 	<LocalizedText>
 		<Text id="LOC_YNAMP_BMC_TITLE">
@@ -24,15 +24,56 @@
 			<Items>
 				<File>UI/CityBannerManager.lua</File>
 				<File>Art/dom_blank.dds</File>
-				<File>Art/AMERICA.dds</File>
-				<File>Art/CHINA.dds</File>
-				<File>Art/ENGLAND.dds</File>
-				<File>Art/FRANCE.dds</File>
-				<File>Art/GERMANY.dds</File>
-				<File>Art/GREECE.dds</File>
-				<File>Art/ITALY.dds</File>
-				<File>Art/JAPAN.dds</File>
-				<File>Art/RUSSIA.dds</File>
+				<File>Art/DIPLO_ALGERIA.dds</File>
+				<File>Art/DIPLO_AMERICA.dds</File>
+				<File>Art/DIPLO_ARABIA.dds</File>
+				<File>Art/DIPLO_ARGENTINA.dds</File>
+				<File>Art/DIPLO_AUSTRALIA.dds</File>
+				<File>Art/DIPLO_BRAZIL.dds</File>
+				<File>Art/DIPLO_CANADA.dds</File>
+				<File>Art/DIPLO_CHINA_PRC.dds</File>
+				<File>Art/DIPLO_CHINA_ROC.dds</File>
+				<File>Art/DIPLO_COLOMBIA.dds</File>
+				<File>Art/DIPLO_CUBA.dds</File>
+				<File>Art/DIPLO_EGYPT.dds</File>
+				<File>Art/DIPLO_ENGLAND.dds</File>
+				<File>Art/DIPLO_ETHIOPIA.dds</File>
+				<File>Art/DIPLO_FINLAND.dds</File>
+				<File>Art/DIPLO_FRANCE.dds</File>
+				<File>Art/DIPLO_GERMANY.dds</File>
+				<File>Art/DIPLO_GREECE.dds</File>
+				<File>Art/DIPLO_ICELAND.dds</File>
+				<File>Art/DIPLO_INDIA.dds</File>
+				<File>Art/DIPLO_INDONESIA.dds</File>
+				<File>Art/DIPLO_IRAN.dds</File>
+				<File>Art/DIPLO_IRAQ.dds</File>
+				<File>Art/DIPLO_IRELAND.dds</File>
+				<File>Art/DIPLO_ISRAEL.dds</File>
+				<File>Art/DIPLO_ITALY.dds</File>
+				<File>Art/DIPLO_JAPAN.dds</File>
+				<File>Art/DIPLO_KAZAKHSTAN.dds</File>
+				<File>Art/DIPLO_KONGO.dds</File>
+				<File>Art/DIPLO_LIBYA.dds</File>
+				<File>Art/DIPLO_MADAGASCAR.dds</File>
+				<File>Art/DIPLO_MALI.dds</File>
+				<File>Art/DIPLO_MEXICO.dds</File>
+				<File>Art/DIPLO_MONGOLIA.dds</File>
+				<File>Art/DIPLO_MOROCCO.dds</File>
+				<File>Art/DIPLO_NETHERLANDS.dds</File>
+				<File>Art/DIPLO_NEW_ZEALAND.dds</File>
+				<File>Art/DIPLO_NORTH_KOREA.dds</File>
+				<File>Art/DIPLO_NORWAY.dds</File>
+				<File>Art/DIPLO_POLAND.dds</File>
+				<File>Art/DIPLO_PORTUGAL.dds</File>
+				<File>Art/DIPLO_RUSSIA.dds</File>
+				<File>Art/DIPLO_SOUTH_AFRICA.dds</File>
+				<File>Art/DIPLO_SOUTH_KOREA.dds</File>
+				<File>Art/DIPLO_SPAIN.dds</File>
+				<File>Art/DIPLO_SWEDEN.dds</File>
+				<File>Art/DIPLO_THAILAND.dds</File>
+				<File>Art/DIPLO_TURKEY.dds</File>
+				<File>Art/DIPLO_UKRAINE.dds</File>
+				<File>Art/DIPLO_VIETNAM.dds</File>
 				<File>Art/Icons/FlagsAtlas256.dds</File>
 				<File>Art/Icons/FlagsAtlas32.dds</File>
 				<File>Art/Icons/FlagsAtlas45.dds</File>
@@ -74,6 +115,14 @@
 				<File>custom.xml</File>
 			</Items>
 		</UpdateDatabase>
+        <UserInterface>
+			<Properties>
+				<Context>InGame</Context>
+			</Properties>
+            <Items>
+				<File>InGame/ModInGame.xml</File>
+            </Items>
+        </UserInterface>
 		<LocalizedText id="YNAMP_BMC_DEFAULT_LOC">
            	<Properties>
 				<LoadOrder>100700</LoadOrder>
@@ -134,17 +183,60 @@
 		<File>Text/CivilizationsText.sql</File>
 		<File>Config/CivilizationsConfig.sql</File>
 		<File>Config/PostConfig.sql</File>
+		<File>InGame/ModInGame.xml</File>
+		<File>InGame/ModInGame.lua</File>
 		<File>UI/CityBannerManager.lua</File>
 		<File>Art/dom_blank.dds</File>
-		<File>Art/AMERICA.dds</File>
-		<File>Art/CHINA.dds</File>
-		<File>Art/ENGLAND.dds</File>
-		<File>Art/FRANCE.dds</File>
-		<File>Art/GERMANY.dds</File>
-		<File>Art/GREECE.dds</File>
-		<File>Art/ITALY.dds</File>
-		<File>Art/JAPAN.dds</File>
-		<File>Art/RUSSIA.dds</File>
+		<File>Art/DIPLO_ALGERIA.dds</File>
+		<File>Art/DIPLO_AMERICA.dds</File>
+		<File>Art/DIPLO_ARABIA.dds</File>
+		<File>Art/DIPLO_ARGENTINA.dds</File>
+		<File>Art/DIPLO_AUSTRALIA.dds</File>
+		<File>Art/DIPLO_BRAZIL.dds</File>
+		<File>Art/DIPLO_CANADA.dds</File>
+		<File>Art/DIPLO_CHINA_PRC.dds</File>
+		<File>Art/DIPLO_CHINA_ROC.dds</File>
+		<File>Art/DIPLO_COLOMBIA.dds</File>
+		<File>Art/DIPLO_CUBA.dds</File>
+		<File>Art/DIPLO_EGYPT.dds</File>
+		<File>Art/DIPLO_ENGLAND.dds</File>
+		<File>Art/DIPLO_ETHIOPIA.dds</File>
+		<File>Art/DIPLO_FINLAND.dds</File>
+		<File>Art/DIPLO_FRANCE.dds</File>
+		<File>Art/DIPLO_GERMANY.dds</File>
+		<File>Art/DIPLO_GREECE.dds</File>
+		<File>Art/DIPLO_ICELAND.dds</File>
+		<File>Art/DIPLO_INDIA.dds</File>
+		<File>Art/DIPLO_INDONESIA.dds</File>
+		<File>Art/DIPLO_IRAN.dds</File>
+		<File>Art/DIPLO_IRAQ.dds</File>
+		<File>Art/DIPLO_IRELAND.dds</File>
+		<File>Art/DIPLO_ISRAEL.dds</File>
+		<File>Art/DIPLO_ITALY.dds</File>
+		<File>Art/DIPLO_JAPAN.dds</File>
+		<File>Art/DIPLO_KAZAKHSTAN.dds</File>
+		<File>Art/DIPLO_KONGO.dds</File>
+		<File>Art/DIPLO_LIBYA.dds</File>
+		<File>Art/DIPLO_MADAGASCAR.dds</File>
+		<File>Art/DIPLO_MALI.dds</File>
+		<File>Art/DIPLO_MEXICO.dds</File>
+		<File>Art/DIPLO_MONGOLIA.dds</File>
+		<File>Art/DIPLO_MOROCCO.dds</File>
+		<File>Art/DIPLO_NETHERLANDS.dds</File>
+		<File>Art/DIPLO_NEW_ZEALAND.dds</File>
+		<File>Art/DIPLO_NORTH_KOREA.dds</File>
+		<File>Art/DIPLO_NORWAY.dds</File>
+		<File>Art/DIPLO_POLAND.dds</File>
+		<File>Art/DIPLO_PORTUGAL.dds</File>
+		<File>Art/DIPLO_RUSSIA.dds</File>
+		<File>Art/DIPLO_SOUTH_AFRICA.dds</File>
+		<File>Art/DIPLO_SOUTH_KOREA.dds</File>
+		<File>Art/DIPLO_SPAIN.dds</File>
+		<File>Art/DIPLO_SWEDEN.dds</File>
+		<File>Art/DIPLO_THAILAND.dds</File>
+		<File>Art/DIPLO_TURKEY.dds</File>
+		<File>Art/DIPLO_UKRAINE.dds</File>
+		<File>Art/DIPLO_VIETNAM.dds</File>
 		<File>Art/Icons/FlagsAtlas256.dds</File>
 		<File>Art/Icons/FlagsAtlas32.dds</File>
 		<File>Art/Icons/FlagsAtlas45.dds</File>

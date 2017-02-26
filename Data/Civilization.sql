@@ -136,12 +136,12 @@ INSERT OR REPLACE INTO LeaderTraits (LeaderType, TraitType)
 	
 -- <LoadingInfo>
 INSERT OR REPLACE INTO LoadingInfo (LeaderType, ForegroundImage, BackgroundImage, EraText, PlayDawnOfManAudio)
-	SELECT	'LEADER_' || Name, 'dom_blank.dds', Name || '.dds', ' ', 0 -- 'LOC_CIVILIZATION_' || Name || '_ERA_TEXT'
+	SELECT	'LEADER_' || Name, 'dom_blank.dds', 'LOADING_' || Name || '.dds', ' ', 0 -- 'LOC_CIVILIZATION_' || Name || '_ERA_TEXT'
 	FROM CivilizationConfiguration;
 	
 -- <DiplomacyInfo>
 INSERT OR REPLACE INTO DiplomacyInfo (Type, BackgroundImage)
-	SELECT	'LEADER_' || Name, Name || '.dds'
+	SELECT	'LEADER_' || Name, 'DIPLO_' || Name || '.dds'
 	FROM CivilizationConfiguration;
 
 	

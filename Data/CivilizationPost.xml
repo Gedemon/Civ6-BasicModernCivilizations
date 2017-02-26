@@ -225,7 +225,6 @@
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_MARSEILLE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_TOULOUSE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_LA_ROCHELLE"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_AMBOISE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_NANTES"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_RENNES"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_CALAIS"/>
@@ -238,19 +237,12 @@
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_CHARTRES"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_BLOIS"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_TOURS"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_VERDUN"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_GRENOBLE"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_JARNAC"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_AMIENS"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_TROYES"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_DIEPPE"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_TOUL"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_BRIANCON"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_METZ"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_MONTELIMAR"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_CARCASSONNE"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_GAP"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_ALBA_LA_ROMAINE"/>
 	</CityNames>
 	<CityNames>		<!-- Germany -->
 		<Replace CivilizationType="CIVILIZATION_GERMANY" CityName="LOC_CITY_NAME_BERLIN"/>
@@ -355,35 +347,16 @@
 	</CityNames>
 	<CityNames>		<!-- Italy -->
 		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_ROME"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_OSTIA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_ANTIUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_CUMAE"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_AQUILEIA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_RAVENNA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_PUTEOLI"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_ARRETIUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_MEDIOLANUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_LUGDUNUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_ARPINUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_SETIA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_VELITRAE"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_DUROCORTORUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_BRUNDISIUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_CAESARAUGUSTA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_PALMYRA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_HISPALIS"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_CAESAREA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_ARTAXATA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_PAPHOS"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_SALONAE"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_EBURACUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_LAURIACUM"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_VERONA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_COLONIA_AGRIPPINA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_NARBO"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_TINGI"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_SARMIZEGETUSA"/>
-		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_SIRMIUM"/>		
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_MILAN"/> 		
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_NAPLES"/> 	
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_TURIN"/> 		
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_PALERMO"/> 	
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_GENOA"/> 		
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_BOLOGNA"/> 	
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_FLORENCE"/> 	
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_BARI"/> 		
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_CATANIA"/> 	
+		<Replace CivilizationType="CIVILIZATION_ITALY" CityName="LOC_CITY_NAME_VENICE"/> 	
 	</CityNames>
 	<CityNames>		<!-- Japan-->
 		<Replace CivilizationType="CIVILIZATION_JAPAN" CityName="LOC_CITY_NAME_KYOTO"/>
