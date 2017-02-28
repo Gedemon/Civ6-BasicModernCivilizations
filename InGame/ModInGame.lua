@@ -10,6 +10,8 @@
 
 function HideLeaderHead()
 	ContextPtr:LookUpControl("/InGame/DiplomacyActionView/LeaderAnchor"):SetHide(true)
+	ContextPtr:LookUpControl("/InGame/LeaderScene/TopLetterbox"):SetHide(true)
+	ContextPtr:LookUpControl("/InGame/LeaderScene/BottomLetterbox"):SetHide(true)
 end
 
 function OnEnterGame()

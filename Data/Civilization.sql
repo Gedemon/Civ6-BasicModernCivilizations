@@ -69,7 +69,7 @@ INSERT INTO CivilizationConfiguration
 (	'MOROCCO',		'RED',				'DARK_GREEN',			'RED',			'MEDIT',	'RABAT',		'Morocco',		'Moroccan',		'Moroccan Empire',			'Moroccan Governement'		),
 (	'LIBYA',		'GREEN',			'BLACK',				'WHITE',		'MEDIT',	'TRIPOLI',		'Libya',		'Libyan',		'Libyan Empire',			'Libyan Governement'		),
 (	'IRAN',			'LIGHT_GREEN',		'RED',					'WHITE',		'MEDIT',	'TEHRAN',		'Iran',			'Iranian',		'Iranian Empire',			'Iranian Governement'		),
-(	'IRAQ',			'DARK_GRAY',		'RED',					'WHITE',		'MEDIT',	'BAGDAD',		'Iraq',			'Iraqi',		'Iraqi Empire',				'Iraqi Governement'			),
+(	'IRAQ',			'DARK_GRAY',		'RED',					'WHITE',		'MEDIT',	'BAGHDAD',		'Iraq',			'Iraqi',		'Iraqi Empire',				'Iraqi Governement'			),
 (	'VIETNAM',		'YELLOW',			'PALE_RED',				'RED',			'ASIAN',	'HANOI',		'Vietnam',		'Vietnamese',	'Vietnamese Empire',		'Vietnamese Governement'	),
 (	'NORTH_KOREA',	'RED',				'MIDDLE_BLUE',			'WHITE',		'ASIAN',	'PYONGYANG',	'North Korea',	'North Korean',	'DPR of Korea',				'North Korean Governement'	),
 (	'SOUTH_KOREA',	'BLUE',				'RED',					'WHITE',		'ASIAN',	'SEOUL',		'South Korea',	'South Korean',	'Republic of Korea',		'South Korean Governement'	),
