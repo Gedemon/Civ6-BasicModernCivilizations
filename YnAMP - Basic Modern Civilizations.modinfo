@@ -179,6 +179,7 @@
            	</Properties>
 			<Items>
 				<File>Text/CivilizationsText.sql</File>
+				<File>Text/GameText.xml</File>
 			</Items>
 		</LocalizedText>
 	</Components>
@@ -231,6 +232,7 @@
 		<File>Data/TSL.xml</File>
 		<File>Data/PostData.sql</File>
 		<File>Text/CivilizationsText.sql</File>
+		<File>Text/GameText.xml</File>
 		<File>Config/CivilizationsConfig.sql</File>
 		<File>Config/PostConfig.sql</File>
 		<File>InGame/ModInGame.xml</File>

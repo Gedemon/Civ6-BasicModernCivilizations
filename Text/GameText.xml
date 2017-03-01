@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	
-	<!-- Italy -->
-	<LocalizedText> 
+
+    <LocalizedText>		<!-- Canada -->
+		<Replace Tag="LOC_CITY_NAME_OTTAWA"             Text="Ottawa"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TORONTO"             Text="Toronto"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MONTREAL"         Text="Montréal"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VANCOUVER"             Text="Vancouver"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CALGARY"         Text="Calgary"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_EDMONTON"             Text="Edmonton"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_QUEBEC"         Text="Québec"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_WINNIPEG"         Text="Winnipeg"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HALIFAX"             Text="Halifax"            Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HAMILTON"         Text="Hamilton"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LONDONCDN"         Text="London"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VICTORIACDN"         Text="Victoria"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SASKATOON"         Text="Saskatoon"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KITCHENER"         Text="Kitchener"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_REGINA"         Text="Regina"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SAINTJOHNS"         Text="Saint John’s"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KELOWNA"         Text="Kelowna"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NIAGARA"         Text="Niagara"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SHERBROOKE"         Text="Sherbrooke"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SAGUENAY"         Text="Saguenay"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_THUNDERBAY"         Text="Thunder Bay"        Language="en_US" />
+    </LocalizedText>
+	<LocalizedText> 	<!-- Italy -->
 		<Replace Tag="LOC_CITY_NAME_MILAN" 			Text="Milan"		Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_NAPLES" 		Text="Naples"		Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_TURIN" 			Text="Turin"		Language="en_US" />
