@@ -340,19 +340,19 @@
 		<Replace Tag="LOC_CITY_NAME_VENICE" 		Text="Venice"		Language="en_US" />
 	</LocalizedText> 
     <LocalizedText>		<!-- Kazakhstan -->
-        <Replace Tag="LOC_CITY_NAME_ASTANA             Text="Astana"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_ALMATY"             Text="Almaty"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SHYMKENT"         Text="Shymkent"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KARAGANDY"             Text="Karagandy"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_TARAZ"         Text="Taraz"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_PAVLODAR"         Text="Pavlodar"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_OSKEMEN"         Text="Oskemen"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_AKTOBE"         Text="Aktobe"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_ORAL"             Text="Oral"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KOSTANAY"         Text="Kostanay"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_PETROPAVL"         Text="Petropavl"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KYZYLORDA"         Text="Kyzylorda"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_AKTAU"         Text="Aktau"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ASTANA"		Text="Astana"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ALMATY"		Text="Almaty"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SHYMKENT"	Text="Shymkent"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KARAGANDY"	Text="Karagandy"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TARAZ"		Text="Taraz"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_PAVLODAR"	Text="Pavlodar"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_OSKEMEN"	Text="Oskemen"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_AKTOBE"		Text="Aktobe"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ORAL"		Text="Oral"			Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KOSTANAY"	Text="Kostanay"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_PETROPAVL"	Text="Petropavl"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KYZYLORDA"	Text="Kyzylorda"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_AKTAU"		Text="Aktau"		Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Libya -->
         <Replace Tag="LOC_CITY_NAME_TRIPOLI"             Text="Tripoli"        Language="en_US" />
@@ -398,7 +398,7 @@
         <Replace Tag="LOC_CITY_NAME_MERIDA"             Text="Merida"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Mongolia -->
-        <Replace Tag="LOC_CITY_NAME_ULANBAATAR"             Text="Ulanbaatar"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ULAANBAATAR"             Text="Ulaanbaatar"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_DARKHAN"             Text="Darkhan"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_ERDENET"         Text="Erdenet"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_CHOIBALSAN"             Text="Choibalsan"        Language="en_US" />
@@ -515,14 +515,14 @@
         <Replace Tag="LOC_CITY_NAME_BLOEMFONTEIN"         Text="Bloemfontein"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- South Korea -->
-        <Replace Tag="LOC_CITY_NAME_SEOUL"             Text="Seoul"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_BUSAN"             Text="Busan"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_INCHEON"         Text="Incheon"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_DAEGU"             Text="Daegu"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_DAEJEON"         Text="Daejeon"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_GWANGJU"         Text="Gwangju"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_ULSAN"         Text="Ulsan"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SUWON"         Text="Suwon"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SEOUL"		Text="Seoul"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BUSAN"		Text="Busan"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_INCHEON"	Text="Incheon"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DAEGU"		Text="Daegu"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DAEJEON"	Text="Daejeon"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GWANGJU"	Text="Gwangju"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ULSAN"		Text="Ulsan"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SUWON"		Text="Suwon"	Language="en_US" />
     </LocalizedText>
     <LocalizedText>   	<!-- Vietnam -->
        <Replace Tag="LOC_CITY_NAME_HANOI"				Text="Hanoi"			Language="en_US" />

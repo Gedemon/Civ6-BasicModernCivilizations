@@ -26,7 +26,7 @@ CREATE TABLE CivilizationConfiguration
 	);
 
 -----------------------------------------------
--- Fill the initialization table LOC_CITY_NAME_KINCHASSA
+-- Fill the initialization table
 -----------------------------------------------
 INSERT INTO CivilizationConfiguration
 (	Name,			PrimaryColor,		SecondaryColor,			TextColor,		Ethnicity,	CapitalName,	en_US_Name,			en_US_Adj,		en_US_Desc,								Leader_en_US ) VALUES

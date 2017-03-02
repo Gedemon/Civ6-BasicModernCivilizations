@@ -478,7 +478,7 @@
         <Replace CivilizationType="CIVILIZATION_MEXICO" CityName="LOC_CITY_NAME_MERIDA"/>
     </CityNames>
     <CityNames>     <!-- Mongolia -->
-        <Replace CivilizationType="CIVILIZATION_MONGOLIA" CityName="LOC_CITY_NAME_ULANBAATAR"/>
+        <Replace CivilizationType="CIVILIZATION_MONGOLIA" CityName="LOC_CITY_NAME_ULAANBAATAR"/>
         <Replace CivilizationType="CIVILIZATION_MONGOLIA" CityName="LOC_CITY_NAME_DARKHAN"/>
         <Replace CivilizationType="CIVILIZATION_MONGOLIA" CityName="LOC_CITY_NAME_ERDENET"/>
         <Replace CivilizationType="CIVILIZATION_MONGOLIA" CityName="LOC_CITY_NAME_CHOIBALSAN"/>

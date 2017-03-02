@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<!-- Giant Earth -->
+	<ExtraPlacement>
+		<!-- Around Riyadh TSL -->
+		<Replace MapName="GiantEarth" X="39" Y="43" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="GiantEarth" X="40" Y="45" FeatureType="FEATURE_OASIS" />
+		<Replace MapName="GiantEarth" X="39" Y="44" FeatureType="FEATURE_OASIS" />
+		<Replace MapName="GiantEarth" X="40" Y="43" FeatureType="FEATURE_OASIS" />
+		<Replace MapName="GiantEarth" X="39" Y="45" ResourceType="RESOURCE_STONE" />
+	</ExtraPlacement>
+	
 	<StartPosition>
-
+		<Delete />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AMERICA"		X="155" Y="64" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ARABIA"		X="40" Y="44" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ALGERIA"		X="13" Y="52" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ARGENTINA"		X="159" Y="15" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AUSTRALIA"		X="101" Y="9" />
@@ -11,10 +22,16 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CHINA_PRC"		X="82" Y="65" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CHINA_ROC"		X="87" Y="49" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_COLOMBIA"		X="152" Y="37" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CONGO"			X="21" Y="26" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CUBA" 			X="149" Y="51" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_EGYPT"			X="30" Y="48" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ETHIOPIA" 		X="34" Y="34" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_FINLAND"		X="28" Y="79" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_FRANCE"		X="13" Y="67" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_GERMANY"		X="22" Y="71" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_GREECE"		X="28" Y="56" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ICELAND"		X="1" Y="83" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_INDIA"			X="61" Y="52" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_INDONESIA"		X="80" Y="26" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_IRAN"			X="46" Y="55" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_IRAQ"			X="41" Y="52" />
@@ -33,14 +50,17 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NEW_ZEALAND"	X="113" Y="8" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NORTH_KOREA"	X="88" Y="65" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NORWAY"		X="20" Y="80" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PERSIA"		X="47" Y="51" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_POLAND"		X="26" Y="71" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PORTUGAL"		X="4" Y="56" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_RUSSIA"		X="36" Y="74" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SPAIN"			X="7" Y="57" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SOUTH_AFRICA"	X="26" Y="7" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SOUTH_KOREA"	X="89" Y="61" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SWEDEN"		X="24" Y="79" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SWITZERLAND"	X="17" Y="65" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_THAILAND"		X="75" Y="40" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_TURKEY"		X="34" Y="58" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_UK"			X="12" Y="72" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_UKRAINE"		X="34" Y="68" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_VIETNAM"		X="77" Y="46" />
 
