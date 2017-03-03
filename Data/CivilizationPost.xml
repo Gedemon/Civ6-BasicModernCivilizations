@@ -89,40 +89,60 @@
     </CityNames>
     <CityNames>     <!-- Australia -->
         <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_CANBERRA"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_SYDNEY"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_MELBOURNE"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_BRISBANE"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_PERTH"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_ADELAIDE"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_GOLD_COAST"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_NEWCASTLE_MAITLAND"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_SUNSHINE_COAST"/>
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_SYDNEY"/>  
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_MELBOURNE"/>   
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_BRISBANE"/>       
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_PERTH"/>   
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_ADELAIDE"/>       
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_GOLD_COAST"/>   
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_NEWCASTLE"/>   
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_SUNSHINE_COAST"/>   
         <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_WOLLONGONG"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_HOBART"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_GEELONG"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_TOWNSVILLE"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_CAIRNS"/>
-        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_DARWIN"/>
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_HOBART"/>  
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_GEELONG"/>       
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_TOWNSVILLE"/>   
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_CAIRNS"/>   
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_DARWIN"/>   
         <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_TOOWOMBA"/>
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_BALLARAT"/>
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_BENDIGO"/> 
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_LAUNCESTON"/>     
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_MACKAY"/>   
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_KARRATHA"/>
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_BROOME"/>         
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_ALICE_SPRINGS"/>     
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_COOBER_PEDY"/>         
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_KUNUNURRA"/>     
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_NAME_MOUNT_ISA"/>
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_BOULDER"/>
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_LONGREACH"/>
+        <Replace CivilizationType="CIVILIZATION_AUSTRALIA" CityName="LOC_CITY_GERALDTON"/>		
     </CityNames>
 	<CityNames>		<!-- Brazil -->
         <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_BRASILIA"/>
         <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_SAO_PAULO"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_RIO_DE_JANEIRO"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_BELO_HORIZONTE"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_PORTO_ALEGRE"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_FORTALEZA"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_SALVADOR"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_RECIFE"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_CURITIBA"/>
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_RIO_DE_JANEIRO"/>    
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_BELO_HORIZONTE"/>    
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_SALVADOR"/>    
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_PORTO_ALEGRE"/>    
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_FORTALEZA"/>        
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_MANAUS"/>        
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_RECIFE"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_CURITIBA"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_BELEM"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_GOIANIA"/>                
         <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_CAMPINAS"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_MANAUS"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_VALE_DO_PARAIBA"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_GOIANIA"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_BELEM"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_VITORIA"/>
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_VITORIA"/>    
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_SAO_LUIS"/>
         <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_SOROCABA"/>
-        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_BAIXADA_SANTISTA"/>
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_MACEIO"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_NATAL"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_CAMPO_GRANDE"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_TERESINA"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_CUIABA"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_PORTO_VELHO"/>  
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_RIO_BRANCO"/>    
+        <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_BOA_VISTA"/>
     </CityNames>
     <CityNames>   	<!-- Canada -->
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_OTTAWA"/>
@@ -669,7 +689,41 @@
 		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BADALONA"/>
 		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BURGOS"/>
 		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_GIJON"/>
-	</CityNames>
+	</CityNames>	
+    <CityNames>     <!-- Sweden -->
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_STOCKHOLM"/>   
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_GOTHENBURG"/>   
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_MALMO"/>     
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_OREBRO"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_LINKOPING"/>     
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_JONKOPING"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_GAVLE"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_SUNDSVALL"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_SKELLEFTEA"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_LULEA"/>
+    </CityNames> 
+    <CityNames>     <!-- Thailand -->
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_BANGKOK"/>    
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_NONTHABURI"/>    
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_NAKHON_RATCHASIMA"/>      
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_CHIANG_MAI"/>
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_HAT_YAI"/>      
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_UDON_THANI"/>
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_KHON_KAEN"/>
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_UBON_RATCHATHANI"/>
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_PHUKET"/>
+        <Replace CivilizationType="CIVILIZATION_THAILAND" CityName="LOC_CITY_NAME_NAKHON_SAWAN"/>
+    </CityNames> 
+    <CityNames>   	<!-- Turkey -->
+        <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_ANKARA"/> 
+        <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_ISTANBUL"/> 
+        <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_IZMIR"/>   
+        <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_BURSA"/>
+        <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_ADANA"/>   
+        <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_GAZIANTEP"/>
+        <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_SAMSUN"/>
+        <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_MALATYA"/>
+    </CityNames>
 	<CityNames>		<!-- U.K. -->
 		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LONDON"/>
 		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LIVERPOOL"/>
@@ -705,6 +759,16 @@
 		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_SHREWSBURY"/>
 		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_CAMBRIDGE"/>
 	</CityNames>
+    <CityNames>     <!-- Ukraine -->
+        <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_KIEV"/>   
+        <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_KHARKIV"/>   
+        <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_DNIPRO"/>     
+        <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_ODESSA"/>
+        <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_DONETSK"/>     
+        <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_ZAPORIZHIA"/>
+        <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_LVIV"/>
+        <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_SEVASTOPOL"/>
+    </CityNames>
     <CityNames>     <!-- Vietnam -->
        <Replace CivilizationType="CIVILIZATION_VIETNAM" CityName="LOC_CITY_NAME_HANOI"/>
        <Replace CivilizationType="CIVILIZATION_VIETNAM" CityName="LOC_CITY_NAME_HO_CHI_MINH_CITY"/>

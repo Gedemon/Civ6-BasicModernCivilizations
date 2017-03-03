@@ -92,16 +92,16 @@ DELETE from CivilizationsTextsConfiguration WHERE Name ='END_OF_INSERT';
 -----------------------------------------------
 
 -- <LocalizedText>
-INSERT OR IGNORE INTO LocalizedText (Tag, Text, Language)
+REPLACE INTO LocalizedText (Tag, Text, Language)
 	SELECT	'LOC_CIVILIZATION_' || Name || '_NAME', en_US_Name, 'en_US'
 	FROM CivilizationsTextsConfiguration;
-INSERT OR IGNORE INTO LocalizedText (Tag, Text, Language)
+REPLACE INTO LocalizedText (Tag, Text, Language)
 	SELECT	'LOC_CIVILIZATION_' || Name || '_ADJECTIVE', en_US_Adj, 'en_US'
 	FROM CivilizationsTextsConfiguration;
-INSERT OR IGNORE INTO LocalizedText (Tag, Text, Language)
+REPLACE INTO LocalizedText (Tag, Text, Language)
 	SELECT	'LOC_CIVILIZATION_' || Name || '_DESCRIPTION', en_US_Desc, 'en_US'
 	FROM CivilizationsTextsConfiguration;
-INSERT OR IGNORE INTO LocalizedText (Tag, Text, Language)
+REPLACE INTO LocalizedText (Tag, Text, Language)
 	SELECT	'LOC_LEADER_' || Name || '_NAME', Leader_en_US, 'en_US'
 	FROM CivilizationsTextsConfiguration;
 	
