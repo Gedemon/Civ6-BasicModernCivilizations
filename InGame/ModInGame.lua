@@ -20,6 +20,8 @@ function OnEnterGame()
 	ContextPtr:LookUpControl("/InGame/DiplomacyActionView/LeaderAnchor"):RegisterWhenShown(HideLeaderHead)
 	Options.SetGraphicsOption("Leaders", "Quality", 0)
 	Options.ApplyGraphicsOptions()
+	ContextPtr:LookUpControl("/InGame/LeaderScene/TopLetterbox"):SetHide(true)
+	ContextPtr:LookUpControl("/InGame/LeaderScene/BottomLetterbox"):SetHide(true)
 end
 Events.LoadScreenClose.Add(OnEnterGame)
 

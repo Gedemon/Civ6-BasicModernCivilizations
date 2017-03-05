@@ -492,14 +492,24 @@
     <LocalizedText>		<!-- Norway -->
         <Replace Tag="LOC_CITY_NAME_OSLO"             Text="Oslo"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_BERGEN"             Text="Bergen"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_STAVENGER"         Text="Stavenger"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_STAVANGER"         Text="Stavanger"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_TRONDHEIM"             Text="Trondheim"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_DRAMMEN"         Text="Drammen"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_FREDRIKSTAD"         Text="Fredrikstad"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_PORSGRUNN"         Text="Porsgrunn"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_KRISTIANSAND"         Text="Kristiansand"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_ALESUND"         Text="Alesund"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_TONSBERG"         Text="Tonsberg"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ALESUND"         Text="Ålesund"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TONSBERG"         Text="Tønsberg"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MOSS"         Text="Moss"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NARVIK"         Text="Narvik"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VARDO"         Text="Vardø"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ARENDAL"         Text="Arendal"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BODO"         Text="Bodø"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TROMSO"         Text="Tromsø"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HAMAR"         Text="Hamar"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HARSTAD"         Text="Harstad"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MOLDE"         Text="Molde"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ALTA"         Text="Alta"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Poland -->
         <Replace Tag="LOC_CITY_NAME_WARSAW"             Text="Warsaw"        Language="en_US" />
