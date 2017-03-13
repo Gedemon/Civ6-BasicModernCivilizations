@@ -52,7 +52,7 @@
 				<File>Art/DIPLO_ITALY.dds</File>
 				<File>Art/DIPLO_JAPAN.dds</File>
 				<File>Art/DIPLO_KAZAKHSTAN.dds</File>
-				<File>Art/DIPLO_KONGO.dds</File>
+				<File>Art/DIPLO_CONGO.dds</File>
 				<File>Art/DIPLO_LIBYA.dds</File>
 				<File>Art/DIPLO_MADAGASCAR.dds</File>
 				<File>Art/DIPLO_MALI.dds</File>
@@ -102,7 +102,7 @@
 				<File>Art/LOADING_ITALY.dds</File>
 				<File>Art/LOADING_JAPAN.dds</File>
 				<File>Art/LOADING_KAZAKHSTAN.dds</File>
-				<File>Art/LOADING_KONGO.dds</File>
+				<File>Art/LOADING_CONGO.dds</File>
 				<File>Art/LOADING_LIBYA.dds</File>
 				<File>Art/LOADING_MADAGASCAR.dds</File>
 				<File>Art/LOADING_MALI.dds</File>
@@ -267,7 +267,7 @@
 		<File>Art/DIPLO_ITALY.dds</File>
 		<File>Art/DIPLO_JAPAN.dds</File>
 		<File>Art/DIPLO_KAZAKHSTAN.dds</File>
-		<File>Art/DIPLO_KONGO.dds</File>
+		<File>Art/DIPLO_CONGO.dds</File>
 		<File>Art/DIPLO_LIBYA.dds</File>
 		<File>Art/DIPLO_MADAGASCAR.dds</File>
 		<File>Art/DIPLO_MALI.dds</File>
@@ -317,7 +317,7 @@
 		<File>Art/LOADING_ITALY.dds</File>
 		<File>Art/LOADING_JAPAN.dds</File>
 		<File>Art/LOADING_KAZAKHSTAN.dds</File>
-		<File>Art/LOADING_KONGO.dds</File>
+		<File>Art/LOADING_CONGO.dds</File>
 		<File>Art/LOADING_LIBYA.dds</File>
 		<File>Art/LOADING_MADAGASCAR.dds</File>
 		<File>Art/LOADING_MALI.dds</File>
