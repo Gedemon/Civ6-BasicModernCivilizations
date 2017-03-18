@@ -169,16 +169,16 @@
     </CityNames>
 	<CityNames>		<!-- China PRC -->
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_BEIJING"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_GUANGZHOU"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_GUANGZHOU"/>    
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_SHANGHAI"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_CHONGQING"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_HANZHOU"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_CHONGQING"/>    
+        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_HANGZHOU"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_WUHAN"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_CHENGDU"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_TIANJIN"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_XIAN"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_JINAN"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_NANJING"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_NANJING"/>    
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_SHENYANG"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_HARBIN"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_SHANTOU"/>
@@ -186,14 +186,32 @@
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_QINGDAO"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_CHANGSHA"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_HONG_KONG"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_FOSHAN"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_CHANGCHUN"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_URUMQI"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_LHASA"/>
     </CityNames>
     <CityNames>     <!-- China ROC -->
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAIPEI"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_KAOHSIUNG"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAICHUNG"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAICHUNG"/>    
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAOYUAN"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_NEW_TAIPEI"/>    
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAINAN"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_HSINCHU"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_HSINCHU"/>              
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_KEELUNG"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_CHIAYI"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_CHANGHUA_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_PINGTUNG_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_YUANLIN"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_ZHUBEI"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_HUALIEN_CITY"/>      
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAITUNG_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_NANTOU_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_DOULIU"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TOUFEN"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_YILAN_CITY"/>
+     <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_MIAOLI_CITY"/>
     </CityNames>
     <CityNames>     <!-- Colombia -->
         <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_BOGOTA"/>
@@ -209,7 +227,7 @@
 	<CityNames>		<!-- Congo -->
         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KINSHASA"/>
         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_LUBUMBASHI"/>
-        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MBUJI-MAYI"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MBUJI_MAYI"/>
         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BUKAVU"/>
         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KANANGA"/>
         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KISANGANI"/>
@@ -279,7 +297,7 @@
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_RENNES"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_REIMS"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_LEHAVRE"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_SAINT-ETIENNE"/>
+		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_SAINT_ETIENNE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_TOULON"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_GRENOBLE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_DIJON"/>
@@ -669,37 +687,27 @@
         <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_SUWON"/>
     </CityNames>
 	<CityNames>		<!-- Spain -->
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_MADRID"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SEVILLE"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BARCELONA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_TOLEDO"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_CORDOBA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_VALENCIA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_ZARAGOZA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_VALLADOLID"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BILBAO"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_A_CORUNA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_CARTAGENA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_CADIZ"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SALAMANCA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_LAS_PALMAS"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_MURCIA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_PAMPLONA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_VIGO"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_ORAN"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_VITORIA_GASTEIZ"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_OVIEDO"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_MALAGA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_HAVANA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_JAEN"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_MANILA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SANTANDER"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_ALMERIA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_ALICANTE"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BADALONA"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BURGOS"/>
-		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_GIJON"/>
-	</CityNames>	
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_MADRID"/>
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BARCELONA"/>     
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_VALENCIA"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SEVILLE"/>       
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BILBAO"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_MALAGA"/>       
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_ZARAGOZA"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_MURCIA"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_GIJON"/>       
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_PALMA"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_ALICANTE"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_LAS_PALMAS"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_VIGO"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_VALLADOLID"/>
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_GRANADA"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_CADIZ"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SANTA_CRUZ_DE_TENERIFE"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_A_CORUNA"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_TARRAGONA"/>   
+        <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SAN_SEBASTIAN"/>   
+    </CityNames>
     <CityNames>     <!-- Sweden -->
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_STOCKHOLM"/>   
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_GOTHENBURG"/>   
@@ -735,40 +743,28 @@
         <Replace CivilizationType="CIVILIZATION_TURKEY" CityName="LOC_CITY_NAME_MALATYA"/>
     </CityNames>
 	<CityNames>		<!-- U.K. -->
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LONDON"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LIVERPOOL"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_MANCHESTER"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BIRMINGHAM"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LEEDS"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_SHEFFIELD"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BRISTOL"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_PLYMOUTH"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_NEWCASTLE"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BRADFORD"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_STOKE_UPON_TRENT"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_HULL"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_PORTSMOUTH"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_PRESTON"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_SUNDERLAND"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BRIGHTON"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_NORWICH"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_NOTTINGHAM"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_YORK"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LEICESTER"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BLACKBURN"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_WOLVERHAMPTON"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BATH"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_COVENTRY"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_EXETER"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LINCOLN"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_CANTERBURY"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_IPSWICH"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_DOVER"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_HASTINGS"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_OXFORD"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_SHREWSBURY"/>
-		<Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_CAMBRIDGE"/>
-	</CityNames>
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LONDON"/>
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_MANCHESTER"/>     
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BIRMINGHAM"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_GLASGOW"/>       
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LEEDS"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LIVERPOOL"/>       
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_NEWCASTLE_UK"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_NOTTINGHAM"/>       
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BELFAST"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_SHEFFIELD"/>
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_SOUTHHAMPTON"/>     
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_CARDIFF"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BRISTOL"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_EDINBURGH"/>
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LEICESTER"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BRADFORD"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_DERRY"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BRIGHTON"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_MIDDLESBROUGH"/>   
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_ABERDEEN"/>
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_PLYMOUTH"/>     
+    </CityNames>
     <CityNames>     <!-- Ukraine -->
         <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_KIEV"/>   
         <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_KHARKIV"/>   

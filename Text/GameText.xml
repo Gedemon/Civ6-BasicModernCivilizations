@@ -124,32 +124,50 @@
         <Replace Tag="LOC_CITY_NAME_THUNDERBAY"		Text="Thunder Bay"	Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- China (PRC) -->
-        <Replace Tag="LOC_CITY_NAME_BEIJING"	Text="Beijing"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_GUANGZHOU"	Text="Guangzhou"	Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SHANGHAI"	Text="Shanghai"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_CHONGQING"	Text="Chongqing"	Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_HANZHOU"	Text="Hanzhou"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_WUHAN"		Text="Wuhan"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_CHENGDU"	Text="Chengdu"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_TIANJIN"	Text="Tianjin"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_XIAN"		Text="Xian"			Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_JINAN"		Text="Jinan"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_NANJING"	Text="Nanjing"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SHENYANG"	Text="Shenyang"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_HARBIN"		Text="Harbin"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SHANTOU"	Text="Shantou"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_WENZHOU"	Text="Wenzhou"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_QINGDAO"	Text="Qingdao"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_CHANGSHA"	Text="Changsha"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_HONG_KONG"	Text="Hong Kong"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BEIJING"             Text="Beijing"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GUANGZHOU"         Text="Guangzhou"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SHANGHAI"             Text="Shanghai"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CHONGQING"         Text="Chongqing"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HANGZHOU"             Text="Hangzhou"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_WUHAN"         Text="Wuhan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CHENGDU"         Text="Chengdu"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TIANJIN"             Text="Tianjin"            Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_XIAN"         Text="Xian"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_JINAN"         Text="Jinan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NANJING"             Text="Nanjing"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SHENYANG"         Text="Shenyang"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HARBIN"             Text="Harbin"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SHANTOU"         Text="Shantou"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_WENZHOU"             Text="Wenzhou"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_QINGDAO"         Text="Qingdao"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CHANGSHA"         Text="Changsha"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HONG_KONG"         Text="Hong Kong"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_FOSHAN"         Text="Foshan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CHANGCHUN"         Text="Changchun"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_URUMQI"         Text="Ürümqi"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LHASA"         Text="Lhasa"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- China (ROC) -->
-        <Replace Tag="LOC_CITY_NAME_TAIPEI"		Text="Taipei"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KAOHSIUNG"	Text="Kaohsiung"	Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_TAICHUNG"	Text="Taichung"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_TAOYUAN"	Text="Taoyuan"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_TAINAN"		Text="Tainan"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_HSINCHU"	Text="Hsinchu"		Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TAIPEI"             Text="Taipei"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KAOHSIUNG"             Text="Kaohsiung"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TAICHUNG"         Text="Taichung"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TAOYUAN"             Text="Taoyuan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NEW_TAIPEI"         Text="New Taipei"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TAINAN"         Text="Tainan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HSINCHU"         Text="Hsinchu"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KEELUNG"         Text="Keelung"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CHIAYI"             Text="Chiayi"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CHANGHUA_CITY"         Text="Changhua City"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_PINGTUNG_CITY"         Text="Pingtung City"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_YUANLIN"         Text="Yuanlin"        Language="en_US" />
+       <Replace Tag="LOC_CITY_NAME_ZHUBEI"         Text="Zhubei"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HUALIEN_CITY"             Text="Hualien City"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TAITUNG_CITY"         Text="Taitung City"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NANTOU_CITY"         Text="Nantou City"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DOULIU"             Text="Douliu"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TOUFEN"         Text="Toufen"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_YILAN_CITY"         Text="Yilan City"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MIAOLI_CITY"        Text="Miaoli City"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Colombia -->
         <Replace Tag="LOC_CITY_NAME_BOGOTA"			Text="Bogota"		Language="en_US" />
@@ -165,7 +183,7 @@
     <LocalizedText>		<!-- Congo -->
         <Replace Tag="LOC_CITY_NAME_KINSHASA"             Text="Kinshasa"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_LUBUMBASHI"             Text="Lumbumbashi"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_MBUJI-MAYI"         Text="Mbuji-Mayi"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MBUJI_MAYI"         Text="Mbuji-Mayi"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_BUKAVU"             Text="Bukavu"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_KANANGA"         Text="Kananga"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_KISANGANI"         Text="Kisangani"        Language="en_US" />
@@ -235,7 +253,7 @@
 		<Replace Tag="LOC_CITY_NAME_RENNES"			Text="Rennes"			Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_REIMS"			Text="Reims"            Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_LE HAVRE"		Text="Le Havre"         Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_SAINT-ETIENNE"	Text="Saint-Étienne"    Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SAINT_ETIENNE"	Text="Saint-Étienne"    Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_TOULON"			Text="Toulon"           Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_GRENOBLE"		Text="Grenoble"         Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_DIJON"			Text="Dijon"            Language="en_US" />
@@ -532,6 +550,28 @@
         <Replace Tag="LOC_CITY_NAME_ALMADA"         Text="Almada"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_AVEIRO"         Text="Aveiro"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_VISEU"         Text="Viseu"        Language="en_US" />
+    </LocalizedText>	  
+    <LocalizedText>		<!-- Spain -->
+       <Replace Tag="LOC_CITY_NAME_MADRID"             Text="Madrid"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BARCELONA"             Text="Barcelona"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VALENCIA"         Text="Valencia"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SEVILLE"             Text="Seville"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BILBAO"         Text="Bilbao"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MALAGA"             Text="Málaga"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ZARAGOZA"         Text="Zaragoza"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MURCIA"         Text="Murcia"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GIJON"             Text="Gijón"            Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_PALMA"         Text="Palma"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ALICANTE"         Text="Alicante"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LAS_PALMAS"         Text="Las Palmas"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VIGO"         Text="Vigo"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VALLADOLID"         Text="Valladolid"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GRANADA"         Text="Granada"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CADIZ"         Text="Cádiz"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SANTA_CRUZ_DE_TENERIFE"         Text="Santa Cruz de Tenerife"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_A_CORUNA"         Text="A Coruña"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TARRAGONA"         Text="Tarragona"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SAN_SEBASTIAN"         Text="San Sebastián"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- South Africa -->
         <Replace Tag="LOC_CITY_NAME_CAPE_TOWN"             Text="Cape Town"        Language="en_US" />
@@ -587,6 +627,29 @@
         <Replace Tag="LOC_CITY_NAME_GAZIANTEP"         Text="Gaziantep"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_SAMSUN"         Text="Samsun"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_MALATYA"         Text="Malatya"        Language="en_US" />
+    </LocalizedText>	  
+    <LocalizedText>		<!-- United kingdom -->
+       <Replace Tag="LOC_CITY_NAME_LONDON"             Text="London"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MANCHESTER"             Text="Manchester"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BIRMINGHAM"         Text="Birmingham"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GLASGOW"             Text="Glasgow"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LEEDS"         Text="Leeds"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LIVERPOOL"             Text="Liverpool"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NEWCASTLE_UK"         Text="Newcastle"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NOTTINGHAM"             Text="Nottingham"            Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BELFAST"         Text="Belfast"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SHEFFIELD"         Text="Sheffield"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SOUTHHAMPTON"         Text="Southhampton"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CARDIFF"         Text="Cardiff"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BRISTOL"         Text="Bristol"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_EDINBURGH"         Text="Edinburgh"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LEICESTER"         Text="Leicester"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BRADFORD"         Text="Bradford"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DERRY"         Text="Derry"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BRIGHTON"         Text="Brighton"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MIDDLESBROUGH"         Text="Middlesbrough"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ABERDEEN"         Text="Aberdeen"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_PLYMOUTH"         Text="Plymouth"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Ukraine  -->
         <Replace Tag="LOC_CITY_NAME_KIEV"             Text="Kiev"        Language="en_US" />
