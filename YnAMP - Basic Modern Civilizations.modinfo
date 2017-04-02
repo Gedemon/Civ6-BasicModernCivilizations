@@ -6,7 +6,6 @@
 		<Description>LOC_YNAMP_BMC_DESCRIPTION</Description>
 		<Authors>Gedemon</Authors>
 	</Properties>
-
 	<LocalizedText>
 		<Text id="LOC_YNAMP_BMC_TITLE">
 			<en_US>YnAMP - Basic Modern Civilizations</en_US>
@@ -17,217 +16,184 @@
 		<Text id="LOC_YNAMP_BMC_DESCRIPTION">
 			<en_US>50+ Basic Modern Civilizations for YnAMP</en_US>
 		</Text>
-	</LocalizedText>
-
-	<Components>
-		<ImportFiles id="YNAMP_BMC_IMPORT">
-			<Items>
-				<File>UI/CityBannerManager.lua</File>
-				<File>Art/dom_blank.dds</File>
-				<File>Art/DIPLO_ALGERIA.dds</File>
-				<File>Art/DIPLO_AMERICA.dds</File>
-				<File>Art/DIPLO_ARABIA.dds</File>
-				<File>Art/DIPLO_ARGENTINA.dds</File>
-				<File>Art/DIPLO_AUSTRALIA.dds</File>
-				<File>Art/DIPLO_BRAZIL.dds</File>
-				<File>Art/DIPLO_CANADA.dds</File>
-				<File>Art/DIPLO_CHINA_PRC.dds</File>
-				<File>Art/DIPLO_CHINA_ROC.dds</File>
-				<File>Art/DIPLO_COLOMBIA.dds</File>
-				<File>Art/DIPLO_CUBA.dds</File>
-				<File>Art/DIPLO_EGYPT.dds</File>
-				<File>Art/DIPLO_ETHIOPIA.dds</File>
-				<File>Art/DIPLO_FINLAND.dds</File>
-				<File>Art/DIPLO_FRANCE.dds</File>
-				<File>Art/DIPLO_GERMANY.dds</File>
-				<File>Art/DIPLO_GREECE.dds</File>
-				<File>Art/DIPLO_ICELAND.dds</File>
-				<File>Art/DIPLO_INDIA.dds</File>
-				<File>Art/DIPLO_INDONESIA.dds</File>
-				<File>Art/DIPLO_IRAN.dds</File>
-				<File>Art/DIPLO_IRAQ.dds</File>
-				<File>Art/DIPLO_IRELAND.dds</File>
-				<File>Art/DIPLO_ISRAEL.dds</File>
-				<File>Art/DIPLO_ITALY.dds</File>
-				<File>Art/DIPLO_JAPAN.dds</File>
-				<File>Art/DIPLO_KAZAKHSTAN.dds</File>
-				<File>Art/DIPLO_CONGO.dds</File>
-				<File>Art/DIPLO_LIBYA.dds</File>
-				<File>Art/DIPLO_MADAGASCAR.dds</File>
-				<File>Art/DIPLO_MALI.dds</File>
-				<File>Art/DIPLO_MEXICO.dds</File>
-				<File>Art/DIPLO_MONGOLIA.dds</File>
-				<File>Art/DIPLO_MOROCCO.dds</File>
-				<File>Art/DIPLO_NETHERLANDS.dds</File>
-				<File>Art/DIPLO_NEW_ZEALAND.dds</File>
-				<File>Art/DIPLO_NORTH_KOREA.dds</File>
-				<File>Art/DIPLO_NORWAY.dds</File>
-				<File>Art/DIPLO_POLAND.dds</File>
-				<File>Art/DIPLO_PORTUGAL.dds</File>
-				<File>Art/DIPLO_RUSSIA.dds</File>
-				<File>Art/DIPLO_SOUTH_AFRICA.dds</File>
-				<File>Art/DIPLO_SOUTH_KOREA.dds</File>
-				<File>Art/DIPLO_SPAIN.dds</File>
-				<File>Art/DIPLO_SWEDEN.dds</File>
-				<File>Art/DIPLO_THAILAND.dds</File>
-				<File>Art/DIPLO_TURKEY.dds</File>
-				<File>Art/DIPLO_UK.dds</File>
-				<File>Art/DIPLO_UKRAINE.dds</File>
-				<File>Art/DIPLO_VIETNAM.dds</File>
-				<File>Art/LOADING_ALGERIA.dds</File>
-				<File>Art/LOADING_AMERICA.dds</File>
-				<File>Art/LOADING_ARABIA.dds</File>
-				<File>Art/LOADING_ARGENTINA.dds</File>
-				<File>Art/LOADING_AUSTRALIA.dds</File>
-				<File>Art/LOADING_BRAZIL.dds</File>
-				<File>Art/LOADING_CANADA.dds</File>
-				<File>Art/LOADING_CHINA_PRC.dds</File>
-				<File>Art/LOADING_CHINA_ROC.dds</File>
-				<File>Art/LOADING_COLOMBIA.dds</File>
-				<File>Art/LOADING_CUBA.dds</File>
-				<File>Art/LOADING_EGYPT.dds</File>
-				<File>Art/LOADING_ETHIOPIA.dds</File>
-				<File>Art/LOADING_FINLAND.dds</File>
-				<File>Art/LOADING_FRANCE.dds</File>
-				<File>Art/LOADING_GERMANY.dds</File>
-				<File>Art/LOADING_GREECE.dds</File>
-				<File>Art/LOADING_ICELAND.dds</File>
-				<File>Art/LOADING_INDIA.dds</File>
-				<File>Art/LOADING_INDONESIA.dds</File>
-				<File>Art/LOADING_IRAN.dds</File>
-				<File>Art/LOADING_IRAQ.dds</File>
-				<File>Art/LOADING_IRELAND.dds</File>
-				<File>Art/LOADING_ISRAEL.dds</File>
-				<File>Art/LOADING_ITALY.dds</File>
-				<File>Art/LOADING_JAPAN.dds</File>
-				<File>Art/LOADING_KAZAKHSTAN.dds</File>
-				<File>Art/LOADING_CONGO.dds</File>
-				<File>Art/LOADING_LIBYA.dds</File>
-				<File>Art/LOADING_MADAGASCAR.dds</File>
-				<File>Art/LOADING_MALI.dds</File>
-				<File>Art/LOADING_MEXICO.dds</File>
-				<File>Art/LOADING_MONGOLIA.dds</File>
-				<File>Art/LOADING_MOROCCO.dds</File>
-				<File>Art/LOADING_NETHERLANDS.dds</File>
-				<File>Art/LOADING_NEW_ZEALAND.dds</File>
-				<File>Art/LOADING_NORTH_KOREA.dds</File>
-				<File>Art/LOADING_NORWAY.dds</File>
-				<File>Art/LOADING_POLAND.dds</File>
-				<File>Art/LOADING_PORTUGAL.dds</File>
-				<File>Art/LOADING_RUSSIA.dds</File>
-				<File>Art/LOADING_SOUTH_AFRICA.dds</File>
-				<File>Art/LOADING_SOUTH_KOREA.dds</File>
-				<File>Art/LOADING_SPAIN.dds</File>
-				<File>Art/LOADING_SWEDEN.dds</File>
-				<File>Art/LOADING_THAILAND.dds</File>
-				<File>Art/LOADING_TURKEY.dds</File>
-				<File>Art/LOADING_UK.dds</File>
-				<File>Art/LOADING_UKRAINE.dds</File>
-				<File>Art/LOADING_VIETNAM.dds</File>
-				<File>Art/Icons/FlagsAtlas256.dds</File>
-				<File>Art/Icons/FlagsAtlas32.dds</File>
-				<File>Art/Icons/FlagsAtlas45.dds</File>
-				<File>Art/Icons/FlagsAtlas48.dds</File>
-				<File>Art/Icons/FlagsAtlas50.dds</File>
-				<File>Art/Icons/FlagsAtlas55.dds</File>
-				<File>Art/Icons/FlagsAtlas64.dds</File>
-				<File>Art/Icons/FlagsAtlas80.dds</File>
-			</Items>
-		</ImportFiles>
-		<Icons id="YNAMP_BMC_ICONS">
-			<Items>
-				<File>Data/Icons.xml</File>
-			</Items>
-		</Icons>
+	</LocalizedText>	
+	<InGameActions>
+		<UpdateArt id="GCO_ConfigArt">
+			<File>BMC.dep</File>
+		</UpdateArt>
 		<UpdateDatabase id="YNAMP_BMC_DEFAULT_COMPONENT">
-			<Items>
-				<File>Data/Tables.sql</File>
-			</Items>
+			<File>Data/Tables.sql</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_POST_COMPONENTS">
            	<Properties>
 				<LoadOrder>18100</LoadOrder>
 				<!-- Before despecialize -->
            	</Properties>
-			<Items>
-				<File>Data/Civilization.sql</File>
-				<File>Data/CivilizationPost.xml</File>
-				<File>Data/TSL.xml</File>
-				<File>Data/PostData.sql</File>
-			</Items>
+			<File>Data/CivilizationTable.sql</File>
+			<File>Data/CivilizationData.sql</File>
+			<File>Data/CivilizationPost.xml</File>
+			<File>Data/TSL.xml</File>
+			<File>Data/PostData.sql</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_USER_CUSTOMIZATION">
            	<Properties>
 				<LoadOrder>100600</LoadOrder>
            	</Properties>
-			<Items>
-				<File>custom.sql</File>
-				<File>custom.xml</File>
-			</Items>
+			<File>custom.sql</File>
+			<File>custom.xml</File>
 		</UpdateDatabase>
-        <UserInterface>
+		<UpdateIcons id="YNAMP_BMC_ICONS">
+			<File>Data/Icons.xml</File>
+		</UpdateIcons>
+		<AddUserInterfaces id="YNAMP_BMC_INGAME">
 			<Properties>
 				<Context>InGame</Context>
 			</Properties>
-            <Items>
-				<File>InGame/ModInGame.xml</File>
-            </Items>
-        </UserInterface>
-		<LocalizedText id="YNAMP_BMC_DEFAULT_LOC">
+			<File>InGame/ModInGame.xml</File>
+		</AddUserInterfaces>
+		<UpdateText id="YNAMP_BMC_DEFAULT_LOC">
            	<Properties>
 				<LoadOrder>100700</LoadOrder>
            	</Properties>
-			<Items>
-				<File>Text/CivilizationsText.sql</File>
-				<File>Text/GameText.xml</File>
-			</Items>
-		</LocalizedText>
-	</Components>
-
-	<Settings>
-		<Custom id="YNAMP_BMC_SETTING">
-			<Items>
-				<File>Config/CivilizationsConfig.sql</File>
-			</Items>
-		</Custom>
-		<Custom id="YNAMP_BMC_POST_SETTING">
+			<File>Data/CivilizationTable.sql</File>
+			<File>Text/CivilizationsText.sql</File>
+			<File>Text/GameText.xml</File>
+		</UpdateText>		
+		<ImportFiles id="YNAMP_BMC_IMPORT">
+			<File>UI/CityBannerManager.lua</File>
+			<File>Art/dom_blank.dds</File>
+			<File>Art/DIPLO_ALGERIA.dds</File>
+			<File>Art/DIPLO_AMERICA.dds</File>
+			<File>Art/DIPLO_ARABIA.dds</File>
+			<File>Art/DIPLO_ARGENTINA.dds</File>
+			<File>Art/DIPLO_AUSTRALIA.dds</File>
+			<File>Art/DIPLO_BRAZIL.dds</File>
+			<File>Art/DIPLO_CANADA.dds</File>
+			<File>Art/DIPLO_CHINA_PRC.dds</File>
+			<File>Art/DIPLO_CHINA_ROC.dds</File>
+			<File>Art/DIPLO_COLOMBIA.dds</File>
+			<File>Art/DIPLO_CUBA.dds</File>
+			<File>Art/DIPLO_EGYPT.dds</File>
+			<File>Art/DIPLO_ETHIOPIA.dds</File>
+			<File>Art/DIPLO_FINLAND.dds</File>
+			<File>Art/DIPLO_FRANCE.dds</File>
+			<File>Art/DIPLO_GERMANY.dds</File>
+			<File>Art/DIPLO_GREECE.dds</File>
+			<File>Art/DIPLO_ICELAND.dds</File>
+			<File>Art/DIPLO_INDIA.dds</File>
+			<File>Art/DIPLO_INDONESIA.dds</File>
+			<File>Art/DIPLO_IRAN.dds</File>
+			<File>Art/DIPLO_IRAQ.dds</File>
+			<File>Art/DIPLO_IRELAND.dds</File>
+			<File>Art/DIPLO_ISRAEL.dds</File>
+			<File>Art/DIPLO_ITALY.dds</File>
+			<File>Art/DIPLO_JAPAN.dds</File>
+			<File>Art/DIPLO_KAZAKHSTAN.dds</File>
+			<File>Art/DIPLO_CONGO.dds</File>
+			<File>Art/DIPLO_LIBYA.dds</File>
+			<File>Art/DIPLO_MADAGASCAR.dds</File>
+			<File>Art/DIPLO_MALI.dds</File>
+			<File>Art/DIPLO_MEXICO.dds</File>
+			<File>Art/DIPLO_MONGOLIA.dds</File>
+			<File>Art/DIPLO_MOROCCO.dds</File>
+			<File>Art/DIPLO_NETHERLANDS.dds</File>
+			<File>Art/DIPLO_NEW_ZEALAND.dds</File>
+			<File>Art/DIPLO_NORTH_KOREA.dds</File>
+			<File>Art/DIPLO_NORWAY.dds</File>
+			<File>Art/DIPLO_POLAND.dds</File>
+			<File>Art/DIPLO_PORTUGAL.dds</File>
+			<File>Art/DIPLO_RUSSIA.dds</File>
+			<File>Art/DIPLO_SOUTH_AFRICA.dds</File>
+			<File>Art/DIPLO_SOUTH_KOREA.dds</File>
+			<File>Art/DIPLO_SPAIN.dds</File>
+			<File>Art/DIPLO_SWEDEN.dds</File>
+			<File>Art/DIPLO_THAILAND.dds</File>
+			<File>Art/DIPLO_TURKEY.dds</File>
+			<File>Art/DIPLO_UK.dds</File>
+			<File>Art/DIPLO_UKRAINE.dds</File>
+			<File>Art/DIPLO_VIETNAM.dds</File>
+			<File>Art/LOADING_ALGERIA.dds</File>
+			<File>Art/LOADING_AMERICA.dds</File>
+			<File>Art/LOADING_ARABIA.dds</File>
+			<File>Art/LOADING_ARGENTINA.dds</File>
+			<File>Art/LOADING_AUSTRALIA.dds</File>
+			<File>Art/LOADING_BRAZIL.dds</File>
+			<File>Art/LOADING_CANADA.dds</File>
+			<File>Art/LOADING_CHINA_PRC.dds</File>
+			<File>Art/LOADING_CHINA_ROC.dds</File>
+			<File>Art/LOADING_COLOMBIA.dds</File>
+			<File>Art/LOADING_CUBA.dds</File>
+			<File>Art/LOADING_EGYPT.dds</File>
+			<File>Art/LOADING_ETHIOPIA.dds</File>
+			<File>Art/LOADING_FINLAND.dds</File>
+			<File>Art/LOADING_FRANCE.dds</File>
+			<File>Art/LOADING_GERMANY.dds</File>
+			<File>Art/LOADING_GREECE.dds</File>
+			<File>Art/LOADING_ICELAND.dds</File>
+			<File>Art/LOADING_INDIA.dds</File>
+			<File>Art/LOADING_INDONESIA.dds</File>
+			<File>Art/LOADING_IRAN.dds</File>
+			<File>Art/LOADING_IRAQ.dds</File>
+			<File>Art/LOADING_IRELAND.dds</File>
+			<File>Art/LOADING_ISRAEL.dds</File>
+			<File>Art/LOADING_ITALY.dds</File>
+			<File>Art/LOADING_JAPAN.dds</File>
+			<File>Art/LOADING_KAZAKHSTAN.dds</File>
+			<File>Art/LOADING_CONGO.dds</File>
+			<File>Art/LOADING_LIBYA.dds</File>
+			<File>Art/LOADING_MADAGASCAR.dds</File>
+			<File>Art/LOADING_MALI.dds</File>
+			<File>Art/LOADING_MEXICO.dds</File>
+			<File>Art/LOADING_MONGOLIA.dds</File>
+			<File>Art/LOADING_MOROCCO.dds</File>
+			<File>Art/LOADING_NETHERLANDS.dds</File>
+			<File>Art/LOADING_NEW_ZEALAND.dds</File>
+			<File>Art/LOADING_NORTH_KOREA.dds</File>
+			<File>Art/LOADING_NORWAY.dds</File>
+			<File>Art/LOADING_POLAND.dds</File>
+			<File>Art/LOADING_PORTUGAL.dds</File>
+			<File>Art/LOADING_RUSSIA.dds</File>
+			<File>Art/LOADING_SOUTH_AFRICA.dds</File>
+			<File>Art/LOADING_SOUTH_KOREA.dds</File>
+			<File>Art/LOADING_SPAIN.dds</File>
+			<File>Art/LOADING_SWEDEN.dds</File>
+			<File>Art/LOADING_THAILAND.dds</File>
+			<File>Art/LOADING_TURKEY.dds</File>
+			<File>Art/LOADING_UK.dds</File>
+			<File>Art/LOADING_UKRAINE.dds</File>
+			<File>Art/LOADING_VIETNAM.dds</File>
+		</ImportFiles>
+	</InGameActions>	
+	<FrontEndActions>
+		<UpdateArt id="GCO_ConfigArt">
+			<File>BMC.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="YNAMP_BMC_SETTING">
+			<File>Data/CivilizationTable.sql</File>
+			<File>Config/CivilizationsConfig.sql</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="YNAMP_BMC_POST_SETTING">		
            	<Properties>
 				<LoadOrder>100800</LoadOrder>
            	</Properties>
-			<Items>
-				<File>Config/PostConfig.sql</File>
-			</Items>
-		</Custom>
-		<LocalizedText id="GCO_SETTING_LOC">
-			<Items>
-				<File>Text/CivilizationsText.sql</File>
-			</Items>
-		</LocalizedText>
-		<ImportFiles id="GCO_SETTING_IMPORT">
-			<Items>
-				<File>Art/PortraitBackground.dds</File>
-				<File>Art/Portrait.dds</File>
-				<File>Art/Icons/FlagsAtlas256.dds</File>
-				<File>Art/Icons/FlagsAtlas32.dds</File>
-				<File>Art/Icons/FlagsAtlas45.dds</File>
-				<File>Art/Icons/FlagsAtlas48.dds</File>
-				<File>Art/Icons/FlagsAtlas50.dds</File>
-				<File>Art/Icons/FlagsAtlas55.dds</File>
-				<File>Art/Icons/FlagsAtlas64.dds</File>
-				<File>Art/Icons/FlagsAtlas80.dds</File>
-			</Items>
-		</ImportFiles>
-		<Icons id="GCO_SETTING_ICONS">
-			<Items>
-				<File>Data/Icons.xml</File>
-			</Items>
-		</Icons>
-	</Settings>
-
+			<File>Config/PostConfig.sql</File>
+		</UpdateDatabase>
+		<UpdateIcons id="GCO_SETTING_ICONS">
+           	<Properties>
+				<LoadOrder>100000</LoadOrder>
+           	</Properties>
+			<File>Data/Icons.xml</File>
+		</UpdateIcons>
+		<UpdateText id="GCO_SETTING_LOC">
+			<File>Data/CivilizationTable.sql</File>
+			<File>Text/CivilizationsText.sql</File>
+		</UpdateText>
+	</FrontEndActions>
 	<Files>
 		<File>Data/Tables.sql</File>
 		<File>Data/Icons.xml</File>
-		<File>Data/Civilization.sql</File>
+		<File>Data/CivilizationTable.sql</File>
+		<File>Data/CivilizationData.sql</File>
 		<File>Data/CivilizationPost.xml</File>
 		<File>Data/TSL.xml</File>
 		<File>Data/PostData.sql</File>
@@ -338,14 +304,7 @@
 		<File>Art/LOADING_TURKEY.dds</File>
 		<File>Art/LOADING_UK.dds</File>
 		<File>Art/LOADING_UKRAINE.dds</File>
-		<File>Art/LOADING_VIETNAM.dds</File>
-		<File>Art/Icons/FlagsAtlas256.dds</File>
-		<File>Art/Icons/FlagsAtlas32.dds</File>
-		<File>Art/Icons/FlagsAtlas45.dds</File>
-		<File>Art/Icons/FlagsAtlas48.dds</File>
-		<File>Art/Icons/FlagsAtlas50.dds</File>
-		<File>Art/Icons/FlagsAtlas55.dds</File>
-		<File>Art/Icons/FlagsAtlas64.dds</File>
-		<File>Art/Icons/FlagsAtlas80.dds</File>
+		<File>Art/LOADING_VIETNAM.dds</File>		
+		<File>BMC.dep</File>
 	</Files>
 </Mod>

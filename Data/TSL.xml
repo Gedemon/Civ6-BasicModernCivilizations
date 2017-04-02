@@ -73,10 +73,18 @@
 	</StartPosition>
 
 	<!-- Largest Earth -->
+	<ExtraPlacement>
+		<!-- Around Riyadh TSL -->
+		<Replace MapName="LargestEarth" X="52" Y="53" TerrainType="TERRAIN_PLAINS_HILLS" ResourceType="RESOURCE_SHEEP"/>
+		<Replace MapName="LargestEarth" X="52" Y="54" TerrainType="TERRAIN_PLAINS_HILLS" />
+		<Replace MapName="LargestEarth" X="52" Y="55" FeatureType="FEATURE_OASIS" />
+		<Replace MapName="LargestEarth" X="51" Y="53" FeatureType="FEATURE_OASIS" />
+		<Replace MapName="LargestEarth" X="53" Y="55" ResourceType="RESOURCE_STONE" />
+	</ExtraPlacement>
 	<StartPosition>
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ALGERIA"		X="17" Y="64" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_AMERICA"		X="206" Y="80" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ARABIA"		X="48" Y="52" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ARABIA"		X="53" Y="54" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ARGENTINA"	X="209" Y="12" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_AUSTRALIA"	X="135" Y="11" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_BRAZIL"		X="219" Y="24" />
@@ -84,9 +92,9 @@
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CHINA_PRC"	X="110" Y="81" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CHINA_ROC"	X="116" Y="62" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_COLOMBIA"	X="201" Y="49" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CONGO"		X="28" Y="34" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CUBA" 		X="198" Y="64" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_EGYPT"		X="42" Y="56" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ENGLAND"		X="15" Y="90" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_EGYPT"		X="40" Y="60" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ETHIOPIA" 	X="46" Y="42" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_FINLAND"		X="37" Y="99" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_FRANCE"		X="17" Y="84" />
@@ -102,7 +110,6 @@
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ITALY"		X="26" Y="73" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_JAPAN"		X="132" Y="74" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_KAZAKHSTAN"	X="75" Y="89" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_KONGO"		X="28" Y="34" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_LIBYA"		X="25" Y="61" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MADAGASCAR" 	X="49" Y="21" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MALI"		X="11" Y="48" />
@@ -123,6 +130,7 @@
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SWITZERLAND"	X="21" Y="81" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_THAILAND"	X="99" Y="50" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_TURKEY"		X="44" Y="73" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_UK"			X="15" Y="90" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_UKRAINE"		X="43" Y="87" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_VIETNAM"		X="101" Y="59" />
 	</StartPosition>
