@@ -64,15 +64,19 @@
 			<File>Art/dom_blank.dds</File>
 			<File>Art/DIPLO_ALGERIA.dds</File>
 			<File>Art/DIPLO_AMERICA.dds</File>
+			<File>Art/DIPLO_ANGOLA.dds</File>
 			<File>Art/DIPLO_ARABIA.dds</File>
 			<File>Art/DIPLO_ARGENTINA.dds</File>
 			<File>Art/DIPLO_AUSTRALIA.dds</File>
 			<File>Art/DIPLO_BRAZIL.dds</File>
 			<File>Art/DIPLO_CANADA.dds</File>
+			<File>Art/DIPLO_CHILE.dds</File>
 			<File>Art/DIPLO_CHINA_PRC.dds</File>
 			<File>Art/DIPLO_CHINA_ROC.dds</File>
 			<File>Art/DIPLO_COLOMBIA.dds</File>
+			<File>Art/DIPLO_CONGO.dds</File>
 			<File>Art/DIPLO_CUBA.dds</File>
+			<File>Art/DIPLO_DENMARK.dds</File>
 			<File>Art/DIPLO_EGYPT.dds</File>
 			<File>Art/DIPLO_ETHIOPIA.dds</File>
 			<File>Art/DIPLO_FINLAND.dds</File>
@@ -89,40 +93,55 @@
 			<File>Art/DIPLO_ITALY.dds</File>
 			<File>Art/DIPLO_JAPAN.dds</File>
 			<File>Art/DIPLO_KAZAKHSTAN.dds</File>
-			<File>Art/DIPLO_CONGO.dds</File>
+			<File>Art/DIPLO_KENYA.dds</File>
 			<File>Art/DIPLO_LIBYA.dds</File>
 			<File>Art/DIPLO_MADAGASCAR.dds</File>
+			<File>Art/DIPLO_MALAYSIA.dds</File>
 			<File>Art/DIPLO_MALI.dds</File>
 			<File>Art/DIPLO_MEXICO.dds</File>
 			<File>Art/DIPLO_MONGOLIA.dds</File>
 			<File>Art/DIPLO_MOROCCO.dds</File>
+			<File>Art/DIPLO_MYANMAR.dds</File>
 			<File>Art/DIPLO_NETHERLANDS.dds</File>
 			<File>Art/DIPLO_NEW_ZEALAND.dds</File>
+			<File>Art/DIPLO_NIGERIA.dds</File>
 			<File>Art/DIPLO_NORTH_KOREA.dds</File>
 			<File>Art/DIPLO_NORWAY.dds</File>
+			<File>Art/DIPLO_PAKISTAN.dds</File>
+			<File>Art/DIPLO_PERU.dds</File>
+			<File>Art/DIPLO_PHILIPPINES.dds</File>
 			<File>Art/DIPLO_POLAND.dds</File>
 			<File>Art/DIPLO_PORTUGAL.dds</File>
+			<File>Art/DIPLO_ROMANIA.dds</File>
 			<File>Art/DIPLO_RUSSIA.dds</File>
 			<File>Art/DIPLO_SOUTH_AFRICA.dds</File>
 			<File>Art/DIPLO_SOUTH_KOREA.dds</File>
 			<File>Art/DIPLO_SPAIN.dds</File>
+			<File>Art/DIPLO_SUDAN.dds</File>
 			<File>Art/DIPLO_SWEDEN.dds</File>
+			<File>Art/DIPLO_TANZANIA.dds</File>
 			<File>Art/DIPLO_THAILAND.dds</File>
 			<File>Art/DIPLO_TURKEY.dds</File>
 			<File>Art/DIPLO_UK.dds</File>
 			<File>Art/DIPLO_UKRAINE.dds</File>
+			<File>Art/DIPLO_UZBEKISTAN.dds</File>
+			<File>Art/DIPLO_VENEZUELA.dds</File>
 			<File>Art/DIPLO_VIETNAM.dds</File>
 			<File>Art/LOADING_ALGERIA.dds</File>
 			<File>Art/LOADING_AMERICA.dds</File>
+			<File>Art/LOADING_ANGOLA.dds</File>
 			<File>Art/LOADING_ARABIA.dds</File>
 			<File>Art/LOADING_ARGENTINA.dds</File>
 			<File>Art/LOADING_AUSTRALIA.dds</File>
 			<File>Art/LOADING_BRAZIL.dds</File>
 			<File>Art/LOADING_CANADA.dds</File>
+			<File>Art/LOADING_CHILE.dds</File>
 			<File>Art/LOADING_CHINA_PRC.dds</File>
 			<File>Art/LOADING_CHINA_ROC.dds</File>
 			<File>Art/LOADING_COLOMBIA.dds</File>
+			<File>Art/LOADING_CONGO.dds</File>
 			<File>Art/LOADING_CUBA.dds</File>
+			<File>Art/LOADING_DENMARK.dds</File>
 			<File>Art/LOADING_EGYPT.dds</File>
 			<File>Art/LOADING_ETHIOPIA.dds</File>
 			<File>Art/LOADING_FINLAND.dds</File>
@@ -139,28 +158,39 @@
 			<File>Art/LOADING_ITALY.dds</File>
 			<File>Art/LOADING_JAPAN.dds</File>
 			<File>Art/LOADING_KAZAKHSTAN.dds</File>
-			<File>Art/LOADING_CONGO.dds</File>
+			<File>Art/LOADING_KENYA.dds</File>
 			<File>Art/LOADING_LIBYA.dds</File>
 			<File>Art/LOADING_MADAGASCAR.dds</File>
+			<File>Art/LOADING_MALAYSIA.dds</File>
 			<File>Art/LOADING_MALI.dds</File>
 			<File>Art/LOADING_MEXICO.dds</File>
 			<File>Art/LOADING_MONGOLIA.dds</File>
 			<File>Art/LOADING_MOROCCO.dds</File>
+			<File>Art/LOADING_MYANMAR.dds</File>
 			<File>Art/LOADING_NETHERLANDS.dds</File>
 			<File>Art/LOADING_NEW_ZEALAND.dds</File>
+			<File>Art/LOADING_NIGERIA.dds</File>
 			<File>Art/LOADING_NORTH_KOREA.dds</File>
 			<File>Art/LOADING_NORWAY.dds</File>
+			<File>Art/LOADING_PAKISTAN.dds</File>
+			<File>Art/LOADING_PERU.dds</File>
+			<File>Art/LOADING_PHILIPPINES.dds</File>
 			<File>Art/LOADING_POLAND.dds</File>
 			<File>Art/LOADING_PORTUGAL.dds</File>
+			<File>Art/LOADING_ROMANIA.dds</File>
 			<File>Art/LOADING_RUSSIA.dds</File>
 			<File>Art/LOADING_SOUTH_AFRICA.dds</File>
 			<File>Art/LOADING_SOUTH_KOREA.dds</File>
 			<File>Art/LOADING_SPAIN.dds</File>
+			<File>Art/LOADING_SUDAN.dds</File>
 			<File>Art/LOADING_SWEDEN.dds</File>
+			<File>Art/LOADING_TANZANIA.dds</File>
 			<File>Art/LOADING_THAILAND.dds</File>
 			<File>Art/LOADING_TURKEY.dds</File>
 			<File>Art/LOADING_UK.dds</File>
 			<File>Art/LOADING_UKRAINE.dds</File>
+			<File>Art/LOADING_UZBEKISTAN.dds</File>
+			<File>Art/LOADING_VENEZUELA.dds</File>
 			<File>Art/LOADING_VIETNAM.dds</File>
 		</ImportFiles>
 	</InGameActions>	
@@ -207,15 +237,19 @@
 		<File>Art/dom_blank.dds</File>
 		<File>Art/DIPLO_ALGERIA.dds</File>
 		<File>Art/DIPLO_AMERICA.dds</File>
+		<File>Art/DIPLO_ANGOLA.dds</File>
 		<File>Art/DIPLO_ARABIA.dds</File>
 		<File>Art/DIPLO_ARGENTINA.dds</File>
 		<File>Art/DIPLO_AUSTRALIA.dds</File>
 		<File>Art/DIPLO_BRAZIL.dds</File>
 		<File>Art/DIPLO_CANADA.dds</File>
+		<File>Art/DIPLO_CHILE.dds</File>
 		<File>Art/DIPLO_CHINA_PRC.dds</File>
 		<File>Art/DIPLO_CHINA_ROC.dds</File>
 		<File>Art/DIPLO_COLOMBIA.dds</File>
+		<File>Art/DIPLO_CONGO.dds</File>
 		<File>Art/DIPLO_CUBA.dds</File>
+		<File>Art/DIPLO_DENMARK.dds</File>
 		<File>Art/DIPLO_EGYPT.dds</File>
 		<File>Art/DIPLO_ETHIOPIA.dds</File>
 		<File>Art/DIPLO_FINLAND.dds</File>
@@ -232,40 +266,55 @@
 		<File>Art/DIPLO_ITALY.dds</File>
 		<File>Art/DIPLO_JAPAN.dds</File>
 		<File>Art/DIPLO_KAZAKHSTAN.dds</File>
-		<File>Art/DIPLO_CONGO.dds</File>
+		<File>Art/DIPLO_KENYA.dds</File>
 		<File>Art/DIPLO_LIBYA.dds</File>
 		<File>Art/DIPLO_MADAGASCAR.dds</File>
+		<File>Art/DIPLO_MALAYSIA.dds</File>
 		<File>Art/DIPLO_MALI.dds</File>
 		<File>Art/DIPLO_MEXICO.dds</File>
 		<File>Art/DIPLO_MONGOLIA.dds</File>
 		<File>Art/DIPLO_MOROCCO.dds</File>
+		<File>Art/DIPLO_MYANMAR.dds</File>
 		<File>Art/DIPLO_NETHERLANDS.dds</File>
 		<File>Art/DIPLO_NEW_ZEALAND.dds</File>
+		<File>Art/DIPLO_NIGERIA.dds</File>
 		<File>Art/DIPLO_NORTH_KOREA.dds</File>
 		<File>Art/DIPLO_NORWAY.dds</File>
+		<File>Art/DIPLO_PAKISTAN.dds</File>
+		<File>Art/DIPLO_PERU.dds</File>
+		<File>Art/DIPLO_PHILIPPINES.dds</File>
 		<File>Art/DIPLO_POLAND.dds</File>
 		<File>Art/DIPLO_PORTUGAL.dds</File>
+		<File>Art/DIPLO_ROMANIA.dds</File>
 		<File>Art/DIPLO_RUSSIA.dds</File>
 		<File>Art/DIPLO_SOUTH_AFRICA.dds</File>
 		<File>Art/DIPLO_SOUTH_KOREA.dds</File>
 		<File>Art/DIPLO_SPAIN.dds</File>
+		<File>Art/DIPLO_SUDAN.dds</File>
 		<File>Art/DIPLO_SWEDEN.dds</File>
+		<File>Art/DIPLO_TANZANIA.dds</File>
 		<File>Art/DIPLO_THAILAND.dds</File>
 		<File>Art/DIPLO_TURKEY.dds</File>
 		<File>Art/DIPLO_UK.dds</File>
 		<File>Art/DIPLO_UKRAINE.dds</File>
+		<File>Art/DIPLO_UZBEKISTAN.dds</File>
+		<File>Art/DIPLO_VENEZUELA.dds</File>
 		<File>Art/DIPLO_VIETNAM.dds</File>
 		<File>Art/LOADING_ALGERIA.dds</File>
 		<File>Art/LOADING_AMERICA.dds</File>
+		<File>Art/LOADING_ANGOLA.dds</File>
 		<File>Art/LOADING_ARABIA.dds</File>
 		<File>Art/LOADING_ARGENTINA.dds</File>
 		<File>Art/LOADING_AUSTRALIA.dds</File>
 		<File>Art/LOADING_BRAZIL.dds</File>
 		<File>Art/LOADING_CANADA.dds</File>
+		<File>Art/LOADING_CHILE.dds</File>
 		<File>Art/LOADING_CHINA_PRC.dds</File>
 		<File>Art/LOADING_CHINA_ROC.dds</File>
 		<File>Art/LOADING_COLOMBIA.dds</File>
+		<File>Art/LOADING_CONGO.dds</File>
 		<File>Art/LOADING_CUBA.dds</File>
+		<File>Art/LOADING_DENMARK.dds</File>
 		<File>Art/LOADING_EGYPT.dds</File>
 		<File>Art/LOADING_ETHIOPIA.dds</File>
 		<File>Art/LOADING_FINLAND.dds</File>
@@ -282,29 +331,40 @@
 		<File>Art/LOADING_ITALY.dds</File>
 		<File>Art/LOADING_JAPAN.dds</File>
 		<File>Art/LOADING_KAZAKHSTAN.dds</File>
-		<File>Art/LOADING_CONGO.dds</File>
+		<File>Art/LOADING_KENYA.dds</File>
 		<File>Art/LOADING_LIBYA.dds</File>
 		<File>Art/LOADING_MADAGASCAR.dds</File>
+		<File>Art/LOADING_MALAYSIA.dds</File>
 		<File>Art/LOADING_MALI.dds</File>
 		<File>Art/LOADING_MEXICO.dds</File>
 		<File>Art/LOADING_MONGOLIA.dds</File>
 		<File>Art/LOADING_MOROCCO.dds</File>
+		<File>Art/LOADING_MYANMAR.dds</File>
 		<File>Art/LOADING_NETHERLANDS.dds</File>
 		<File>Art/LOADING_NEW_ZEALAND.dds</File>
+		<File>Art/LOADING_NIGERIA.dds</File>
 		<File>Art/LOADING_NORTH_KOREA.dds</File>
 		<File>Art/LOADING_NORWAY.dds</File>
+		<File>Art/LOADING_PAKISTAN.dds</File>
+		<File>Art/LOADING_PERU.dds</File>
+		<File>Art/LOADING_PHILIPPINES.dds</File>
 		<File>Art/LOADING_POLAND.dds</File>
 		<File>Art/LOADING_PORTUGAL.dds</File>
+		<File>Art/LOADING_ROMANIA.dds</File>
 		<File>Art/LOADING_RUSSIA.dds</File>
 		<File>Art/LOADING_SOUTH_AFRICA.dds</File>
 		<File>Art/LOADING_SOUTH_KOREA.dds</File>
 		<File>Art/LOADING_SPAIN.dds</File>
+		<File>Art/LOADING_SUDAN.dds</File>
 		<File>Art/LOADING_SWEDEN.dds</File>
+		<File>Art/LOADING_TANZANIA.dds</File>
 		<File>Art/LOADING_THAILAND.dds</File>
 		<File>Art/LOADING_TURKEY.dds</File>
 		<File>Art/LOADING_UK.dds</File>
 		<File>Art/LOADING_UKRAINE.dds</File>
-		<File>Art/LOADING_VIETNAM.dds</File>		
+		<File>Art/LOADING_UZBEKISTAN.dds</File>
+		<File>Art/LOADING_VENEZUELA.dds</File>
+		<File>Art/LOADING_VIETNAM.dds</File>
 		<File>BMC.dep</File>
 	</Files>
 </Mod>

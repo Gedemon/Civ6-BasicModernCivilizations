@@ -8,6 +8,8 @@
 		<Replace MapName="GiantEarth" X="39" Y="44" FeatureType="FEATURE_OASIS" />
 		<Replace MapName="GiantEarth" X="40" Y="43" FeatureType="FEATURE_OASIS" />
 		<Replace MapName="GiantEarth" X="39" Y="45" ResourceType="RESOURCE_STONE" />
+		<!-- Copenhaguen TSL -->
+		<Replace MapName="GiantEarth" X="21" Y="75" TerrainType="TERRAIN_GRASS" />
 	</ExtraPlacement>
 	
 	<StartPosition>
@@ -63,6 +65,21 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_UK"			X="12" Y="72" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_UKRAINE"		X="34" Y="68" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_VIETNAM"		X="77" Y="46" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_DENMARK"		X="21" Y="75" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NIGERIA"		X="18" Y="35" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PAKISTAN"		X="58" Y="56" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MALAYSIA"		X="75" Y="33" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PERU"			X="151" Y="27" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PHILIPPINES"	X="87" Y="41" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_UZBEKISTAN"	X="55" Y="60" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_VENEZUELA"		X="157" Y="41" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ANGOLA"		X="21" Y="22" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SUDAN"			X="33" Y="38" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_TANZANIA"		X="32" Y="26" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CHILE"			X="155" Y="15" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ROMANIA"		X="30" Y="63" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MYANMAR"		X="73" Y="44" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_KENYA"			X="33" Y="30" />
 
 	</StartPosition>
 

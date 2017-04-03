@@ -31,7 +31,7 @@
          <Replace Tag="LOC_CITY_NAME_KUITO" Text="Kuito" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_MALANJE" Text="Malanje" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_LOBITO" Text="Lobito" Language="en_US" />
-         <Replace Tag="LOC_CITY_NAME_BENGUELA" Text="Benguela Language="en_US" />
+         <Replace Tag="LOC_CITY_NAME_BENGUELA" Text="Benguela" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_UIGE" Text="Uíge" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_LUENA" Text="Luena" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_NAMIBE" Text="Namibe" Language="en_US" />
