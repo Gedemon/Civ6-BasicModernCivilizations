@@ -1125,6 +1125,29 @@
         <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_A_CORUNA"/>   
         <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_TARRAGONA"/>   
         <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SAN_SEBASTIAN"/>   
+    </CityNames>	
+    <CityNames>		<!-- Sudan -->
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_KHARTOUM"/>
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_NYALA"/>         
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_PORT_SUDAN"/>     
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_OMDURMAN"/>         
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_KASSALA"/>     
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_EL_OBEID"/>         
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_KOSTI"/>     
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_WAD_MADANI"/>     
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_QADARIF"/>     
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_AL_FASHIR"/>
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_DAEIN"/>
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_DAMAZIN"/>       
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_GENEINA"/>   
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_RABAK"/>       
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_SENNAR"/>   
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_MANAGIL"/>   
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_DAMIR"/>   
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_NAHUD"/>
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_ATBARAH"/>           
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_KADUQLI"/>
+        <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_DUEIM"/>
     </CityNames>
     <CityNames>     <!-- Sweden -->
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_STOCKHOLM"/>   
@@ -1193,6 +1216,28 @@
         <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_LVIV"/>
         <Replace CivilizationType="CIVILIZATION_UKRAINE" CityName="LOC_CITY_NAME_SEVASTOPOL"/>
     </CityNames>	
+    <CityNames>		<!-- Uzbekistan -->
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_TASHKENT"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_SAMARKAND"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_NAMANGAN"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_BUKHARA"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_ANDIJAN"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_NUKUS"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_QARSHI"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_KOKAND"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_URGENCH"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_FERGANA"/>     
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_CHIRCHIK"/>   
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_JIZZAKH"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_TERMEZ"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_MARGILAN"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_NAVOI"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_ANGREN"/>     
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_OLMALIQ"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_BEKOBOD"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_DENOV"/>
+        <Replace CivilizationType="CIVILIZATION_UZBEKISTAN" CityName="LOC_CITY_NAME_ZARAFSHAN"/>
+    </CityNames>
     <CityNames>     <!-- Venezuela -->   
          <Replace CivilizationType="CIVILIZATION_VENEZUELA" CityName="LOC_CITY_NAME_CARACAS"/>
          <Replace CivilizationType="CIVILIZATION_VENEZUELA" CityName="LOC_CITY_NAME_MARACAIBO"/>         
@@ -1242,6 +1287,28 @@
 		<Replace CivilizationType="CIVILIZATION_BARBARIAN" CityName="LOC_CITY_NAME_GROKVILLE"/>
 	</CityNames>
 
+	<!-- ++++++++++++++++++++ -->
+	<!-- Civilizations Colors -->
+	<!-- ++++++++++++++++++++ -->
+	
+	<Colors>	
+		<Replace Type="COLOR_PLAYER_COLOMBIA_PRIMARY" Color="255, 216, 14, 255" />
+		<Replace Type="COLOR_PLAYER_COLOMBIA_SECONDARY" Color="163, 0, 106, 255" />
+		<Replace Type="COLOR_PLAYER_CUBA_PRIMARY" Color="0, 127, 99, 255" />
+		<Replace Type="COLOR_PLAYER_CUBA_SECONDARY" Color="219, 219, 219, 255" />
+		<Replace Type="COLOR_PLAYER_NEW_ZEALAND_PRIMARY" Color="0, 23, 41, 255" />
+		<Replace Type="COLOR_PLAYER_NEW_ZEALAND_SECONDARY" Color="216, 216, 216, 255" />
+		<Replace Type="COLOR_PLAYER_PAKISTAN_PRIMARY" Color="6, 51, 7, 255" />
+		<Replace Type="COLOR_PLAYER_PAKISTAN_SECONDARY" Color="242, 211, 125, 255" />	
+		<Replace Type="COLOR_PLAYER_PHILIPPINES_PRIMARY" Color="255, 137, 31, 255" />
+		<Replace Type="COLOR_PLAYER_PHILIPPINES_SECONDARY" Color="109, 255, 252, 255" />
+		<Replace Type="COLOR_PLAYER_SOUTH_KOREA_PRIMARY" Color="45, 56, 57, 255" />
+		<Replace Type="COLOR_PLAYER_SOUTH_KOREA_SECONDARY" Color="128, 247, 142, 255" />
+		<Replace Type="COLOR_PLAYER_SUDAN_PRIMARY" Color="49, 58, 27, 255" />
+		<Replace Type="COLOR_PLAYER_SUDAN_SECONDARY" Color="255, 56, 56, 255" />
+	</Colors>
+	
+	
 	<!-- Those table can't be empty -->
 	<StartBiasResources>
 		<Row CivilizationType="CIVILIZATION_BARBARIAN" ResourceType="RESOURCE_HORSES" Tier="2"/>

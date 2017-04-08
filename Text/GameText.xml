@@ -991,28 +991,6 @@
         <Replace Tag="LOC_CITY_NAME_ALMADA"         Text="Almada"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_AVEIRO"         Text="Aveiro"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_VISEU"         Text="Viseu"        Language="en_US" />
-    </LocalizedText>	  
-    <LocalizedText>		<!-- Spain -->
-       <Replace Tag="LOC_CITY_NAME_MADRID"             Text="Madrid"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_BARCELONA"             Text="Barcelona"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_VALENCIA"         Text="Valencia"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SEVILLE"             Text="Seville"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_BILBAO"         Text="Bilbao"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_MALAGA"             Text="Málaga"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_ZARAGOZA"         Text="Zaragoza"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_MURCIA"         Text="Murcia"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_GIJON"             Text="Gijón"            Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_PALMA"         Text="Palma"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_ALICANTE"         Text="Alicante"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_LAS_PALMAS"         Text="Las Palmas"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_VIGO"         Text="Vigo"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_VALLADOLID"         Text="Valladolid"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_GRANADA"         Text="Granada"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_CADIZ"         Text="Cádiz"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SANTA_CRUZ_DE_TENERIFE"         Text="Santa Cruz de Tenerife"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_A_CORUNA"         Text="A Coruña"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_TARRAGONA"         Text="Tarragona"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SAN_SEBASTIAN"         Text="San Sebastián"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- South Africa -->
         <Replace Tag="LOC_CITY_NAME_CAPE_TOWN"             Text="Cape Town"        Language="en_US" />
@@ -1034,6 +1012,51 @@
         <Replace Tag="LOC_CITY_NAME_GWANGJU"	Text="Gwangju"	Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_ULSAN"		Text="Ulsan"	Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_SUWON"		Text="Suwon"	Language="en_US" />
+    </LocalizedText>
+    <LocalizedText>		<!-- Spain -->
+		<Replace Tag="LOC_CITY_NAME_MADRID"             Text="Madrid"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BARCELONA"             Text="Barcelona"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VALENCIA"         Text="Valencia"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SEVILLE"             Text="Seville"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BILBAO"         Text="Bilbao"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MALAGA"             Text="Málaga"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ZARAGOZA"         Text="Zaragoza"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MURCIA"         Text="Murcia"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GIJON"             Text="Gijón"            Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_PALMA"         Text="Palma"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ALICANTE"         Text="Alicante"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LAS_PALMAS"         Text="Las Palmas"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VIGO"         Text="Vigo"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VALLADOLID"         Text="Valladolid"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GRANADA"         Text="Granada"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CADIZ"         Text="Cádiz"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SANTA_CRUZ_DE_TENERIFE"         Text="Santa Cruz de Tenerife"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_A_CORUNA"         Text="A Coruña"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TARRAGONA"         Text="Tarragona"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SAN_SEBASTIAN"         Text="San Sebastián"        Language="en_US" />
+    </LocalizedText>
+    <LocalizedText>		<!-- Sudan -->
+        <Replace Tag="LOC_CITY_NAME_KHARTOUM"             Text="Khartoum"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NYALA"         Text="Nyala"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_PORT_SUDAN"             Text="Port Sudan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_OMDURMAN"         Text="Omdurman"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KASSALA"             Text="Kassala"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_EL_OBEID"         Text="El Obeid"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KOSTI"         Text="Kosti"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_WAD_MADANI"             Text="Wad Madani"            Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_QADARIF"         Text="Qadarif"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_AL_FASHIR"         Text="Al Fashir"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DAEIN"             Text="Daein"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DAMAZIN"         Text="Damazin"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GENEINA"             Text="Geneina"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_RABAK"         Text="Rabak"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SENNAR"             Text="Sennar"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MANAGIL"         Text="Managil"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DAMIR"             Text="Damir"            Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NAHUD"         Text="Nahud"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ATBARAH"         Text="Atbarah"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KADUQLI"         Text="Kaduqli"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DUEIM"         Text="Dueim"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Sweden  -->
         <Replace Tag="LOC_CITY_NAME_STOCKHOLM"             Text="Stockholm"        Language="en_US" />
@@ -1101,6 +1124,28 @@
         <Replace Tag="LOC_CITY_NAME_ZAPORIZHIA"         Text="Zaporizhia"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_LVIV"         Text="Lviv"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_SEVASTOPOL"         Text="Sevastopol"        Language="en_US" />
+    </LocalizedText>	
+    <LocalizedText>		<!-- Uzbekistan -->
+        <Replace Tag="LOC_CITY_NAME_TASHKENT"             Text="Tashkent"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SAMARKAND"             Text="Samarkand"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NAMANGAN"         Text="Namangan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BUKHARA"             Text="Bukhara"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ANDIJAN"         Text="Andijan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NUKUS"         Text="Nukus"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_QARSHI"             Text="Qarshi"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KOKAND"             Text="Kokand"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_URGENCH"         Text="Urgench"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_FERGANA"         Text="Fergana"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CHIRCHIK"         Text="Chirchik"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_JIZZAKH"             Text="Jizzakh"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TERMEZ"         Text="Termez"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MARGILAN"         Text="Margilan"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NAVOI"         Text="Navoi"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ANGREN"             Text="Angren"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_OLMALIQ"         Text="Olmaliq"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BEKOBOD"         Text="Bekobod"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_DENOV"         Text="Denov"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ZARAFSHAN"         Text="Zarafshan"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Venezuela -->
          <Replace Tag="LOC_CITY_NAME_CARACAS" Text="Caracas" Language="en_US" />
