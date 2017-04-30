@@ -1185,8 +1185,10 @@ function CityBanner.UpdateName( self : CityBanner )
 					local civIconName	:string = "ICON_";
 					local civType		:string = GameInfo.CivilizationLeaders[leader].CivilizationType;
 					if civType ~= nil then
-						--self.m_Instance.CivIcon:SetIcon(civIconName..civType);
-						self.m_Instance.CivIcon:SetIcon(civIconName..leader);
+						-- GCO <<<<<
+						self.m_Instance.CivIcon:SetIcon(civIconName..civType);
+						--self.m_Instance.CivIcon:SetIcon(civIconName..leader);
+						-- GCO >>>>>
 					end
 				end
 			end

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<!-- ++++++++++++++++++++ -->
+	<!-- Civilizations Colors -->
+	<!-- ++++++++++++++++++++ -->
+	
+	<Colors>	
+		<Replace Type="COLOR_PLAYER_CHINA_PRC_PRIMARY" Color="255,50,8,255" />
+		<Replace Type="COLOR_PLAYER_CHINA_PRC_SECONDARY" Color="255,255,50,255" />
+		<Replace Type="COLOR_PLAYER_CHINA_ROC_PRIMARY" Color="232,255,237,255" />
+		<Replace Type="COLOR_PLAYER_CHINA_ROC_SECONDARY" Color="23,31,122,255" />
+		<Replace Type="COLOR_PLAYER_COLOMBIA_PRIMARY" Color="255, 216, 14, 255" />
+		<Replace Type="COLOR_PLAYER_COLOMBIA_SECONDARY" Color="163, 0, 106, 255" />
+		<Replace Type="COLOR_PLAYER_CUBA_PRIMARY" Color="0, 127, 99, 255" />
+		<Replace Type="COLOR_PLAYER_CUBA_SECONDARY" Color="219, 219, 219, 255" />
+		<Replace Type="COLOR_PLAYER_GERMANY_PRIMARY" Color="227,198,141,255" />
+		<Replace Type="COLOR_PLAYER_GERMANY_SECONDARY" Color="25,25,25,255" />		
+		<Replace Type="COLOR_PLAYER_GREECE_PRIMARY" Color="123,207,255,255" />
+		<Replace Type="COLOR_PLAYER_GREECE_SECONDARY" Color="244,244,244,255" />
+		<Replace Type="COLOR_PLAYER_INDONESIA_PRIMARY" Color="38,207,190,255" />
+		<Replace Type="COLOR_PLAYER_INDONESIA_SECONDARY" Color="130,54,31,255" />
+		<Replace Type="COLOR_PLAYER_IRAQ_PRIMARY" Color="24,24,24,255" />
+		<Replace Type="COLOR_PLAYER_IRAQ_SECONDARY" Color="255,79,93,255" />		
+		<Replace Type="COLOR_PLAYER_JAPAN_PRIMARY" Color="255,112,186,255" />		
+		<Replace Type="COLOR_PLAYER_JAPAN_SECONDARY" Color="73,56,63,255" />
+		<Replace Type="COLOR_PLAYER_MALAYSIA_PRIMARY" Color="6,46,51,255" />
+		<Replace Type="COLOR_PLAYER_MALAYSIA_SECONDARY" Color="251,118,0,255" />
+		<Replace Type="COLOR_PLAYER_MONGOLIA_PRIMARY" Color="73,0,0,255" />
+		<Replace Type="COLOR_PLAYER_MONGOLIA_SECONDARY" Color="205,205,0,255" />		
+		<Replace Type="COLOR_PLAYER_NEW_ZEALAND_PRIMARY" Color="0, 23, 41, 255" />
+		<Replace Type="COLOR_PLAYER_NEW_ZEALAND_SECONDARY" Color="216, 216, 216, 255" />
+		<Replace Type="COLOR_PLAYER_NORTH_KOREA_PRIMARY" Color="0,28,188,255" />
+		<Replace Type="COLOR_PLAYER_NORTH_KOREA_SECONDARY" Color="255,38,74,255" />
+		<Replace Type="COLOR_PLAYER_NORWAY_PRIMARY" Color="255,54,50,255" />
+		<Replace Type="COLOR_PLAYER_NORWAY_SECONDARY" Color="0,40,104,255" />		
+		<Replace Type="COLOR_PLAYER_PAKISTAN_PRIMARY" Color="6, 51, 7, 255" />
+		<Replace Type="COLOR_PLAYER_PAKISTAN_SECONDARY" Color="242, 211, 125, 255" />	
+		<Replace Type="COLOR_PLAYER_PHILIPPINES_PRIMARY" Color="255, 137, 31, 255" />
+		<Replace Type="COLOR_PLAYER_PHILIPPINES_SECONDARY" Color="109, 255, 252, 255" />
+		<Replace Type="COLOR_PLAYER_SOUTH_AFRICA_PRIMARY" Color="114,28,71,255" />
+		<Replace Type="COLOR_PLAYER_SOUTH_AFRICA_SECONDARY" Color="247,216,180,255" />		
+		<Replace Type="COLOR_PLAYER_SOUTH_KOREA_PRIMARY" Color="45, 56, 57, 255" />
+		<Replace Type="COLOR_PLAYER_SOUTH_KOREA_SECONDARY" Color="128, 247, 142, 255" />
+		<Replace Type="COLOR_PLAYER_SUDAN_PRIMARY" Color="49, 58, 27, 255" />
+		<Replace Type="COLOR_PLAYER_SUDAN_SECONDARY" Color="255, 56, 56, 255" />		
+		<Replace Type="COLOR_PLAYER_SWEDEN_PRIMARY" Color="355,204,0,255" />
+		<Replace Type="COLOR_PLAYER_SWEDEN_SECONDARY" Color="48,99,174,255" />		
+		<Replace Type="COLOR_PLAYER_TANZANIA_PRIMARY" Color="10,10,63,255" />
+		<Replace Type="COLOR_PLAYER_TANZANIA_SECONDARY" Color="120,255,0,255" />		
+		<Replace Type="COLOR_PLAYER_THAILAND_PRIMARY" Color="120,26,12,255" />
+		<Replace Type="COLOR_PLAYER_THAILAND_SECONDARY" Color="255,206,147,255" />
+		<Replace Type="COLOR_PLAYER_TURKEY_PRIMARY" Color="155,5,16,255" />
+		<Replace Type="COLOR_PLAYER_TURKEY_SECONDARY" Color="71,229,163,255" />		
+		<Replace Type="COLOR_PLAYER_UZBEKISTAN_PRIMARY" Color="247,175,98,255" />
+		<Replace Type="COLOR_PLAYER_UZBEKISTAN_SECONDARY" Color="0,133,145,255" />		
+		<Replace Type="COLOR_PLAYER_VIETNAM_PRIMARY" Color="255,238,43,255" />
+		<Replace Type="COLOR_PLAYER_VIETNAM_SECONDARY" Color="212,5,25,255" />		
+	</Colors>
+	
+</GameInfo>

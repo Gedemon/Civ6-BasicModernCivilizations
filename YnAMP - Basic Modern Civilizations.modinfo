@@ -31,7 +31,9 @@
            	</Properties>
 			<File>Data/CivilizationTable.sql</File>
 			<File>Data/CivilizationData.sql</File>
-			<File>Data/CivilizationPost.xml</File>
+			<File>Data/CivilizationPost.xml</File>			
+			<File>Data/CityNames.xml</File>
+			<File>Data/Colors.xml</File>
 			<File>Data/TSL.xml</File>
 			<File>Data/PostData.sql</File>
 		</UpdateDatabase>
@@ -218,6 +220,10 @@
 			<File>Data/CivilizationTable.sql</File>
 			<File>Text/CivilizationsText.sql</File>
 		</UpdateText>
+		<ImportFiles>
+			<File>UI/LoadScreen.lua</File>
+			<File>UI/LoadScreen.xml</File>
+		</ImportFiles>
 	</FrontEndActions>
 	<Files>
 		<File>Data/Tables.sql</File>
@@ -225,6 +231,8 @@
 		<File>Data/CivilizationTable.sql</File>
 		<File>Data/CivilizationData.sql</File>
 		<File>Data/CivilizationPost.xml</File>
+		<File>Data/CityNames.xml</File>
+		<File>Data/Colors.xml</File>
 		<File>Data/TSL.xml</File>
 		<File>Data/PostData.sql</File>
 		<File>Text/CivilizationsText.sql</File>
@@ -234,6 +242,8 @@
 		<File>InGame/ModInGame.xml</File>
 		<File>InGame/ModInGame.lua</File>
 		<File>UI/CityBannerManager.lua</File>
+		<File>UI/LoadScreen.lua</File>
+		<File>UI/LoadScreen.xml</File>
 		<File>Art/dom_blank.dds</File>
 		<File>Art/DIPLO_ALGERIA.dds</File>
 		<File>Art/DIPLO_AMERICA.dds</File>

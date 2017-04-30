@@ -3,13 +3,13 @@
 	<!-- Giant Earth -->
 	<ExtraPlacement>
 		<!-- Around Riyadh TSL -->
-		<Replace MapName="GiantEarth" X="39" Y="43" TerrainType="TERRAIN_GRASS_HILLS" />
-		<Replace MapName="GiantEarth" X="40" Y="45" FeatureType="FEATURE_OASIS" />
-		<Replace MapName="GiantEarth" X="39" Y="44" FeatureType="FEATURE_OASIS" />
-		<Replace MapName="GiantEarth" X="40" Y="43" FeatureType="FEATURE_OASIS" />
-		<Replace MapName="GiantEarth" X="39" Y="45" ResourceType="RESOURCE_STONE" />
+		<Replace MapName="GiantEarth" X="39" Y="43" Civilization="CIVILIZATION_ARABIA" 	TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="GiantEarth" X="40" Y="45" Civilization="CIVILIZATION_ARABIA" 	FeatureType="FEATURE_OASIS" />
+		<Replace MapName="GiantEarth" X="39" Y="44" Civilization="CIVILIZATION_ARABIA" 	FeatureType="FEATURE_OASIS" />
+		<Replace MapName="GiantEarth" X="40" Y="43" Civilization="CIVILIZATION_ARABIA" 	FeatureType="FEATURE_OASIS" />
+		<Replace MapName="GiantEarth" X="39" Y="45" Civilization="CIVILIZATION_ARABIA" 	ResourceType="RESOURCE_STONE" />
 		<!-- Copenhaguen TSL -->
-		<Replace MapName="GiantEarth" X="21" Y="75" TerrainType="TERRAIN_GRASS" />
+		<Replace MapName="GiantEarth" X="21" Y="75" Civilization="CIVILIZATION_DENMARK"	TerrainType="TERRAIN_GRASS" />
 	</ExtraPlacement>
 	
 	<StartPosition>
