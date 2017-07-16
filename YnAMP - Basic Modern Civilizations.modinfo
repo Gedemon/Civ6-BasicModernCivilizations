@@ -4,7 +4,9 @@
 		<Name>LOC_YNAMP_BMC_TITLE</Name>
 		<Teaser>LOC_YNAMP_BMC_TEASER</Teaser>
 		<Description>LOC_YNAMP_BMC_DESCRIPTION</Description>
-		<Authors>Gedemon</Authors>
+		<Authors>Gedemon, Mobfire, DarthStarkiller, ...</Authors>
+		<EnabledByDefault>0</EnabledByDefault>
+		<EnabledAtStartup>0</EnabledAtStartup>
 	</Properties>
 	<LocalizedText>
 		<Text id="LOC_YNAMP_BMC_TITLE">

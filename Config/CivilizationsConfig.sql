@@ -14,10 +14,10 @@
 	
 -- <Players>
 DELETE FROM Players;
---DELETE FROM SQLITE_SEQUENCE WHERE NAME = 'MyTableName';
-INSERT OR REPLACE INTO Players (CivilizationType, LeaderType, CivilizationName, CivilizationIcon, LeaderName, LeaderIcon, CivilizationAbilityName, CivilizationAbilityDescription, CivilizationAbilityIcon, LeaderAbilityName, LeaderAbilityDescription, LeaderAbilityIcon, Portrait, PortraitBackground )
+INSERT OR REPLACE INTO Players (CivilizationType, Domain, LeaderType, CivilizationName, CivilizationIcon, LeaderName, LeaderIcon, CivilizationAbilityName, CivilizationAbilityDescription, CivilizationAbilityIcon, LeaderAbilityName, LeaderAbilityDescription, LeaderAbilityIcon, Portrait, PortraitBackground )
 	SELECT	
 		'CIVILIZATION_' || Name, 				-- CivilizationType
+		CivilizationConfiguration.Domain,		-- Domain
 		'LEADER_' || Name, 						-- LeaderType
 		'LOC_CIVILIZATION_' || Name || '_NAME',	-- CivilizationName
 		'ICON_CIVILIZATION_' || Name,			-- CivilizationIcon

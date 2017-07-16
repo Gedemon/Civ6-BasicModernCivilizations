@@ -31,10 +31,14 @@ INSERT OR REPLACE INTO CivilizationLeaders (CivilizationType, LeaderType, Capita
 	SELECT	'CIVILIZATION_' || Name, 'LEADER_' || Name, 'LOC_CITY_NAME_' || CapitalName
 	FROM CivilizationConfiguration;	
 
--- <PlayerColors>
+-- <PlayerColors> when primary color is NULL, it means there is a custom color available for that civilization
 INSERT OR REPLACE INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
 	SELECT	'LEADER_' || Name, 'Unique', 'COLOR_PLAYER_' || PrimaryColor, 'COLOR_PLAYER_' || SecondaryColor, 'COLOR_PLAYER_' || TextColor || '_TEXT'
-	FROM CivilizationConfiguration;
+	FROM CivilizationConfiguration WHERE PrimaryColor NOT NULL;
+
+INSERT OR REPLACE INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
+	SELECT	'LEADER_' || Name, 'Unique', 'COLOR_PLAYER_' || Name || '_PRIMARY', 'COLOR_PLAYER_' || Name || '_SECONDARY', 'COLOR_PLAYER_' || TextColor || '_TEXT'
+	FROM CivilizationConfiguration WHERE PrimaryColor ISNULL;
 	
 -- <Leaders>
 --DELETE FROM Leaders; -- if we delete, must keep default and barbarian
