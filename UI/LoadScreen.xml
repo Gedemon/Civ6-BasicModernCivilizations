@@ -15,7 +15,7 @@
 			<Image																Anchor="C,C"									Size="parent,parent"	Texture="Controls_Gradient" Color="0,0,0,100"/>
 			<Image																Anchor="C,C"									Size="parent,parent"	Texture="Controls_Gradient" Color="0,0,0,255"/>
 			<Container														Anchor="C,C"									Size="parent,765">
-				<Image				ID="LogoContainer"		Anchor="C,C"									Size="256,256"				Texture="CircleBacking256" >
+				<Image				ID="LogoContainer"		Anchor="C,C"									Size="256,256"				Texture="CircleBacking256"  >
 					<Image			ID="Logo"							Anchor="C,C"									Size="200,200"				Texture="CivSymbols200"		  />
 				</Image>
 				<Stack				ID="MainStack"				Anchor="C,T" StackGrowth="Down" StackPadding="10">

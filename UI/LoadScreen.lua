@@ -298,7 +298,7 @@ function OnLoadScreenContentReady()
 	local civType	:string = playerConfig:GetCivilizationTypeName();
 	local iconName	:string = "ICON_"..civType;
 	-- GCO <<<<<
-	--Controls.LogoContainer:SetColor(primaryColor);
+	Controls.LogoContainer:SetColor(primaryColor);
 	--Controls.Logo:SetColor(secondaryColor);
 	-- GCO >>>>>
 	Controls.Logo:SetIcon(iconName);

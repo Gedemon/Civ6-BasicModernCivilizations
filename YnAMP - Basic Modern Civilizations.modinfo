@@ -11,14 +11,14 @@
 			<en_US>YnAMP - Basic Modern Civilizations</en_US>
 		</Text>
 		<Text id="LOC_YNAMP_BMC_TEASER">
-			<en_US>50+ Basic Modern Civilizations for YnAMP</en_US>
+			<en_US>60+ Basic Modern Civilizations for YnAMP</en_US>
 		</Text>
 		<Text id="LOC_YNAMP_BMC_DESCRIPTION">
-			<en_US>50+ Basic Modern Civilizations for YnAMP</en_US>
+			<en_US>60+ Basic Modern Civilizations for YnAMP</en_US>
 		</Text>
 	</LocalizedText>	
 	<InGameActions>
-		<UpdateArt id="GCO_ConfigArt">
+		<UpdateArt id="BMC_ConfigArt">
 			<File>BMC.dep</File>
 		</UpdateArt>
 		<UpdateDatabase id="YNAMP_BMC_DEFAULT_COMPONENT">
@@ -26,8 +26,8 @@
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_POST_COMPONENTS">
            	<Properties>
-				<LoadOrder>18100</LoadOrder>
-				<!-- Before despecialize -->
+				<LoadOrder>200050</LoadOrder>
+				<!-- After GCO -->
            	</Properties>
 			<File>Data/CivilizationTable.sql</File>
 			<File>Data/CivilizationData.sql</File>
@@ -39,7 +39,7 @@
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_USER_CUSTOMIZATION">
            	<Properties>
-				<LoadOrder>100600</LoadOrder>
+				<LoadOrder>200060</LoadOrder>
            	</Properties>
 			<File>custom.sql</File>
 			<File>custom.xml</File>

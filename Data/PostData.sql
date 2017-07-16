@@ -11,7 +11,7 @@ DELETE from CivilizationRequestedResource;
 */
 --/*
 -- Leaders
-CREATE TABLE NFLeaders (
+CREATE TABLE IF NOT EXISTS NFLeaders (
       LeaderType  TEXT NOT NULL,
       TraitType   TEXT DEFAULT 'TRAIT_LEADER_NONE',
       Kind        TEXT DEFAULT 'KIND_TRAIT',
@@ -24,7 +24,7 @@ UPDATE NFLeaders SET TraitType=(TraitType || '_' || substr(LeaderType,8));
 
 
 -- Civilizations
-CREATE TABLE NFCivs (
+CREATE TABLE IF NOT EXISTS NFCivs (
       CivilizationType TEXT NOT NULL,
       TraitType        TEXT DEFAULT 'TRAIT_CIVILIZATION_NONE',
       Kind             TEXT DEFAULT 'KIND_TRAIT',
@@ -39,7 +39,7 @@ UPDATE NFCivs SET TraitType=(TraitType || '_' || substr(CivilizationType,14));
 -- Agendas
 -- UPDATE HistoricalAgendas SET AgendaType=('AGENDA_NONE_HIST_' || substr(LeaderType,8)); --foreign key constraint failed
 
-CREATE TABLE NFAgendaTraits (
+CREATE TABLE IF NOT EXISTS NFAgendaTraits (
       AgendaType  TEXT,
 	  TraitType   TEXT DEFAULT 'TRAIT_AGENDA_NONE',
       Kind        TEXT DEFAULT 'KIND_TRAIT',
@@ -102,4 +102,9 @@ DELETE FROM LeaderTraits
 
 
 DELETE FROM Agendas WHERE AgendaType NOT LIKE 'AGENDA_NONE%';
+
+
+DROP TABLE NFLeaders;
+DROP TABLE NFCivs;
+DROP TABLE NFAgendaTraits;
 --*/
