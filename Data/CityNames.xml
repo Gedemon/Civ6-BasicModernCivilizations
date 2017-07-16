@@ -750,6 +750,38 @@
          <Replace CivilizationType="CIVILIZATION_KAZAKHSTAN" CityName="LOC_CITY_NAME_ZHEZKAZGAN"/>
          <Replace CivilizationType="CIVILIZATION_KAZAKHSTAN" CityName="LOC_CITY_NAME_BALQASH"/>
     </CityNames>
+    <CityNames>    	<!-- Kenya --> 
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_NAIROBI"/>   
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_MOMBASA"/>   
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_NAKURU"/>     
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KISUMU"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_ELDORET"/>     
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_RUIRU"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_GARISSA"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_NAIVASHA"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_MALINDI"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KIKUYU"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_THIKA"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KITALE"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KAKAMEGA"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_MAVOKO"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_NYERI"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_UKUNDA"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KISII"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_NGONG"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_MANDERA"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_BUNGOMA"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KARURI"/> 
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_MIGORI"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KIAMBU"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_MTWAPA"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_LODWAR"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KILIFI"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_LIMURU"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_ISIOLO"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KERICHO"/>
+        <Replace CivilizationType="CIVILIZATION_KENYA" CityName="LOC_CITY_NAME_KIMILILI"/>
+    </CityNames>
     <CityNames>     <!-- Libya -->
          <Replace CivilizationType="CIVILIZATION_LIBYA" CityName="LOC_CITY_NAME_TRIPOLI"/>   
          <Replace CivilizationType="CIVILIZATION_LIBYA" CityName="LOC_CITY_NAME_BENGHAZI"/>   

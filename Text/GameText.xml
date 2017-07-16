@@ -694,6 +694,38 @@
          <Replace Tag="LOC_CITY_NAME_ZHEZKAZGAN" Text="Zhezkazgan" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_BALQASH" Text="Balqash" Language="en_US" />
     </LocalizedText>
+    <LocalizedText>		<!-- Kenya -->
+        <Replace Tag="LOC_CITY_NAME_NAIROBI"             Text="Nairobi"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MOMBASA"             Text="Mombasa"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NAKURU"         Text="Nakuru"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KISUMU"             Text="Kisumu"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ELDORET"         Text="Eldoret"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_RUIRU"         Text="Ruiru"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_GARISSA"         Text="Garissa"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NAIVASHA"         Text="Naivasha"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MALINDI"             Text="Malindi"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KIKUYU"         Text="Kikuyu"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_THIKA"         Text="Thika"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KITALE"             Text="Kitale"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KAKAMEGA"         Text="Kakamega"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MAVOKO"             Text="Mavoko"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NYERI"         Text="Nyeri"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_UKUNDA"             Text="Ukunda"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KISII"         Text="Kisii"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_NGONG"         Text="Ngong"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MANDERA"             Text="Mandera"         Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_BUNGOMA"             Text="Bungoma"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KARURI"         Text="Karuri"        Language="en_US">   
+        <Replace Tag="LOC_CITY_NAME_MIGORI"         Text="Migori"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KIAMBU"         Text="Kiambu"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MTWAPA"             Text="Mtwapa"         Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LODWAR"             Text="Lodwar"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KILIFI"         Text="Kilifi"        Language="en_US">                            
+        <Replace Tag="LOC_CITY_NAME_LIMURU"             Text="Limuru"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ISIOLO"         Text="Isiolo"        Language="en_US">                       
+        <Replace Tag="LOC_CITY_NAME_KERICHO"             Text="Kericho"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KIMILILI"         Text="Kimilili"        Language="en_US">
+    </LocalizedText>
     <LocalizedText>		<!-- Libya -->
          <Replace Tag="LOC_CITY_NAME_TRIPOLI" Text="Tripoli" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_BENGHAZI" Text="Benghazi" Language="en_US" />
