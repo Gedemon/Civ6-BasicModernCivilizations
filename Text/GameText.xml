@@ -672,7 +672,7 @@
         <Replace Tag="LOC_CITY_NAME_REGGIO_CALABRIA"         Text="Reggio Calabria"        Language="it_IT" />
     </LocalizedText>
     <LocalizedText>		<!-- Kazakhstan -->
-         <Replace Tag="LOC_CITY_NAME_ASTANA Text="Astana" Language="en_US" />
+         <Replace Tag="LOC_CITY_NAME_ASTANA" Text="Astana" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_ALMATY" Text="Almaty" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_SHYMKENT" Text="Shymkent" Language="en_US" />
          <Replace Tag="LOC_CITY_NAME_KARAGANDY" Text="Karagandy" Language="en_US" />
@@ -715,16 +715,16 @@
         <Replace Tag="LOC_CITY_NAME_NGONG"         Text="Ngong"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_MANDERA"             Text="Mandera"         Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_BUNGOMA"             Text="Bungoma"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KARURI"         Text="Karuri"        Language="en_US">   
+        <Replace Tag="LOC_CITY_NAME_KARURI"         Text="Karuri"        Language="en_US" />   
         <Replace Tag="LOC_CITY_NAME_MIGORI"         Text="Migori"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_KIAMBU"         Text="Kiambu"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_MTWAPA"             Text="Mtwapa"         Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_LODWAR"             Text="Lodwar"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KILIFI"         Text="Kilifi"        Language="en_US">                            
+        <Replace Tag="LOC_CITY_NAME_KILIFI"         Text="Kilifi"        Language="en_US" />                            
         <Replace Tag="LOC_CITY_NAME_LIMURU"             Text="Limuru"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_ISIOLO"         Text="Isiolo"        Language="en_US">                       
+        <Replace Tag="LOC_CITY_NAME_ISIOLO"         Text="Isiolo"        Language="en_US" />                       
         <Replace Tag="LOC_CITY_NAME_KERICHO"             Text="Kericho"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KIMILILI"         Text="Kimilili"        Language="en_US">
+        <Replace Tag="LOC_CITY_NAME_KIMILILI"         Text="Kimilili"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Libya -->
          <Replace Tag="LOC_CITY_NAME_TRIPOLI" Text="Tripoli" Language="en_US" />
