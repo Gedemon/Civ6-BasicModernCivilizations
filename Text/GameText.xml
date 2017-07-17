@@ -810,7 +810,7 @@
 		<Replace Tag="LOC_CITY_NAME_TIMBUKTU" Text="Timbuktu" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_BLA" Text="Bla" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_BOUGOUNI" Text="Bougouni" Language="en_US" />
-		<Replace T  ag="LOC_CITY_NAME_BAGUINEDA" Text="Baguineda" Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_BAGUINEDA" Text="Baguineda" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_KOLONDIEBA" Text="Kolondieba" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_KOLOKANI" Text="Kolokani" Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_KOURY" Text="Koury" Language="en_US" />
