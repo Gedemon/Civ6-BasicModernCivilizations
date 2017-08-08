@@ -23,12 +23,19 @@
 		<UpdateArt id="BMC_ConfigArt">
 			<File>BMC.dep</File>
 		</UpdateArt>
-		<UpdateDatabase id="YNAMP_BMC_DEFAULT_COMPONENT">
+		<UpdateDatabase id="YNAMP_BMC_INITIAL_COMPONENT">
 			<File>Data/Tables.sql</File>
 		</UpdateDatabase>
-		<UpdateDatabase id="YNAMP_BMC_POST_COMPONENTS">
+		<UpdateDatabase id="YNAMP_BMC_PRE_COMPONENTS">
            	<Properties>
 				<LoadOrder>200050</LoadOrder>
+				<!-- After GCO -->
+           	</Properties>
+			<File>Data/CivilizationTable.sql</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="YNAMP_BMC_COMPONENTS">
+           	<Properties>
+				<LoadOrder>200051</LoadOrder>
 				<!-- After GCO -->
            	</Properties>
 			<File>Data/CivilizationTable.sql</File>
@@ -37,6 +44,12 @@
 			<File>Data/CityNames.xml</File>
 			<File>Data/Colors.xml</File>
 			<File>Data/TSL.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="YNAMP_BMC_POST_COMPONENTS">
+           	<Properties>
+				<LoadOrder>200052</LoadOrder>
+				<!-- After GCO -->
+           	</Properties>
 			<File>Data/PostData.sql</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_USER_CUSTOMIZATION">
@@ -55,11 +68,16 @@
 			</Properties>
 			<File>InGame/ModInGame.xml</File>
 		</AddUserInterfaces>
+		<UpdateText id="YNAMP_BMC_PRE_LOC">
+           	<Properties>
+				<LoadOrder>100600</LoadOrder>
+           	</Properties>
+			<File>Data/CivilizationTable.sql</File>
+		</UpdateText>		
 		<UpdateText id="YNAMP_BMC_DEFAULT_LOC">
            	<Properties>
 				<LoadOrder>100700</LoadOrder>
            	</Properties>
-			<File>Data/CivilizationTable.sql</File>
 			<File>Text/CivilizationsText.sql</File>
 			<File>Text/GameText.xml</File>
 		</UpdateText>		
@@ -202,8 +220,16 @@
 		<UpdateArt id="GCO_ConfigArt">
 			<File>BMC.dep</File>
 		</UpdateArt>
-		<UpdateDatabase id="YNAMP_BMC_SETTING">
+		<UpdateDatabase id="YNAMP_BMC_PRE_SETTING">		
+           	<Properties>
+				<LoadOrder>100700</LoadOrder>
+           	</Properties>
 			<File>Data/CivilizationTable.sql</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="YNAMP_BMC_SETTING">
+           	<Properties>
+				<LoadOrder>100710</LoadOrder>
+           	</Properties>
 			<File>Config/CivilizationsConfig.sql</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_POST_SETTING">		
@@ -218,8 +244,16 @@
            	</Properties>
 			<File>Data/Icons.xml</File>
 		</UpdateIcons>
-		<UpdateText id="GCO_SETTING_LOC">
+		<UpdateText id="GCO_SETTING_PRE_LOC">
+           	<Properties>
+				<LoadOrder>100700</LoadOrder>
+           	</Properties>
 			<File>Data/CivilizationTable.sql</File>
+		</UpdateText>
+		<UpdateText id="GCO_SETTING_LOC">
+           	<Properties>
+				<LoadOrder>100800</LoadOrder>
+           	</Properties>
 			<File>Text/CivilizationsText.sql</File>
 		</UpdateText>
 		<ImportFiles>
