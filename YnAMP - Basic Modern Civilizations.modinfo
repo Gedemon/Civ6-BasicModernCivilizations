@@ -38,16 +38,15 @@
 				<LoadOrder>200051</LoadOrder>
 				<!-- After GCO -->
            	</Properties>
-			<File>Data/CivilizationTable.sql</File>
-			<File>Data/CivilizationData.sql</File>
-			<File>Data/CivilizationPost.xml</File>			
-			<File>Data/CityNames.xml</File>
-			<File>Data/Colors.xml</File>
-			<File>Data/TSL.xml</File>
+			<File Priority="10">Data/CivilizationData.sql</File>
+			<File Priority="1">Data/CivilizationPost.xml</File>			
+			<File Priority="1">Data/CityNames.xml</File>
+			<File Priority="1">Data/Colors.xml</File>
+			<File Priority="1">Data/TSL.xml</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_POST_COMPONENTS">
            	<Properties>
-				<LoadOrder>200052</LoadOrder>
+				<LoadOrder>200053</LoadOrder>
 				<!-- After GCO -->
            	</Properties>
 			<File>Data/PostData.sql</File>

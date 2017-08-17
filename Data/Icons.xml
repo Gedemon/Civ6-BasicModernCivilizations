@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameInfo>
   <IconTextureAtlases>	<!-- Flags Icons -->
+    <Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="22"  IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas22.dds"/>
+    <Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="30"  IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas30.dds"/>
     <Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="32"  IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas32.dds"/>
+    <Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="36"  IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas36.dds"/>
+    <Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="44"  IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas44.dds"/>
     <Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="45"  IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas45.dds"/>
     <Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="48"  IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas48.dds"/>
     <Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="50"  IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas50.dds"/>
@@ -11,7 +15,9 @@
 	<Row Name="ICON_ATLAS_GCO_FLAGS" IconSize="256" IconsPerRow="8" IconsPerColumn="16" Filename="FlagsAtlas256.dds"/>
   </IconTextureAtlases>
   
-  <IconTextureAtlases>	<!-- Civilizations Icons -->	
+  <!-- Civilizations Icons (Full color) -->	
+  <!--
+  <IconTextureAtlases>	
     <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="32"  IconsPerRow="8" IconsPerColumn="16" Filename="CivsAtlas32.dds"/>
     <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="45"  IconsPerRow="8" IconsPerColumn="16" Filename="CivsAtlas45.dds"/>
     <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="48"  IconsPerRow="8" IconsPerColumn="16" Filename="CivsAtlas48.dds"/>
@@ -20,6 +26,23 @@
     <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="64"  IconsPerRow="8" IconsPerColumn="16" Filename="CivsAtlas64.dds"/>
     <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="80"  IconsPerRow="8" IconsPerColumn="16" Filename="CivsAtlas80.dds"/>	
 	<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="256" IconsPerRow="8" IconsPerColumn="16" Filename="CivsAtlas256.dds"/>
+  </IconTextureAtlases>
+  -->
+  
+  <!-- Civilizations Icons (White/Transparent) -->	
+  <IconTextureAtlases>	
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="22"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas22.dds"/>
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="30"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas30.dds"/>
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="32"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas32.dds"/>
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="36"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas36.dds"/>
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="44"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas44.dds"/>
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="45"  IconsPerRow="8" IconsPerColumn="16" Filename="CivsAtlas45.dds"/> <!--Baked in color-->
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="48"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas48.dds"/>
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="50"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas50.dds"/>
+	<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="55"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas55.dds"/> <!--not used in vanilla -->
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="64"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas64.dds"/>
+    <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="80"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas80.dds"/>	
+	<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="256" IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas256.dds"/>
   </IconTextureAtlases>
   
 	<!-- Icons (Flags) -->
