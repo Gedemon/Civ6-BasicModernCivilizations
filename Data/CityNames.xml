@@ -187,27 +187,46 @@
         <Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_SAO_LUIS"/>
     </CityNames>
     <CityNames>   	<!-- Canada -->
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_OTTAWA"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_TORONTO"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_MONTREAL"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_OTTAWA"/>    
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_TORONTO"/>    
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_MONTREAL"/>      
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_VANCOUVER"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_CALGARY"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_CALGARY"/>      
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_EDMONTON"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_QUEBEC"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_WINNIPEG"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_HALIFAX"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_QUEBEC"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_HAMILTON"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_LONDONCDN"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_VICTORIACDN"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_SASKATOON"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_HALIFAX"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_KITCHENER"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_SASKATOON"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_VICTORIA_CDN"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_LONDON_CDN"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_REGINA"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_SAINTJOHNS"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_ST_JOHN_S_CDN"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_WINDSOR"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_KELOWNA"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_NIAGARA"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_SHERBROOKE"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_ABBOTSFORD"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_TROIS_RIVIERES"/>  
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_OSHAWA"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_MONCTON"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_RED_DEER"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_SAGUENAY"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_THUNDERBAY"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_KINGSTON_CDN"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_THUNDER_BAY"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_ST_CATHARINES"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_NANAIMO"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_LETHBRIDGE"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_SUDBURY"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_PRINCE_GEORGE"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_FORT_MCMURRAY"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_FREDERICTON"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_CHARLOTTETOWN"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_WHITEHORSE"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_YELLOWKNIFE"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_LABRADOR_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_IQALUIT"/>
+
     </CityNames>
 	<CityNames>		<!-- China PRC -->
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_BEIJING"/>
