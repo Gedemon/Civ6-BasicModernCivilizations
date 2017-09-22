@@ -311,7 +311,7 @@
         <Replace Tag="LOC_CITY_NAME_RANDERS"         Text="Randers"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_KOLDING"         Text="Kolding"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_HORSENS"         Text="Horsens"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_VEJLE             Text="Vejle"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VEJLE"             Text="Vejle"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_HELSINGOR"             Text="Helsingor"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_ROSKILDE"         Text="Roskilde"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_HERNING"         Text="Herning"        Language="en_US" />
