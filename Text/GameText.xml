@@ -146,27 +146,46 @@
         <Replace Tag="LOC_CITY_NAME_SAO_LUIS"         Text="São Luís"        Language="en_US" />
     </LocalizedText>
     <LocalizedText>		<!-- Canada -->
-		<Replace Tag="LOC_CITY_NAME_OTTAWA"			Text="Ottawa"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_TORONTO"		Text="Toronto"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_MONTREAL"		Text="Montréal"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_VANCOUVER"		Text="Vancouver"	Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_CALGARY"		Text="Calgary"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_EDMONTON"		Text="Edmonton"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_QUEBEC"			Text="Québec"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_WINNIPEG"		Text="Winnipeg"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_HALIFAX"		Text="Halifax"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_HAMILTON"		Text="Hamilton"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_LONDONCDN"		Text="London"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_VICTORIACDN"	Text="Victoria"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SASKATOON"		Text="Saskatoon"	Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KITCHENER"		Text="Kitchener"	Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_REGINA"			Text="Regina"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SAINTJOHNS"		Text="Saint John’s"	Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_KELOWNA"		Text="Kelowna"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_NIAGARA"		Text="Niagara"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SHERBROOKE"		Text="Sherbrooke"	Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_SAGUENAY"		Text="Saguenay"		Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_THUNDERBAY"		Text="Thunder Bay"	Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_OTTAWA"             Text="Ottawa"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TORONTO"             Text="Toronto"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MONTREAL"         Text="Montréal"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VANCOUVER"             Text="Vancouver"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_CALGARY"         Text="Calgary"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_EDMONTON"         Text="Edmonton"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_WINNIPEG"         Text="Winnipeg"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_QUEBEC"         Text="Québec"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HAMILTON"             Text="Hamilton"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_HALIFAX"         Text="Halifax"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KITCHENER"         Text="Kitchener"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SASKATOON"             Text="Saskatoon"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VICTORIA_CDN"         Text="Victoria"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LONDON_CDN"             Text="London"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_REGINA"         Text="Regina"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ST_JOHN_S_CDN"             Text="St. John’s"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_WINDSOR"         Text="Windsor"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KELOWNA"         Text="Kelowna"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SHERBROOKE"             Text="Sherbrooke"         Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ABBOTSFORD"             Text="Abbotsford"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_TROIS_RIVIERES"         Text="Trois-Rivières"        Language="en_US">                                                                         
+        <Replace Tag="LOC_CITY_NAME_OSHAWA"         Text="Oshawa"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_MONCTON"         Text="Moncton"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_RED_DEER"             Text="Red Deer"         Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SAGUENAY"             Text="Saguenay"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_KINGSTON"             Text="Kingston"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_THUNDER_BAY"             Text="Thunder_Bay"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_ST_CATHARINES"         Text="St. Catharines"        Language="en_US">                                                                                                                 
+        <Replace Tag="LOC_CITY_NAME_NANAIMO"         Text="Nanaimo"        Language="en_US">                                                                                                                 
+        <Replace Tag="LOC_CITY_NAME_LETHBRIDGE"             Text="Lethbridge"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_SUDBURY"         Text="Sudbury"        Language="en_US">
+        <Replace Tag="LOC_CITY_NAME_PRINCE_GEORGE"             Text="Prince George"         Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_FORT_MCMURRAY"             Text="Fort McMurray"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_FREDERICTON"         Text="Fredericton"        Language="en_US">                                                                                                                 
+        <Replace Tag="LOC_CITY_NAME_CHARLOTTETOWN"             Text="Charlottetown"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_WHITEHORSE"         Text="Whitehorse"        Language="en_US">                                                                                                                 
+        <Replace Tag="LOC_CITY_NAME_YELLOWKNIFE"             Text="Yellowknife"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_LABRADOR_CITY"         Text="Labrador City"        Language="en_US">         
+        <Replace Tag="LOC_CITY_NAME_IQALUIT"         Text="Iqaluit"        Language="en_US">         
+
     </LocalizedText>
     <LocalizedText>		<!-- China (PRC) -->
         <Replace Tag="LOC_CITY_NAME_BEIJING"             Text="Beijing"        Language="en_US" />
@@ -311,7 +330,7 @@
         <Replace Tag="LOC_CITY_NAME_RANDERS"         Text="Randers"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_KOLDING"         Text="Kolding"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_HORSENS"         Text="Horsens"        Language="en_US" />
-        <Replace Tag="LOC_CITY_NAME_VEJLE             Text="Vejle"        Language="en_US" />
+        <Replace Tag="LOC_CITY_NAME_VEJLE"             Text="Vejle"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_HELSINGOR"             Text="Helsingor"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_ROSKILDE"         Text="Roskilde"        Language="en_US" />
         <Replace Tag="LOC_CITY_NAME_HERNING"         Text="Herning"        Language="en_US" />
