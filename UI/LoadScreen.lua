@@ -114,14 +114,14 @@ function OnShow()
 	
 	m_isLoadComplete	= false;
 	m_isResyncLoad		= UI.IsResyncLoadInProgress(); -- Remember if this is a resync load for later.
-	
+
 	-- Adjust black bars	[
 	local screenSizeX, screenSizeY	= UIManager:GetScreenSizeVal();	
 	local backgroundSizeY	:number	= Controls.BackgroundImage:GetSizeY();	
 	local blackY			:number = math.max( MIN_BLACK_Y, (screenSizeY - backgroundSizeY) * 0.5 );
 	Controls.BarTop:SetSizeY( blackY );
 	Controls.BarBottom:SetSizeY( blackY );
-
+	
 	UIManager:SetUICursor( 1 );
 	Controls.FadeAnim:SetToBeginning();	
 	Controls.ActivateButton:SetHide(true);	
@@ -297,7 +297,10 @@ function OnLoadScreenContentReady()
 
 	local civType	:string = playerConfig:GetCivilizationTypeName();
 	local iconName	:string = "ICON_"..civType;
+	
 	-- GCO <<<<<
+	local civType	:string = playerConfig:GetLeaderTypeName();
+	local iconName	:string = "ICON_"..civType;	
 	Controls.LogoContainer:SetColor(primaryColor);
 	--Controls.Logo:SetColor(secondaryColor);
 	-- GCO >>>>>
