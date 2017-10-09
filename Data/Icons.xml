@@ -41,168 +41,13 @@
     <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="64"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas64.dds"/>
     <Row Name="ICON_ATLAS_GCO_CIVS" IconSize="80"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas80.dds"/>	
 	<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="256" IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas256.dds"/>
-  </IconTextureAtlases>
-  
-  <!-- Civilizations Icons (POLAND DLC) -->	
-  <IconTextureAtlases>	
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland22.dds"/>
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland30.dds"/>
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland32.dds"/>
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland36.dds"/>
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland45.dds"/> <!--Baked in color-->
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland44.dds"/> <!-- city state ribbon -->
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland48.dds"/>
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland50.dds"/>
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland64.dds"/>
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland80.dds"/>
-	<Row Name="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="CivPoland256.dds"/>
-  </IconTextureAtlases>
-  
-	<!-- Icons (Flags) -->
-	<!--
-	<IconDefinitions>
-		<Replace Name="ICON_LEADER_ALGERIA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="48"/>
-		<Replace Name="ICON_LEADER_AMERICA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="3"/>
-		<Replace Name="ICON_LEADER_ANGOLA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="59"/>
-		<Replace Name="ICON_LEADER_ARABIA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="26"/>
-		<Replace Name="ICON_LEADER_ARGENTINA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="16"/>
-		<Replace Name="ICON_LEADER_AUSTRALIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="30"/>
-		<Replace Name="ICON_LEADER_BRAZIL"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="15"/>
-		<Replace Name="ICON_LEADER_CANADA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="29"/>
-		<Replace Name="ICON_LEADER_CHILE"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="62"/>
-		<Replace Name="ICON_LEADER_CHINA_PRC"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="37"/>
-		<Replace Name="ICON_LEADER_CHINA_ROC"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="38"/>
-		<Replace Name="ICON_LEADER_COLOMBIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="17"/>
-		<Replace Name="ICON_LEADER_CONGO"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="34"/>
-		<Replace Name="ICON_LEADER_CUBA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="44"/>
-		<Replace Name="ICON_LEADER_DENMARK"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="56"/>
-		<Replace Name="ICON_LEADER_EGYPT"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="45"/>
-		<Replace Name="ICON_LEADER_ETHIOPIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="43"/>
-		<Replace Name="ICON_LEADER_FINLAND"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="2"/>
-		<Replace Name="ICON_LEADER_FRANCE"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="5"/>
-		<Replace Name="ICON_LEADER_GERMANY"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="18"/>
-		<Replace Name="ICON_LEADER_GREECE"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="10"/>
-		<Replace Name="ICON_LEADER_ICELAND"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="41"/>
-		<Replace Name="ICON_LEADER_INDIA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="27"/>
-		<Replace Name="ICON_LEADER_INDONESIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="36"/>
-		<Replace Name="ICON_LEADER_IRAN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="22"/>
-		<Replace Name="ICON_LEADER_IRAQ"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="23"/>
-		<Replace Name="ICON_LEADER_IRELAND"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="33"/>
-		<Replace Name="ICON_LEADER_ISRAEL"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="14"/>
-		<Replace Name="ICON_LEADER_ITALY"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="6"/>
-		<Replace Name="ICON_LEADER_JAPAN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="4"/>
-		<Replace Name="ICON_LEADER_KAZAKHSTAN"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="7"/>
-		<Replace Name="ICON_LEADER_KENYA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="65"/>
-		<Replace Name="ICON_LEADER_LIBYA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="21"/>
-		<Replace Name="ICON_LEADER_MADAGASCAR"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="42"/>
-		<Replace Name="ICON_LEADER_MALAYSIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="53"/>
-		<Replace Name="ICON_LEADER_MALI"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="49"/>
-		<Replace Name="ICON_LEADER_MEXICO"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="50"/>
-		<Replace Name="ICON_LEADER_MONGOLIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="39"/>
-		<Replace Name="ICON_LEADER_MOROCCO"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="19"/>
-		<Replace Name="ICON_LEADER_MYANMAR"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="64"/>
-		<Replace Name="ICON_LEADER_NETHERLANDS"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="12"/>
-		<Replace Name="ICON_LEADER_NEW_ZEALAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="40"/>
-		<Replace Name="ICON_LEADER_NIGERIA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="51"/>
-		<Replace Name="ICON_LEADER_NORTH_KOREA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="25"/>
-		<Replace Name="ICON_LEADER_NORWAY"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="47"/>
-		<Replace Name="ICON_LEADER_PAKISTAN"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="52"/>
-		<Replace Name="ICON_LEADER_PERU"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="54"/>
-		<Replace Name="ICON_LEADER_PHILIPPINES"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="55"/>
-		<Replace Name="ICON_LEADER_POLAND"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="11"/>
-		<Replace Name="ICON_LEADER_PORTUGAL"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="13"/>
-		<Replace Name="ICON_LEADER_ROMANIA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="63"/>
-		<Replace Name="ICON_LEADER_RUSSIA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="20"/>
-		<Replace Name="ICON_LEADER_SOUTH_AFRICA"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="8"/>
-		<Replace Name="ICON_LEADER_SOUTH_KOREA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="28"/>
-		<Replace Name="ICON_LEADER_SPAIN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="46"/>
-		<Replace Name="ICON_LEADER_SUDAN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="60"/>
-		<Replace Name="ICON_LEADER_SWEDEN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="0"/>
-		<Replace Name="ICON_LEADER_SWITZERLAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="31"/>
-		<Replace Name="ICON_LEADER_TANZANIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="61"/>
-		<Replace Name="ICON_LEADER_THAILAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="35"/>
-		<Replace Name="ICON_LEADER_TURKEY"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="9"/>
-		<Replace Name="ICON_LEADER_UK"				Atlas="ICON_ATLAS_GCO_FLAGS" Index="1"/>
-		<Replace Name="ICON_LEADER_UKRAINE"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="32"/>
-		<Replace Name="ICON_LEADER_UZBEKISTAN"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="57"/>
-		<Replace Name="ICON_LEADER_VENEZUELA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="58"/>
-		<Replace Name="ICON_LEADER_VIETNAM"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="24"/>
-
-		<Replace Name="ICON_CIVILIZATION_ALGERIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="48"/>
-		<Replace Name="ICON_CIVILIZATION_AMERICA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="3"/>
-		<Replace Name="ICON_CIVILIZATION_ANGOLA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="59"/>
-		<Replace Name="ICON_CIVILIZATION_ARABIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="26"/>
-		<Replace Name="ICON_CIVILIZATION_ARGENTINA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="16"/>
-		<Replace Name="ICON_CIVILIZATION_AUSTRALIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="30"/>
-		<Replace Name="ICON_CIVILIZATION_BRAZIL"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="15"/>
-		<Replace Name="ICON_CIVILIZATION_CANADA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="29"/>
-		<Replace Name="ICON_CIVILIZATION_CHILE"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="62"/>
-		<Replace Name="ICON_CIVILIZATION_CHINA_PRC"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="37"/>
-		<Replace Name="ICON_CIVILIZATION_CHINA_ROC"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="38"/>
-		<Replace Name="ICON_CIVILIZATION_COLOMBIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="17"/>
-		<Replace Name="ICON_CIVILIZATION_CONGO"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="34"/>
-		<Replace Name="ICON_CIVILIZATION_CUBA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="44"/>
-		<Replace Name="ICON_CIVILIZATION_DENMARK"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="56"/>
-		<Replace Name="ICON_CIVILIZATION_EGYPT"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="45"/>
-		<Replace Name="ICON_CIVILIZATION_ETHIOPIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="43"/>
-		<Replace Name="ICON_CIVILIZATION_FINLAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="2"/>
-		<Replace Name="ICON_CIVILIZATION_FRANCE"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="5"/>
-		<Replace Name="ICON_CIVILIZATION_GERMANY"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="18"/>
-		<Replace Name="ICON_CIVILIZATION_GREECE"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="10"/>
-		<Replace Name="ICON_CIVILIZATION_ICELAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="41"/>
-		<Replace Name="ICON_CIVILIZATION_INDIA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="27"/>
-		<Replace Name="ICON_CIVILIZATION_INDONESIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="36"/>
-		<Replace Name="ICON_CIVILIZATION_IRAN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="22"/>
-		<Replace Name="ICON_CIVILIZATION_IRAQ"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="23"/>
-		<Replace Name="ICON_CIVILIZATION_IRELAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="33"/>
-		<Replace Name="ICON_CIVILIZATION_ISRAEL"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="14"/>
-		<Replace Name="ICON_CIVILIZATION_ITALY"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="6"/>
-		<Replace Name="ICON_CIVILIZATION_JAPAN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="4"/>
-		<Replace Name="ICON_CIVILIZATION_KAZAKHSTAN"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="7"/>
-		<Replace Name="ICON_CIVILIZATION_KENYA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="65"/>
-		<Replace Name="ICON_CIVILIZATION_LIBYA"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="21"/>
-		<Replace Name="ICON_CIVILIZATION_MADAGASCAR"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="42"/>
-		<Replace Name="ICON_CIVILIZATION_MALAYSIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="53"/>
-		<Replace Name="ICON_CIVILIZATION_MALI"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="49"/>
-		<Replace Name="ICON_CIVILIZATION_MEXICO"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="50"/>
-		<Replace Name="ICON_CIVILIZATION_MONGOLIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="39"/>
-		<Replace Name="ICON_CIVILIZATION_MOROCCO"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="19"/>
-		<Replace Name="ICON_CIVILIZATION_MYANMAR"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="64"/>
-		<Replace Name="ICON_CIVILIZATION_NETHERLANDS"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="12"/>
-		<Replace Name="ICON_CIVILIZATION_NEW_ZEALAND"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="40"/>
-		<Replace Name="ICON_CIVILIZATION_NIGERIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="51"/>
-		<Replace Name="ICON_CIVILIZATION_NORTH_KOREA"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="25"/>
-		<Replace Name="ICON_CIVILIZATION_NORWAY"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="47"/>
-		<Replace Name="ICON_CIVILIZATION_PAKISTAN"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="52"/>
-		<Replace Name="ICON_CIVILIZATION_PERU"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="54"/>
-		<Replace Name="ICON_CIVILIZATION_PHILIPPINES"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="55"/>
-		<Replace Name="ICON_CIVILIZATION_POLAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="11"/>
-		<Replace Name="ICON_CIVILIZATION_PORTUGAL"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="13"/>
-		<Replace Name="ICON_CIVILIZATION_ROMANIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="63"/>
-		<Replace Name="ICON_CIVILIZATION_RUSSIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="20"/>
-		<Replace Name="ICON_CIVILIZATION_SOUTH_AFRICA"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="8"/>
-		<Replace Name="ICON_CIVILIZATION_SOUTH_KOREA"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="28"/>
-		<Replace Name="ICON_CIVILIZATION_SPAIN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="46"/>
-		<Replace Name="ICON_CIVILIZATION_SUDAN"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="60"/>
-		<Replace Name="ICON_CIVILIZATION_SWEDEN"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="0"/>
-		<Replace Name="ICON_CIVILIZATION_SWITZERLAND"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="31"/>
-		<Replace Name="ICON_CIVILIZATION_TANZANIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="61"/>
-		<Replace Name="ICON_CIVILIZATION_THAILAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="35"/>
-		<Replace Name="ICON_CIVILIZATION_TURKEY"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="9"/>
-		<Replace Name="ICON_CIVILIZATION_UK"			Atlas="ICON_ATLAS_GCO_FLAGS" Index="1"/>
-		<Replace Name="ICON_CIVILIZATION_UKRAINE"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="32"/>
-		<Replace Name="ICON_CIVILIZATION_UZBEKISTAN"	Atlas="ICON_ATLAS_GCO_FLAGS" Index="57"/>
-		<Replace Name="ICON_CIVILIZATION_VENEZUELA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="58"/>
-		<Replace Name="ICON_CIVILIZATION_VIETNAM"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="24"/>
-	</IconDefinitions>
-	-->
-
+  </IconTextureAtlases>  
   
   <IconDefinitions>	<!-- Icons (Civilization) -->
     <Replace Name="ICON_LEADER_ALGERIA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="0"/>
-    <Replace Name="ICON_LEADER_AMERICA"		Atlas="ICON_ATLAS_CIVILIZATIONS" Index="2"/>
+    <Replace Name="ICON_LEADER_AMERICA"		Atlas="ICON_ATLAS_CIVILIZATIONS" 	Index="2"/>
     <Replace Name="ICON_LEADER_ANGOLA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="45"/>
-    <Replace Name="ICON_LEADER_ARABIA"		Atlas="ICON_ATLAS_CIVILIZATIONS" Index="3"/>
+    <Replace Name="ICON_LEADER_ARABIA"		Atlas="ICON_ATLAS_CIVILIZATIONS" 	Index="3"/>
     <Replace Name="ICON_LEADER_ARGENTINA"	Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="1"/>
     <Replace Name="ICON_LEADER_AUSTRALIA"	Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="2"/>
     <Replace Name="ICON_LEADER_BRAZIL"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="3"/>
@@ -221,7 +66,10 @@
     <Replace Name="ICON_LEADER_GERMANY"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="10"/>
     <Replace Name="ICON_LEADER_GREECE"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="24"/>
     <Replace Name="ICON_LEADER_ICELAND"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="41"/>
+	<!--
     <Replace Name="ICON_LEADER_INDIA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="31"/>
+	-->
+	<Replace Name="ICON_LEADER_INDIA"		Atlas="ICON_ATLAS_CIVILIZATIONS"	Index="11"/>
     <Replace Name="ICON_LEADER_INDONESIA"	Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="36"/>
     <Replace Name="ICON_LEADER_IRAN"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="12"/>
     <Replace Name="ICON_LEADER_IRAQ"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="39"/>
@@ -247,11 +95,7 @@
     <Replace Name="ICON_LEADER_PAKISTAN"	Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="47"/>
     <Replace Name="ICON_LEADER_PERU"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="43"/>
     <Replace Name="ICON_LEADER_PHILIPPINES"	Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="46"/>
-    <Replace Name="ICON_LEADER_POLAND"		Atlas="ICON_ATLAS_POLAND_JADWIGA_CIVILIZATIONS" Index="0"/>
-	<!--
-	<Replace Name="ICON_LEADER_POLAND"		Atlas="ICON_ATLAS_GCO_CIVS" Index="61"/>
-	<Replace Name="ICON_LEADER_POLAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="11"/>
-	-->
+    <Replace Name="ICON_LEADER_POLAND"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="61"/>
     <Replace Name="ICON_LEADER_PORTUGAL"	Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="28"/>
     <Replace Name="ICON_LEADER_ROMANIA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="51"/>
     <Replace Name="ICON_LEADER_RUSSIA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="56"/>
@@ -291,7 +135,10 @@
     <Replace Name="ICON_CIVILIZATION_GERMANY"		Atlas="ICON_ATLAS_GCO_CIVS" Index="10"/>
     <Replace Name="ICON_CIVILIZATION_GREECE"		Atlas="ICON_ATLAS_GCO_CIVS" Index="24"/>
     <Replace Name="ICON_CIVILIZATION_ICELAND"		Atlas="ICON_ATLAS_GCO_CIVS" Index="41"/>
+	<!--
     <Replace Name="ICON_CIVILIZATION_INDIA"			Atlas="ICON_ATLAS_GCO_CIVS" Index="31"/>
+	-->
+	<Replace Name="ICON_CIVILIZATION_INDIA"			Atlas="ICON_ATLAS_CIVILIZATIONS" Index="11"/>
     <Replace Name="ICON_CIVILIZATION_INDONESIA"		Atlas="ICON_ATLAS_GCO_CIVS" Index="36"/>
     <Replace Name="ICON_CIVILIZATION_IRAN"			Atlas="ICON_ATLAS_GCO_CIVS" Index="12"/>
     <Replace Name="ICON_CIVILIZATION_IRAQ"			Atlas="ICON_ATLAS_GCO_CIVS" Index="39"/>
