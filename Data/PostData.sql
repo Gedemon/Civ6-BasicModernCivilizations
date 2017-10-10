@@ -15,8 +15,8 @@ CREATE TABLE IF NOT EXISTS NFLeaders (
       LeaderType  TEXT NOT NULL,
       TraitType   TEXT DEFAULT 'TRAIT_LEADER_NONE',
       Kind        TEXT DEFAULT 'KIND_TRAIT',
-      Name        TEXT DEFAULT 'No Leader Trait',
-      Description TEXT DEFAULT 'This trait does nothing.',
+      Name        TEXT DEFAULT '',
+      Description TEXT DEFAULT '',
       PRIMARY KEY (LeaderType)
 );
 INSERT INTO NFLeaders (LeaderType) SELECT DISTINCT LeaderType FROM LeaderTraits WHERE LeaderType <> 'LEADER_BARBARIAN' AND LeaderType <> 'LEADER_DEFAULT' AND LeaderType NOT LIKE 'LEADER_MINOR_CIV_%';
@@ -28,8 +28,8 @@ CREATE TABLE IF NOT EXISTS NFCivs (
       CivilizationType TEXT NOT NULL,
       TraitType        TEXT DEFAULT 'TRAIT_CIVILIZATION_NONE',
       Kind             TEXT DEFAULT 'KIND_TRAIT',
-      Name             TEXT DEFAULT 'No Civilization Trait',
-      Description      TEXT DEFAULT 'This trait does nothing.',
+      Name             TEXT DEFAULT '',
+      Description      TEXT DEFAULT '',
       PRIMARY KEY (CivilizationType)
 );
 INSERT INTO NFCivs (CivilizationType) SELECT DISTINCT CivilizationType FROM CivilizationTraits WHERE CivilizationType <> 'CIVILIZATION_BARBARIAN';
@@ -43,8 +43,8 @@ CREATE TABLE IF NOT EXISTS NFAgendaTraits (
       AgendaType  TEXT,
 	  TraitType   TEXT DEFAULT 'TRAIT_AGENDA_NONE',
       Kind        TEXT DEFAULT 'KIND_TRAIT',
-	  Name        TEXT DEFAULT 'No Agenda',
-	  Description TEXT DEFAULT 'This agenda does nothing.',
+	  Name        TEXT DEFAULT '',
+	  Description TEXT DEFAULT '',
       PRIMARY KEY (AgendaType)
 );
 INSERT INTO NFAgendaTraits (AgendaType) SELECT DISTINCT ('AGENDA_NONE_HIST_' || substr(LeaderType,8)) FROM HistoricalAgendas;

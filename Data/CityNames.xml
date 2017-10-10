@@ -26,8 +26,6 @@
         <Replace CivilizationType="CIVILIZATION_ALGERIA" CityName="LOC_CITY_NAME_TAMANRASSET"/>
     </CityNames>
 	<CityNames>		<!-- America -->
-<!-- America -->
-    <CityNames>      
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_WASHINGTON"/>    
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_NEW_YORK_CITY"/>    
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_LOS_ANGELES"/>      
@@ -69,8 +67,6 @@
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_JACKSONVILLE"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_SALT_LAKE_CITY"/>
     </CityNames>
-
-	</CityNames>	
     <CityNames>  	<!-- Angola -->
          <Replace CivilizationType="CIVILIZATION_ANGOLA" CityName="LOC_CITY_NAME_LUANDA"/>
          <Replace CivilizationType="CIVILIZATION_ANGOLA" CityName="LOC_CITY_NAME_HUAMBO"/>
@@ -240,7 +236,6 @@
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_YELLOWKNIFE"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_LABRADOR_CITY"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_IQALUIT"/>
-
     </CityNames>
 	<CityNames>		<!-- China PRC -->
         <Replace CivilizationType="CIVILIZATION_CHINA_PRC" CityName="LOC_CITY_NAME_BEIJING"/>
@@ -286,7 +281,7 @@
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_DOULIU"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TOUFEN"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_YILAN_CITY"/>
-     <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_MIAOLI_CITY"/>
+		<Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_MIAOLI_CITY"/>
     </CityNames>
     <CityNames>     <!-- Chile -->  
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_SANTIAGO"/>
@@ -573,9 +568,8 @@
         <Replace CivilizationType="CIVILIZATION_ICELAND" CityName="LOC_CITY_NAME_VOGAR"/>
         <Replace CivilizationType="CIVILIZATION_ICELAND" CityName="LOC_CITY_NAME_GRUNDARFJORDUR"/>
         <Replace CivilizationType="CIVILIZATION_ICELAND" CityName="LOC_CITY_NAME_BLONDUOS"/>
-        <Replace CivilizationType="CIVILIZATION_ICELAND" CityName="LOC_CITY_NAME_PATREKSFJORDUR"/>
-           
- </CityNames>
+        <Replace CivilizationType="CIVILIZATION_ICELAND" CityName="LOC_CITY_NAME_PATREKSFJORDUR"/>           
+	</CityNames>
 	<CityNames>		<!-- India -->
          <Replace CivilizationType="CIVILIZATION_INDIA" CityName="LOC_CITY_NAME_DELHI"/>   
          <Replace CivilizationType="CIVILIZATION_INDIA" CityName="LOC_CITY_NAME_MUMBAI"/>   
