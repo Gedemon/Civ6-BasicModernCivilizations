@@ -27,7 +27,9 @@ CREATE TABLE IF NOT EXISTS CivilizationConfiguration
 	);
 
 -----------------------------------------------
--- Fill the initialization table 
+-- Fill the initialization table
+-- StandardPlayers	= Civilizations available with the standard mod
+-- ExpandedPlayers 	= Civilizations activated by the "Basic Civilizations Expanded" mod
 -----------------------------------------------
 INSERT INTO CivilizationConfiguration
 (	Name,			Domain,				PrimaryColor,			SecondaryColor,			TextColor,		Ethnicity,	CapitalName,	en_US_Name,			en_US_Adj,		en_US_Desc,								Leader_en_US ) VALUES

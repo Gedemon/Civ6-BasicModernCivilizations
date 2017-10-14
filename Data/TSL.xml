@@ -16,7 +16,7 @@
 		<Delete />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ALGERIA"		X="13" Y="52" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AMERICA"		X="155" Y="64" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ANGOLA"		X="20" Y="23" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ANGOLA"		X="21" Y="22" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ARABIA"		X="40" Y="44" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ARGENTINA"		X="159" Y="15" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AUSTRALIA"		X="101" Y="9" />
