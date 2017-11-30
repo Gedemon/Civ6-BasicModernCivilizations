@@ -330,24 +330,34 @@
     <CityNames>     <!-- China ROC -->
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAIPEI"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_KAOHSIUNG"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_XINBEI"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAICHUNG"/>    
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAOYUAN"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_NEW_TAIPEI"/>    
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAINAN"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_HSINCHU"/>              
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_KEELUNG"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_CHIAYI"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_CHANGHUA_CITY"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_PINGTUNG_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_CHANGHUA"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_PINGTUNG"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_YUANLIN"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_ZHUBEI"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_HUALIEN_CITY"/>      
-        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAITUNG_CITY"/>
-        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_NANTOU_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_HUALIEN"/>      
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TAITUNG"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_NANTOU"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_DOULIU"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_TOUFEN"/>
         <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_YILAN_CITY"/>
-		<Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_MIAOLI_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_MIAOLI_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_MAGONG"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_CAOTUN"/>    
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_ZHUDONG"/>    
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_HEMEI"/>      
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_LUKANG"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_ZHUNAN"/>      
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_PULI"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_LUODONG"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_HUWEI"/>
+        <Replace CivilizationType="CIVILIZATION_CHINA_ROC" CityName="LOC_CITY_NAME_ZHUSHAN"/>
     </CityNames>
     <CityNames>     <!-- Chile -->  
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_SANTIAGO"/>
