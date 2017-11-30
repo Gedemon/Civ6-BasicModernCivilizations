@@ -441,7 +441,7 @@
 		<Element>
 			<LibraryName text="LeaderFallback"/>
 			<PackageDependencies>
-				<!--<Element text="LeaderFallbacks.blp"/>-->
+				<Element text="LeaderFallbacks.blp"/>
 			</PackageDependencies>
 		</Element>
 		<Element>
@@ -515,6 +515,7 @@
 		<Element>
 			<LibraryName text="UITexture"/>
 			<PackageDependencies>
+				<Element text="UILeaders.blp"/>
 				<Element text="UI/Icons.blp"/>
 			</PackageDependencies>
 		</Element>
@@ -541,4 +542,3 @@
 	</LibraryDependencies>
 </AssetObjects::GameDependencyData>
 
- 
