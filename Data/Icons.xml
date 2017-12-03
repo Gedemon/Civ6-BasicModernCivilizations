@@ -45,9 +45,9 @@
   
   <IconDefinitions>	<!-- Icons (Civilization) -->
     <Replace Name="ICON_LEADER_ALGERIA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="0"/>
-    <Replace Name="ICON_LEADER_AMERICA"		Atlas="ICON_ATLAS_CIVILIZATIONS" 	Index="2"/>
+    <Replace Name="ICON_LEADER_AMERICA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="62"/>
     <Replace Name="ICON_LEADER_ANGOLA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="45"/>
-    <Replace Name="ICON_LEADER_ARABIA"		Atlas="ICON_ATLAS_CIVILIZATIONS" 	Index="3"/>
+    <Replace Name="ICON_LEADER_ARABIA"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="63"/>
     <Replace Name="ICON_LEADER_ARGENTINA"	Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="1"/>
     <Replace Name="ICON_LEADER_AUSTRALIA"	Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="2"/>
     <Replace Name="ICON_LEADER_BRAZIL"		Atlas="ICON_ATLAS_GCO_CIVS_COLORED" Index="3"/>
@@ -135,10 +135,10 @@
     <Replace Name="ICON_CIVILIZATION_GERMANY"		Atlas="ICON_ATLAS_GCO_CIVS" Index="10"/>
     <Replace Name="ICON_CIVILIZATION_GREECE"		Atlas="ICON_ATLAS_GCO_CIVS" Index="24"/>
     <Replace Name="ICON_CIVILIZATION_ICELAND"		Atlas="ICON_ATLAS_GCO_CIVS" Index="41"/>
-	<!--
     <Replace Name="ICON_CIVILIZATION_INDIA"			Atlas="ICON_ATLAS_GCO_CIVS" Index="31"/>
-	-->
+	<!--
 	<Replace Name="ICON_CIVILIZATION_INDIA"			Atlas="ICON_ATLAS_CIVILIZATIONS" Index="11"/>
+	-->
     <Replace Name="ICON_CIVILIZATION_INDONESIA"		Atlas="ICON_ATLAS_GCO_CIVS" Index="36"/>
     <Replace Name="ICON_CIVILIZATION_IRAN"			Atlas="ICON_ATLAS_GCO_CIVS" Index="12"/>
     <Replace Name="ICON_CIVILIZATION_IRAQ"			Atlas="ICON_ATLAS_GCO_CIVS" Index="39"/>
