@@ -362,24 +362,34 @@
     <CityNames>     <!-- Chile -->  
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_SANTIAGO"/>
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_VALPARAISO"/>     
-        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_CONCEPCION_CHL"/>     
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_CONCEPCION_CHL"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_LA_SERENA"/>     
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_ANTOFAGASTA"/> 
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_TEMUCO"/>     
-        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_IQUIQUE"/>     
-        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_PUERTO_MONTT"/>     
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_ARICA"/>     
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_RANCAGUA"/>     
-        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_LA_SERENA"/>
-        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_CHILLAN"/>
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_TALCA"/>
-        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_ARICA"/>               
-        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_PUNTA_ARENAS"/>   
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_PUERTO_MONTT"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_IQUIQUE"/>               
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_PUNTA_ARENAS"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_CHILLAN"/>   
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_COPIAPO"/>       
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_OSORNO"/>   
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_CALAMA"/>   
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_LOS_ANGELES_CHL"/>   
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_VALDIVIA"/>
         <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_CURICO"/>           
-        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_COQUIMBO"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_QUILLOTA"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_SAN_ANTONIO"/>    
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_ALTO_HOSPICIO"/>    
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_CORONEL"/>      
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_OVALLE"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_LINARES"/>      
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_COLINA"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_LOS_ANDES"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_COYHAIQUE"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_PENAFLOR"/>
+        <Replace CivilizationType="CIVILIZATION_CHILE" CityName="LOC_CITY_NAME_SAN_FERNANDO"/>
     </CityNames>
     <CityNames>     <!-- Colombia -->
         <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_BOGOTA"/>   
@@ -1440,6 +1450,13 @@
         <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_JINJU"/>  
         <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_WONJU"/>
         <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_CHUNCHEON"/>
+        <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_SEONGNAM"/>    
+        <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_BUCHEON"/>    
+        <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_ANSAN"/>      
+        <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_NAMYANGJU"/>
+        <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_YEOSU"/>      
+        <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_SUNCHEON"/>
+        <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_GYEONGJU"/>
     </CityNames>
 	<CityNames>		<!-- Spain -->
         <Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_MADRID"/>
