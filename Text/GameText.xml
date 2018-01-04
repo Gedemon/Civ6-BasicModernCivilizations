@@ -360,26 +360,37 @@
         	<Replace Tag="LOC_CITY_NAME_ZHUSHAN"         									Text="Zhushan"        					Language="en_US" />
     	</LocalizedText>
 	<LocalizedText>		<!-- Chile -->
-		<Replace Tag="LOC_CITY_NAME_SANTIAGO"								 Text="Santiago"							Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_VALPARAISO"								 Text="Valparaíso"							Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_CONCEPCION_CHL"							 Text="Concepción"							Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_ANTOFAGASTA"							 Text="Antofagasta"							Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_TEMUCO"									 Text="Temuco"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_IQUIQUE"								 Text="Iquique"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_PUERTO_MONTT"							 Text="Puerto Montt"						Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_RANCAGUA"								 Text="Rancagua"							Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_LA_SERENA"								 Text="La Serena"							Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_CHILLAN"								 Text="Chillán"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_TALCA"									 Text="Talca"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_ARICA"									 Text="Arica"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_PUNTA_ARENAS"							 Text="Punta Arenas"						Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_COPIAPO"								 Text="Copiapó"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_OSORNO"									 Text="Osorno"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_CALAMA"									 Text="Calama"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_LOS_ANGELES_CHL"						 Text="Los Ángeles"							Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_VALDIVIA"								 Text="Valdivia"							Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_CURICO"									 Text="Curico"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_COQUIMBO"								 Text="Coquimbo"							Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_SANTIAGO"             								Text="Santiago"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_VALPARAISO"         								Text="Valparaíso"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_CONCEPCION_CHL"         								Text="Concepción"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_LA_SERENA"         									Text="La Serena"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_ANTOFAGASTA"             								Text="Antofagasta"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_TEMUCO"             								Text="Temuco"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_ARICA"         									Text="Arica"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_RANCAGUA"         									Text="Rancagua"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_TALCA"         									Text="Talca"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_PUERTO_MONTT"             								Text="Puerto Montt"            				Language="en_US" />
+       		<Replace Tag="LOC_CITY_NAME_IQUIQUE"         									Text="Iquique"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_PUNTA_ARENAS"             								Text="Punta Arenas"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_CHILLAN"             								Text="Chillán"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_COPIAPO"         									Text="Copiapó"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_OSORNO"             								Text="Osorno"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_CALAMA"         									Text="Calama"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_LOS_ANGELES_CHL"             							Text="Los Ángeles"            				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_VALDIVIA"         									Text="Valdivia"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_CURICO"         									Text="Curicó"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_QUILLOTA"         									Text="Quillota"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_SAN_ANTONIO"             								Text="San Antonio"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_ALTO_HOSPICIO"             								Text="Alto Hospicio"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_CORONEL"         									Text="Coronel"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_OVALLE"             								Text="Ovalle"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_LINARES"         									Text="Linares"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_COLINA"         									Text="Colina"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_LOS_ANDES"         									Text="Los Andes"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_COYHAIQUE"         									Text="Coyhaique"        				Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_PENAFLOR"             								Text="Peñaflor"        					Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_SAN_FERNANDO"         								Text="San Fernando"        				Language="en_US" />
+
 	</LocalizedText>
 	<LocalizedText>		<!-- Colombia -->
 		<Replace Tag="LOC_CITY_NAME_BOGOTA"									 Text="Bogotá"								Language="en_US" />
@@ -1425,6 +1436,14 @@
 		<Replace Tag="LOC_CITY_NAME_JINJU"									 Text="Jinju"								Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_WONJU"									 Text="Wonju"								Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_CHUNCHEON"								 Text="Chuncheon"							Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_SEONGNAM"             							Text="Seongnam"        							Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_BUCHEON"             							Text="Bucheon"        							Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_ANSAN"         								Text="Ansan"        							Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_NAMYANGJU"             							Text="Namyangju"        						Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_YEOSU"         								Text="Yeosu"        							Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_SUNCHEON"         								Text="Suncheon"        							Language="en_US" />
+        	<Replace Tag="LOC_CITY_NAME_GYEONGJU"         								Text="Gyeongju"        							Language="en_US" />
+
 	</LocalizedText>
 	<LocalizedText>		<!-- Spain -->
 		<Replace Tag="LOC_CITY_NAME_MADRID"									 Text="Madrid"								Language="en_US" />
