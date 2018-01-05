@@ -400,30 +400,53 @@
         <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_MANIZALES"/>   
         <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_VALLEDUPAR"/>                     
         <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_NEIVA"/>
-        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_BUENAVENTURA"/>            
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_BUENAVENTURA"/>
+	<Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_PEREIRA"/>    
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_MANIZALES"/>    
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_ARMENIA"/>      
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_BELLO"/>
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_SINCELEJO"/>      
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_POPAYAN"/>
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_PALMIRA"/>
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_RIOHACHA"/>
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_TUNJA"/>
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_FLORIDABLANCA"/>
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_TULUA"/>
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_APARTADO"/>
     </CityNames>
 	<CityNames>		<!-- Congo -->
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KINSHASA"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_LUBUMBASHI"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MBUJI_MAYI"/> 
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BUKAVU"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KANANGA"/>   
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KISANGANI"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_TSHIKAPA"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_GOMA"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KIKWIT"/>   
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BUNIA"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MBANDAKA"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MATADI"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KOLWEZI"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_LIKASI"/>       
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_UVIRA"/>   
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BUTEMBO"/>    
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KABINDA"/>   
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_ISIRO"/>   
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MWENE_DITU"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BOMA"/>
-         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KINDU"/>   
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KINSHASA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_LUBUMBASHI"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MBUJI_MAYI"/> 
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BUKAVU"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KANANGA"/>   
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KISANGANI"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_TSHIKAPA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_GOMA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KIKWIT"/>   
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BUNIA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MBANDAKA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MATADI"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KOLWEZI"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_LIKASI"/>       
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_UVIRA"/>   
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BUTEMBO"/>    
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KABINDA"/>   
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_ISIRO"/>   
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MWENE_DITU"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BOMA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KINDU"/>
+	<Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_GANDAJIKA"/>    
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BANDUNDU"/>    
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KAMINA"/>      
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_GEMENA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KALEMIE"/>      
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KIPUSHI"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_BUMBA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MBANZA_NGUNGU"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MOANDA"/>
+        <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_LISALA"/>
+
     </CityNames>
     <CityNames>     <!-- Cuba -->
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_HAVANA"/>   
@@ -436,7 +459,7 @@
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_BAYAMO"/> 
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_CIENFUEGOS"/>   
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_PINAR_DEL_RIO"/>   
-        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_MANTAZAS"/>       
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_MATANZAS"/>       
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_CIEGO_DE_AVILA"/>   
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_SANCTI_SPIRITUS"/>
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_MANZANILLO"/>
@@ -444,8 +467,18 @@
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_PALMA_SORIANO"/>                     
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_MOA"/>
         <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_NUEVA_GERONA"/>     
-        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_FLORIDA_CBA"/>  
-        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_VARADERO"/>       
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_FLORIDA_CBA"/>
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_MORON_CBA"/>    
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_CONTRAMAESTRE"/>    
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_ARTEMISA"/>      
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_TRINIDAD"/>
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_BARACOA"/>      
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_COLON"/>
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_GUINES"/>
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_NUEVITAS"/>
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_PLACETAS"/>
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_SAGUA_LA_GRANDE"/>  
+        <Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_VARADERO"/>     
     </CityNames>
     <CityNames>   	<!-- Denmark -->
         <Replace CivilizationType="CIVILIZATION_DENMARK" CityName="LOC_CITY_NAME_COPENHAGEN"/>
