@@ -19,7 +19,7 @@ INSERT OR REPLACE INTO Types (Type, Kind)
 	FROM CivilizationConfiguration;	
 	
 -- <Civilizations>
-DELETE FROM Civilizations WHERE StartingCivilizationLevelType != 'CIVILIZATION_LEVEL_TRIBE';
+DELETE FROM Civilizations WHERE StartingCivilizationLevelType == 'CIVILIZATION_LEVEL_CITY_STATE' OR StartingCivilizationLevelType == 'CIVILIZATION_LEVEL_FULL_CIV';
 --DELETE FROM SQLITE_SEQUENCE WHERE NAME = 'MyTableName';
 INSERT OR REPLACE INTO Civilizations (CivilizationType, Name, Description, Adjective, StartingCivilizationLevelType, RandomCityNameDepth, Ethnicity)
 	SELECT	'CIVILIZATION_' || Name, 'LOC_CIVILIZATION_' || Name || '_NAME', 'LOC_CIVILIZATION_' || Name || '_DESCRIPTION', 'LOC_CIVILIZATION_' || Name || '_ADJECTIVE', 'CIVILIZATION_LEVEL_FULL_CIV', 10, 'ETHNICITY_' || Ethnicity
