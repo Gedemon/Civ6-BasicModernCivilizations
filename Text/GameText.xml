@@ -1273,16 +1273,16 @@
         	<Replace Tag="LOC_CITY_NAME_BULOLO"         							Text="Bulolo"        							Language="en_US" />
         	<Replace Tag="LOC_CITY_NAME_KOKOPO"             						Text="Kokopo"         							Language="en_US" />
         	<Replace Tag="LOC_CITY_NAME_AITAPE"             						Text="Aitape"        							Language="en_US" />
-        	<Replace Tag="LOC_CITY_NAME_KEREMA"         							Text="Kerema"        							Language="en_US” />                                                                         
+        	<Replace Tag="LOC_CITY_NAME_KEREMA"         							Text="Kerema"        							Language="en_US" />                                                                         
         	<Replace Tag="LOC_CITY_NAME_BUKA"         							Text="Buka"        							Language="en_US" />
         	<Replace Tag="LOC_CITY_NAME_WABAG"         							Text="Wabag"        							Language="en_US" />
         	<Replace Tag="LOC_CITY_NAME_RAMU_SUGAR"             						Text="Ramu Sugar"         						Language="en_US" />
         	<Replace Tag="LOC_CITY_NAME_RABAUL"             						Text="Rabaul"        							Language="en_US" />
-        	<Replace Tag="LOC_CITY_NAME_KEROWAGI"         							Text="Kerowagi"        							Language="en_US” />                                                                                                                 
+        	<Replace Tag="LOC_CITY_NAME_KEROWAGI"         							Text="Kerowagi"        							Language="en_US" />                                                                                                                 
         	<Replace Tag="LOC_CITY_NAME_BALIMO"             						Text="Balimo"       		 					Language="en_US" />
-        	<Replace Tag="LOC_CITY_NAME_KAINANTU"         							Text="Kainantu"        							Language="en_US” />                                                                                                                 
+        	<Replace Tag="LOC_CITY_NAME_KAINANTU"         							Text="Kainantu"        							Language="en_US" />                                                                                                                 
         	<Replace Tag="LOC_CITY_NAME_WAU"             							Text="Wau"        							Language="en_US" />
-        	<Replace Tag="LOC_CITY_NAME_TARI"         							Text="Tari"        							Language="en_US” />     
+        	<Replace Tag="LOC_CITY_NAME_TARI"         							Text="Tari"        							Language="en_US" />     
 	</LocalizedText>
 	<LocalizedText>		<!-- Pakistan -->
 		 <Replace Tag="LOC_CITY_NAME_ISLAMABAD"								 Text="Islamabad"							Language="en_US" />

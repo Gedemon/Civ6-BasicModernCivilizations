@@ -78,6 +78,7 @@ INSERT INTO CivilizationConfiguration
 (	'NIGERIA',		'StandardPlayers',	NULL,					NULL,					'WHITE',		'AFRICAN',	'ABUJA',		'Nigeria',			'Nigerian',		'Federal Republic of Nigeria',          'Nigerian Government'		),
 (	'NORTH_KOREA',	'StandardPlayers',	NULL,					NULL,					'WHITE',		'ASIAN',	'PYONGYANG',	'North Korea',		'North Korean',	'Democratic Peoples Republic of Korea',	'North Korean Government'	),
 (	'NORWAY',		'StandardPlayers',	NULL,					NULL,					'WHITE',		'EURO',		'OSLO',			'Norway', 			'Norwegian',	'Kingdom of Norway',					'Norwegian Government'		),
+(	'PAPUA_NEW_GUINEA',	'WIPPlayers',	NULL,					NULL,					'WHITE',		'ASIAN',	'ISLAMABAD',	'PAPUA_NEW_GUINEA',	'PAPUA_NEW_GUINEA',	'PAPUA_NEW_GUINEA',         		'PAPUA_NEW_GUINEA'		),
 (	'PAKISTAN',		'StandardPlayers',	NULL,					NULL,					'WHITE',		'ASIAN',	'ISLAMABAD',	'Pakistan',			'Pakistani',	'Islamic Republic of Pakistan',         'Pakistani Government'		),
 (	'PERU',			'StandardPlayers',	NULL,					NULL,					'WHITE',		'SOUTHAM',	'LIMA',			'Peru',				'Peruvian',		'Republic of Peru',            			'Peruvian Government'		),
 (	'PHILIPPINES',	'StandardPlayers',	NULL,					NULL,					'YELLOW',		'ASIAN',	'MANILA',		'The Philippines',	'Philippine',	'Republic of the Philippines',          'Philippine Government'	),
