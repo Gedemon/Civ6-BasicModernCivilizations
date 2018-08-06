@@ -552,16 +552,16 @@
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_PARIS"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_MARSEILLE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_LYON"/>
+		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_BORDEAUX"/>
+		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_STRASBOURG"/>
+		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_NANTES"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_TOULOUSE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_NICE"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_NANTES"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_STRASBOURG"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_MONTPELLIER"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_BORDEAUX"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_LILLE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_RENNES"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_REIMS"/>
-		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_LEHAVRE"/>
+		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_LE_HAVRE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_SAINT_ETIENNE"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_TOULON"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_GRENOBLE"/>
@@ -1352,7 +1352,7 @@
     </CityNames>
 	<CityNames>		<!-- Russia -->
         <Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_MOSCOW"/>    
-        <Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_SAINT_PETERSBURG"/>    
+        <Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_ST_PETERSBURG"/>    
         <Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_NOVOSIBIRSK"/>      
         <Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_YEKATERINBURG"/>
         <Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_KAZAN"/>      

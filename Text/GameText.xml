@@ -1337,7 +1337,7 @@
 	</LocalizedText>
 	<LocalizedText>				<!-- Russia -->
 		<Replace Tag="LOC_CITY_NAME_MOSCOW"									 Text="Moscow"								Language="en_US" />
-		<Replace Tag="LOC_CITY_NAME_SAINT_PETERSBURG"						 Text="Saint Petersburg"					Language="en_US" />
+		<Replace Tag="LOC_CITY_NAME_ST_PETERSBURG"						 Text="Saint Petersburg"					Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_NOVOSIBIRSK"							 Text="Novosibirsk"							Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_YEKATERINBURG"							 Text="Yekaterinburg"						Language="en_US" />
 		<Replace Tag="LOC_CITY_NAME_KAZAN"									 Text="Kazan"								Language="en_US" />
