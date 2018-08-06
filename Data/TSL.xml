@@ -60,6 +60,7 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NORTH_KOREA"		X="88" Y="65" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NORWAY"		X="20" Y="80" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PAKISTAN"		X="57" Y="57" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PAPUA_NEW_GUINEA"	X="101" Y="29" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PERU"			X="153" Y="26" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PHILIPPINES"		X="87" Y="41" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_POLAND"		X="26" Y="71" />
@@ -132,6 +133,7 @@
 		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_NORTH_KOREA" 		X="90" Y="55" />
 		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_NORWAY"			X="47" Y="63" />
 		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_PAKISTAN" 		X="73" Y="43" />
+		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_PAPUA_NEW_GUINEA"	X="99" Y="23" />
 		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_PERU" 			X="22" Y="15" />
 		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_PHILIPPINES" 		X="88" Y="35" />
 		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_POLAND"			X="56" Y="55" />
@@ -168,57 +170,58 @@
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ALGERIA"		X="17" Y="64" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_AMERICA"		X="206" Y="80" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ARABIA"		X="53" Y="54" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ARGENTINA"	X="209" Y="12" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_AUSTRALIA"	X="135" Y="11" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ARGENTINA"		X="209" Y="12" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_AUSTRALIA"		X="135" Y="11" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_BRAZIL"		X="219" Y="24" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CANADA"		X="206" Y="87" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CHINA_PRC"	X="110" Y="81" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CHINA_ROC"	X="116" Y="62" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_COLOMBIA"	X="201" Y="49" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CHINA_PRC"		X="110" Y="81" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CHINA_ROC"		X="116" Y="62" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_COLOMBIA"		X="201" Y="49" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CONGO"		X="28" Y="34" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_CUBA"		X="198" Y="64" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_EGYPT"		X="40" Y="60" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ETHIOPIA"	X="46" Y="42" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ETHIOPIA"		X="46" Y="42" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_FINLAND"		X="37" Y="99" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_FRANCE"		X="17" Y="84" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_GERMANY"		X="27" Y="89" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_GREECE"		X="37" Y="68" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ICELAND"		X="1" Y="105" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_INDIA"		X="80" Y="65" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_INDONESIA"	X="106" Y="33" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_INDONESIA"		X="106" Y="33" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_IRAN"		X="60" Y="69" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_IRAQ"		X="55" Y="66" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_IRELAND"		X="7" Y="93" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ISRAEL"		X="46" Y="63" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ITALY"		X="26" Y="73" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_JAPAN"		X="132" Y="74" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_KAZAKHSTAN"	X="75" Y="89" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_KAZAKHSTAN"		X="75" Y="89" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_LIBYA"		X="25" Y="61" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MADAGASCAR"	X="49" Y="21" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MADAGASCAR"		X="49" Y="21" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MALI"		X="11" Y="48" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MEXICO"		X="184" Y="63" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MONGOLIA"	X="99" Y="86" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MONGOLIA"		X="99" Y="86" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_MOROCCO"		X="8" Y="61" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_NETHERLANDS"	X="20" Y="90" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_NEW_ZEALAND"	X="150" Y="10" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_NORTH_KOREA"	X="118" Y="81" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_NETHERLANDS"		X="20" Y="90" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_NEW_ZEALAND"		X="150" Y="10" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_NORTH_KOREA"		X="118" Y="81" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_NORWAY"		X="26" Y="100" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_PAPUA_NEW_GUINEA"	X="135" Y="36" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_POLAND"		X="33" Y="89" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_PORTUGAL"	X="5" Y="69" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_PORTUGAL"		X="5" Y="69" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_RUSSIA"		X="47" Y="93" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SOUTH_AFRICA"X="32" Y="10" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SOUTH_KOREA"	X="118" Y="77" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SOUTH_AFRICA"	X="32" Y="10" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SOUTH_KOREA"		X="118" Y="77" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SPAIN"		X="10" Y="71" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SWEDEN"		X="32" Y="99" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SWITZERLAND"	X="21" Y="81" />
-		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_THAILAND"	X="99" Y="50" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_SWITZERLAND"		X="21" Y="81" />
+		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_THAILAND"		X="99" Y="50" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_TURKEY"		X="44" Y="73" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_UK"			X="15" Y="90" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_UKRAINE"		X="43" Y="87" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_VIETNAM"		X="101" Y="59" />
 	</StartPosition>
 
-	<!-- Play Europe Againh -->
+	<!-- Play Europe Again -->
 	<StartPosition>		
 		<Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_ALGERIA" 		  X="24" Y="27" />
 		<Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_DENMARK" 		  X="47" Y="64" />
