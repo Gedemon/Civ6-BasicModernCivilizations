@@ -7,6 +7,7 @@
 		<Authors>Mobfire, DarthStarkiller, Gedemon, ...</Authors>
 		<EnabledByDefault>0</EnabledByDefault>
 		<EnabledAtStartup>0</EnabledAtStartup>
+		<CompatibleVersions>2.0</CompatibleVersions>
 	</Properties>
 	<LocalizedText>
 		<Text id="LOC_YNAMP_BMC_TITLE">
@@ -41,7 +42,6 @@
 			<File Priority="10">Data/CivilizationData.sql</File>
 			<File Priority="1">Data/CivilizationPost.xml</File>			
 			<File Priority="1">Data/CityNames.xml</File>
-			<File Priority="1">Data/Colors.xml</File>
 			<File Priority="1">Data/TSL.xml</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_POST_COMPONENTS">
@@ -58,6 +58,12 @@
 			<File>custom.sql</File>
 			<File>custom.xml</File>
 		</UpdateDatabase>
+		<UpdateColors id="YNAMP_BMC_COLORS">
+           	<Properties>
+				<LoadOrder>200051</LoadOrder>
+           	</Properties>
+			<File>Data/Colors.xml</File>
+		</UpdateColors>
 		<UpdateIcons id="YNAMP_BMC_ICONS">
 			<File>Data/Icons.xml</File>
 		</UpdateIcons>
