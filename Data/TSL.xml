@@ -50,7 +50,7 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MADAGASCAR"		X="36" Y="17" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MALAYSIA"		X="76" Y="32" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MALI"			X="8" Y="39" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MEXICO"		X="139" Y="48" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MEXICO"		X="138" Y="49" /> <!-- 139,48 is a volcano now -->
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MONGOLIA"		X="75" Y="70" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MOROCCO"		X="6" Y="48" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MYANMAR"		X="72" Y="44" />
@@ -72,6 +72,7 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SPAIN"			X="7" Y="57" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SUDAN"			X="33" Y="38" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SWEDEN"		X="24" Y="79" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SWEDEN_FIX"		X="24" Y="79" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SWITZERLAND"		X="17" Y="65" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_TANZANIA"		X="32" Y="25" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_THAILAND"		X="75" Y="40" />
@@ -160,11 +161,11 @@
 	<!-- Largest Earth -->
 	<ExtraPlacement>
 		<!-- Around Riyadh TSL -->
-		<Replace MapName="LargestEarth" X="52" Y="53" TerrainType="TERRAIN_PLAINS_HILLS" ResourceType="RESOURCE_SHEEP"/>
-		<Replace MapName="LargestEarth" X="52" Y="54" TerrainType="TERRAIN_PLAINS_HILLS" />
-		<Replace MapName="LargestEarth" X="52" Y="55" FeatureType="FEATURE_OASIS" />
-		<Replace MapName="LargestEarth" X="51" Y="53" FeatureType="FEATURE_OASIS" />
-		<Replace MapName="LargestEarth" X="53" Y="55" ResourceType="RESOURCE_STONE" />
+		<Replace MapName="LargestEarth" X="52" Y="53" Civilization="CIVILIZATION_ARABIA"	TerrainType="TERRAIN_PLAINS_HILLS" ResourceType="RESOURCE_SHEEP"/>
+		<Replace MapName="LargestEarth" X="52" Y="54" Civilization="CIVILIZATION_ARABIA"	TerrainType="TERRAIN_PLAINS_HILLS" />
+		<Replace MapName="LargestEarth" X="52" Y="55" Civilization="CIVILIZATION_ARABIA"	FeatureType="FEATURE_OASIS" />
+		<Replace MapName="LargestEarth" X="51" Y="53" Civilization="CIVILIZATION_ARABIA"	FeatureType="FEATURE_OASIS" />
+		<Replace MapName="LargestEarth" X="53" Y="55" Civilization="CIVILIZATION_ARABIA"	ResourceType="RESOURCE_STONE" />
 	</ExtraPlacement>
 	<StartPosition>
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_ALGERIA"		X="17" Y="64" />

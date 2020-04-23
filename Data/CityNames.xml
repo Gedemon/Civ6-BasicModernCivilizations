@@ -45,10 +45,11 @@
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_MIAMI"/>      
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_PHILADELPHIA"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_DALLAS"/>
+		<Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_ANCHORAGE" />
+        <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_SAN_FRANCISCO"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_PHOENIX"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_ATLANTA"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_BOSTON"/>
-        <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_SAN_FRANCISCO"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_DETROIT"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_SEATTLE"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_SAN_DIEGO"/>
@@ -57,8 +58,7 @@
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_TAMPA"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_ST_LOUIS"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_BALTIMORE"/>
-        <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_LAS_VEGAS"/>  
-        <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_SAN_ANTONIO"/>
+        <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_LAS_VEGAS"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_PORTLAND"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_CLEVELAND"/>
         <Replace CivilizationType="CIVILIZATION_AMERICA" CityName="LOC_CITY_NAME_PITTSBURGH"/>
@@ -1268,7 +1268,8 @@
         <Replace CivilizationType="CIVILIZATION_NORWAY" CityName="LOC_CITY_NAME_ALTA"/>
     </CityNames>
     <CityNames>     <!-- Papua New Guinea -->
-	<Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_PORT_MORESBY"/>    
+	<!--
+		<Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_PORT_MORESBY"/>    
         <Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_LAE"/>    
         <Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_WEWAK"/>      
         <Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_MADANG"/>
@@ -1298,6 +1299,7 @@
         <Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_KAINANTU"/>
         <Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_WAU"/>
         <Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_TARI"/>
+	-->
     </CityNames>
     <CityNames>     <!-- Pakistan -->  
          <Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_ISLAMABAD"/>
@@ -1581,6 +1583,7 @@
         <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_DUEIM"/>
     </CityNames>
     <CityNames>     <!-- Sweden -->
+		<!--
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_STOCKHOLM"/>    
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_GOTHENBURG"/>    
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_MALMO"/>      
@@ -1611,6 +1614,39 @@
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_SKOVDE"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_KARLSKRONA"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_SKELLEFTEA"/>
+		-->
+    </CityNames>
+	<CityNames>		<!-- Sweden test -->
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_STOCKHOLM"/>    
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_GOTHENBURG"/>    
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_MALMO"/>      
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_UPPSALA"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_VASTERAS"/>      
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_OREBRO"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_LINKOPING"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_HELSINGBORG"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_UMEA"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_JONKOPING"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_NORRKOPING"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_BORAS"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_LUND"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_GAVLE"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_ESKILSTUNA"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_HALMSTAD"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_VAXJO"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_SODERTALJE"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_KARLSTAD"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_SUNDSVALL"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_OSTERSUND"/>  
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_LULEA"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_TROLLHATTAN"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_BORLANGE"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_KALMAR"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_FALUN"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_KRISTIANSTAD"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_SKOVDE"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_KARLSKRONA"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_SKELLEFTEA"/>
     </CityNames>
     <CityNames>   	<!-- Tanzania -->
         <Replace CivilizationType="CIVILIZATION_TANZANIA" CityName="LOC_CITY_NAME_DODOMA"/>

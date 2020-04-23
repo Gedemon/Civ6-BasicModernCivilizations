@@ -39,10 +39,14 @@
 				<LoadOrder>200051</LoadOrder>
 				<!-- After GCO -->
            	</Properties>
+			<!--
+			<File Priority="50">Data/Colors.xml</File>
+			 -->
 			<File Priority="10">Data/CivilizationData.sql</File>
 			<File Priority="1">Data/CivilizationPost.xml</File>			
 			<File Priority="1">Data/CityNames.xml</File>
 			<File Priority="1">Data/TSL.xml</File>
+			<File Priority="1">Data/Scenario.xml</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_POST_COMPONENTS">
            	<Properties>
@@ -62,7 +66,9 @@
            	<Properties>
 				<LoadOrder>200051</LoadOrder>
            	</Properties>
-			<File>Data/Colors.xml</File>
+			<File Priority="100">Data/CivilizationTable.sql</File>
+			<File Priority="75">Data/PreColors.sql</File>
+			<File Priority="25">Data/CivilizationColors.sql</File>
 		</UpdateColors>
 		<UpdateIcons id="YNAMP_BMC_ICONS">
 			<File>Data/Icons.xml</File>
@@ -145,6 +151,7 @@
 			<File>Art/DIPLO_SPAIN.dds</File>
 			<File>Art/DIPLO_SUDAN.dds</File>
 			<File>Art/DIPLO_SWEDEN.dds</File>
+			<File>Art/DIPLO_SWEDEN_FIX.dds</File>
 			<File>Art/DIPLO_TANZANIA.dds</File>
 			<File>Art/DIPLO_THAILAND.dds</File>
 			<File>Art/DIPLO_TURKEY.dds</File>
@@ -210,6 +217,7 @@
 			<File>Art/LOADING_SPAIN.dds</File>
 			<File>Art/LOADING_SUDAN.dds</File>
 			<File>Art/LOADING_SWEDEN.dds</File>
+			<File>Art/LOADING_SWEDEN_FIX.dds</File>
 			<File>Art/LOADING_TANZANIA.dds</File>
 			<File>Art/LOADING_THAILAND.dds</File>
 			<File>Art/LOADING_TURKEY.dds</File>
@@ -237,10 +245,11 @@
 				<LoadOrder>100710</LoadOrder>
            	</Properties>
 			<File>Config/CivilizationsConfig.sql</File>
+			<File>Config/ScenarioConfig.xml</File>
 		</UpdateDatabase>
 		<UpdateDatabase id="YNAMP_BMC_POST_SETTING">		
            	<Properties>
-				<LoadOrder>100800</LoadOrder>
+				<LoadOrder>101000</LoadOrder>
            	</Properties>
 			<File>Config/PostConfig.sql</File>
 		</UpdateDatabase>
@@ -261,11 +270,20 @@
 				<LoadOrder>100800</LoadOrder>
            	</Properties>
 			<File>Text/CivilizationsText.sql</File>
+			<File>Text/ConfigText.xml</File>
 		</UpdateText>
 		<ImportFiles>
 			<File>UI/LoadScreen.lua</File>
 			<File>UI/LoadScreen.xml</File>
 		</ImportFiles>
+		<UpdateColors id="YNAMP_BMC_COLORS">
+           	<Properties>
+				<LoadOrder>200051</LoadOrder>
+           	</Properties>
+			<File Priority="100">Data/CivilizationTable.sql</File>
+			<File Priority="75">Data/PreColors.sql</File>
+			<File Priority="25">Data/CivilizationColors.sql</File>
+		</UpdateColors>
 	</FrontEndActions>
 	<Files>
 		<File>Data/Tables.sql</File>
@@ -274,12 +292,16 @@
 		<File>Data/CivilizationData.sql</File>
 		<File>Data/CivilizationPost.xml</File>
 		<File>Data/CityNames.xml</File>
-		<File>Data/Colors.xml</File>
+		<File>Data/PreColors.sql</File>
+		<File>Data/CivilizationColors.sql</File>
 		<File>Data/TSL.xml</File>
+		<File>Data/Scenario.xml</File>
 		<File>Data/PostData.sql</File>
 		<File>Text/CivilizationsText.sql</File>
 		<File>Text/GameText.xml</File>
+		<File>Text/ConfigText.xml</File>
 		<File>Config/CivilizationsConfig.sql</File>
+		<File>Config/ScenarioConfig.xml</File>
 		<File>Config/PostConfig.sql</File>
 		<File>InGame/ModInGame.xml</File>
 		<File>InGame/ModInGame.lua</File>
@@ -343,6 +365,7 @@
 		<File>Art/DIPLO_SPAIN.dds</File>
 		<File>Art/DIPLO_SUDAN.dds</File>
 		<File>Art/DIPLO_SWEDEN.dds</File>
+		<File>Art/DIPLO_SWEDEN_FIX.dds</File>
 		<File>Art/DIPLO_TANZANIA.dds</File>
 		<File>Art/DIPLO_THAILAND.dds</File>
 		<File>Art/DIPLO_TURKEY.dds</File>
@@ -408,6 +431,7 @@
 		<File>Art/LOADING_SPAIN.dds</File>
 		<File>Art/LOADING_SUDAN.dds</File>
 		<File>Art/LOADING_SWEDEN.dds</File>
+		<File>Art/LOADING_SWEDEN_FIX.dds</File>
 		<File>Art/LOADING_TANZANIA.dds</File>
 		<File>Art/LOADING_THAILAND.dds</File>
 		<File>Art/LOADING_TURKEY.dds</File>

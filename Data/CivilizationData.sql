@@ -30,15 +30,6 @@ DELETE FROM CivilizationLeaders;
 INSERT OR REPLACE INTO CivilizationLeaders (CivilizationType, LeaderType, CapitalName)
 	SELECT	'CIVILIZATION_' || Name, 'LEADER_' || Name, 'LOC_CITY_NAME_' || CapitalName
 	FROM CivilizationConfiguration;	
-
--- <PlayerColors> when primary color is NULL, it means there is a custom color available for that civilization
-INSERT OR REPLACE INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
-	SELECT	'LEADER_' || Name, 'Unique', 'COLOR_PLAYER_' || PrimaryColor, 'COLOR_PLAYER_' || SecondaryColor, 'COLOR_PLAYER_' || TextColor || '_TEXT'
-	FROM CivilizationConfiguration WHERE PrimaryColor NOT NULL;
-
-INSERT OR REPLACE INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
-	SELECT	'LEADER_' || Name, 'Unique', 'COLOR_PLAYER_' || Name || '_PRIMARY', 'COLOR_PLAYER_' || Name || '_SECONDARY', 'COLOR_PLAYER_' || TextColor || '_TEXT'
-	FROM CivilizationConfiguration WHERE PrimaryColor ISNULL;
 	
 -- <Leaders>
 --DELETE FROM Leaders; -- if we delete, must keep default and barbarian
@@ -61,10 +52,49 @@ INSERT OR REPLACE INTO DiplomacyInfo (Type, BackgroundImage)
 	SELECT	'LEADER_' || Name, 'DIPLO_' || Name || '.dds'
 	FROM CivilizationConfiguration;
 
+-----------------------------------------------
+-- Update Colors Database
+-----------------------------------------------
+
+CREATE TABLE IF NOT EXISTS 
+		TempColor (
+		Leader								text								default null,
+		PrimaryColor						text								default null,
+		SecondaryColor						text								default null);
+
+/*
+-- When primary color is NULL, it means there is a custom color available for that civilization
+INSERT OR REPLACE INTO TempColor (Leader, PrimaryColor, SecondaryColor)
+	SELECT	'LEADER_' || Name, 'COLOR_PLAYER_' || PrimaryColor, 'COLOR_PLAYER_' || SecondaryColor
+	FROM CivilizationConfiguration WHERE PrimaryColor NOT NULL;
+
+-- Else use the vanilla color
+INSERT OR REPLACE INTO TempColor (Leader, PrimaryColor, SecondaryColor)
+	SELECT	'LEADER_' || Name, 'COLOR_PLAYER_' || Name || '_PRIMARY', 'COLOR_PLAYER_' || Name || '_SECONDARY'
+	FROM CivilizationConfiguration WHERE PrimaryColor ISNULL;
+
+	
+-- <PlayerColors> when primary color is NULL, it means there is a custom color available for that civilization
+INSERT OR REPLACE INTO PlayerColors (Type, Usage, PrimaryColor,	SecondaryColor,	Alt1PrimaryColor,	Alt1SecondaryColor,	Alt2PrimaryColor,	Alt2SecondaryColor,	Alt3PrimaryColor,	Alt3SecondaryColor)
+	SELECT	Leader, 'Unique', PrimaryColor, SecondaryColor, PrimaryColor, SecondaryColor, PrimaryColor, SecondaryColor, PrimaryColor, SecondaryColor
+	FROM TempColor;
+*/
+/*
+-- <PlayerColors> when primary color is NULL, it means there is a custom color available for that civilization
+INSERT OR REPLACE INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
+	SELECT	'LEADER_' || Name, 'Unique', 'COLOR_PLAYER_' || PrimaryColor, 'COLOR_PLAYER_' || SecondaryColor, 'COLOR_PLAYER_' || TextColor || '_TEXT'
+	FROM CivilizationConfiguration WHERE PrimaryColor NOT NULL;
+
+INSERT OR REPLACE INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
+	SELECT	'LEADER_' || Name, 'Unique', 'COLOR_PLAYER_' || Name || '_PRIMARY', 'COLOR_PLAYER_' || Name || '_SECONDARY', 'COLOR_PLAYER_' || TextColor || '_TEXT'
+	FROM CivilizationConfiguration WHERE PrimaryColor ISNULL;
+*/
+
 	
 -----------------------------------------------
 -- Delete temporary table
 -----------------------------------------------
 
 DROP TABLE CivilizationConfiguration;
+DROP TABLE TempColor;
 

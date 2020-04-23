@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<!-- ENGLISH (en_US) -->
+	<LocalizedText>
+	
+		<Replace Tag="LOC_BMC_SCENARIO_PRESET_NAME" Language="en_US">
+		  <Text>Basic Modern Civilization (alpha)</Text>
+		</Replace>
+		<Replace Tag="LOC_BMC_SCENARIO_PRESET_DESC" Language="en_US">
+		  <Text>Placement presets to generate a modern world with Basic Modern Civilizations[NEWLINE][NEWLINE]It requires a map with a complete City Map table like the "Giant Earth Map", "Play Europe Again", "Largest Earth Map" with GiantEarth database reference or even the "Terra Map" with a high real land blending ratio.[NEWLINE][NEWLINE]This scenario shouldn't be available for map without associated City Names</Text>
+		</Replace>
+	
+	</LocalizedText>
+
+	
+</GameData>

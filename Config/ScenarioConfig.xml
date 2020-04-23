@@ -1,0 +1,21 @@
+<GameInfo>
+	
+	<DomainValues>
+
+		<Replace Domain="ScenarioType" 	Value="BasicModernCivilization" 		Name="LOC_BMC_SCENARIO_PRESET_NAME" 	Description="LOC_BMC_SCENARIO_PRESET_DESC" 			SortIndex="50"/> <!-- Filtered in PostConfig.sql -->
+		
+	</DomainValues>
+
+	<ParameterDependencies>
+	
+		<!-- Hide default parameters from Setup Screen -->
+		<Replace ParameterId="CityPlacement" 			ConfigurationGroup="Map" ConfigurationId="ScenarioType" 		Operator="NotEquals" 	ConfigurationValue="BasicModernCivilization"/>
+		<Replace ParameterId="BorderPlacement" 			ConfigurationGroup="Map" ConfigurationId="ScenarioType" 		Operator="NotEquals" 	ConfigurationValue="BasicModernCivilization"/>
+		<Replace ParameterId="InfrastructurePlacement" 	ConfigurationGroup="Map" ConfigurationId="ScenarioType" 		Operator="NotEquals" 	ConfigurationValue="BasicModernCivilization"/>
+
+		<!-- Fake entry used in YnAMP's PostConfig.sql (with LoadOrder = 9000000, your file must be below that) to mark if a scenario requires a CityMap, based on the presence of the AutoCityNaming option for a map -->
+		<Replace ParameterId="BasicModernCivilization"	ConfigurationGroup="Map" ConfigurationId="ScenarioType" Operator="Equals"	ConfigurationValue="RequireCityMap"/>
+
+	</ParameterDependencies>
+	
+</GameInfo>
