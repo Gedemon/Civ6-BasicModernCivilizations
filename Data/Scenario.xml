@@ -90,25 +90,25 @@
 	
 	<ScenarioCivilizations>		<!-- Vanilla Civilizations specific settings -->
 	
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_AMERICA"		Priority="75"	NumberOfCity="15"	OnlySameLandMass="false"	MaxDistanceFromCapital="75"	MinCitySeparation="4" SouthernLatitude="25"	NorthernLatitude="60"/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ARABIA"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="12"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_AUSTRALIA"	Priority="50"	NumberOfCity="10"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"	MinCitySeparation="4"	/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_BRAZIL"		Priority="50"	NumberOfCity="6"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CANADA"		Priority="50"	NumberOfCity="8"	OnlySameLandMass="false"	MaxDistanceFromCapital="50"	MinCitySeparation="4" SouthernLatitude="50"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_EGYPT"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_FRANCE"		Priority="75"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="8"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_GERMANY"		Priority="75"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="10"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_GREECE"		Priority="10"	NumberOfCity="3"	OnlySameLandMass="false"	MaxDistanceFromCapital="9"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_INDIA"		Priority="75"	NumberOfCity="8"	OnlySameLandMass="false"	MaxDistanceFromCapital="30"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_INDONESIA"	Priority="50"	NumberOfCity="6"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_JAPAN"		Priority="50"	NumberOfCity="4"	OnlySameLandMass="false"	MaxDistanceFromCapital="8"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_MALI"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_MONGOLIA"	Priority="50"	NumberOfCity="8"	OnlySameLandMass="false"	MaxDistanceFromCapital="30"	NorthernLatitude="60"	/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_NETHERLANDS"	Priority="50"	NumberOfCity="1"	OnlySameLandMass="false"	MaxDistanceFromCapital="4"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_NORWAY"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="12"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_POLAND"		Priority="50"	NumberOfCity="4"	OnlySameLandMass="false"	MaxDistanceFromCapital="5"		/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_RUSSIA"		Priority="75"	NumberOfCity="25"	OnlySameLandMass="false"	MaxDistanceFromCapital="99"	MinCitySeparation="5" SouthernLatitude="30"	/>
-		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SPAIN"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="5"		/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_AMERICA"		Priority="75"	NumberOfCity="18"	OnlySameLandMass="false"	MaxDistanceFromCapital="75"	RoadPlacement="PLACEMENT_PER_CITY"/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ARABIA"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="12" />
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_AUSTRALIA"	Priority="50"	NumberOfCity="10"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"	RoadPlacement="PLACEMENT_PER_CITY" />
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_BRAZIL"		Priority="50"	NumberOfCity="9"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"	RoadPlacement="PLACEMENT_PER_CITY" />
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CANADA"		Priority="50"	NumberOfCity="18"	OnlySameLandMass="false"	MaxDistanceFromCapital="50"	RoadPlacement="PLACEMENT_PER_CITY" BorderMaxDistance="8"/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_EGYPT"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_FRANCE"		Priority="75"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="8"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_GERMANY"		Priority="75"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="10"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_GREECE"		Priority="10"	NumberOfCity="3"	OnlySameLandMass="false"	MaxDistanceFromCapital="9"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_INDIA"		Priority="75"	NumberOfCity="8"	OnlySameLandMass="false"	MaxDistanceFromCapital="30"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_INDONESIA"	Priority="50"	NumberOfCity="8"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"	BorderMaxDistance="8"/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_JAPAN"		Priority="50"	NumberOfCity="8"	OnlySameLandMass="false"	MaxDistanceFromCapital="12"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_MALI"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="20"	BorderMaxDistance="8"/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_MONGOLIA"	Priority="50"	NumberOfCity="8"	OnlySameLandMass="false"	MaxDistanceFromCapital="30"	BorderMaxDistance="7"/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_NETHERLANDS"	Priority="50"	NumberOfCity="1"	OnlySameLandMass="false"	MaxDistanceFromCapital="4"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_NORWAY"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="12"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_POLAND"		Priority="50"	NumberOfCity="4"	OnlySameLandMass="false"	MaxDistanceFromCapital="5"	/>
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_RUSSIA"		Priority="75"	NumberOfCity="30"	OnlySameLandMass="false"	MaxDistanceFromCapital="99"	RoadPlacement="PLACEMENT_PER_CITY" BorderMaxDistance="9" />
+		<Row ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SPAIN"		Priority="50"	NumberOfCity="5"	OnlySameLandMass="false"	MaxDistanceFromCapital="5"	/>
 
 	</ScenarioCivilizations>	
 	
@@ -117,21 +117,21 @@
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ANGOLA"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ARGENTINA"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CHILE"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
-		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CHINA_PRC"	Priority="75"	NumberOfCity="15"	MaxDistanceFromCapital="40"	OnlySameLandMass="false"		/>
+		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CHINA_PRC"	Priority="75"	NumberOfCity="15"	MaxDistanceFromCapital="40"	OnlySameLandMass="false"	RoadPlacement="PLACEMENT_PER_CITY" />
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CHINA_ROC"	Priority="0"	NumberOfCity="2"	MaxDistanceFromCapital="5"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_COLOMBIA"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
-		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CONGO"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
+		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CONGO"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"	BorderMaxDistance="8" />
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_CUBA"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_DENMARK"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ETHIOPIA"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
-		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_FINLAND"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
+		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_FINLAND"		Priority="0"	NumberOfCity="3"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"	BorderMaxDistance="3" />
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ICELAND"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_IRAN"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_IRAQ"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_IRELAND"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ISRAEL"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ITALY"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
-		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_KAZAKHSTAN"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
+		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_KAZAKHSTAN"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"	BorderMaxDistance="8" />
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_KENYA"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_LIBYA"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_MADAGASCAR"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
@@ -142,15 +142,15 @@
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_NEW_ZEALAND"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_NIGERIA"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_NORTH_KOREA"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
-		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_PAKISTAN"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
+		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_PAKISTAN"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"	BorderMaxDistance="8" />
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_PERU"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
-		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_PHILIPPINES"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
+		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_PHILIPPINES"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"	BorderMaxDistance="8" />
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_PORTUGAL"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_ROMANIA"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
-		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SOUTH_AFRICA"Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
+		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SOUTH_AFRICA"Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"	BorderMaxDistance="10" />
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SOUTH_KOREA"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SUDAN"		Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
-		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SWEDEN_FIX"	Priority="60"	NumberOfCity="5"	MaxDistanceFromCapital="12"	OnlySameLandMass="false"		/>
+		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SWEDEN_FIX"	Priority="40"	NumberOfCity="5"	MaxDistanceFromCapital="12"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_SWITZERLAND"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_TANZANIA"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
 		<Replace ScenarioName="BasicModernCivilization" CivilizationType="CIVILIZATION_THAILAND"	Priority="0"	NumberOfCity="4"	MaxDistanceFromCapital="10"	OnlySameLandMass="false"		/>
