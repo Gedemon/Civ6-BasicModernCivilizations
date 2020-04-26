@@ -155,8 +155,7 @@
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_MENDOZA"/>       
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_SAN_MIGUEL"/>   
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_LA_PLATA"/>       
-        <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_MAR_DEL_PLATA"/>   
-        <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_SALTA"/>   
+        <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_MAR_DEL_PLATA"/>
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_SANTA_FE"/>   
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_SAN_JUAN"/>       
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_RESISTENCIA"/>   
@@ -170,6 +169,7 @@
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_PARANA"/>  
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_FORMOSA"/>         
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_COMODORO_RIVADAVIA"/>
+        <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_SALTA"/>   
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_RIO_GALLEGOS"/>
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_CATAMARCA"/>    
         <Replace CivilizationType="CIVILIZATION_ARGENTINA" CityName="LOC_CITY_NAME_LA_RIOJA"/>    
@@ -273,7 +273,6 @@
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_LONDON_CDN"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_REGINA"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_ST_JOHN_S_CDN"/>
-        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_WINDSOR"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_KELOWNA"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_SHERBROOKE"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_ABBOTSFORD"/>
@@ -295,6 +294,7 @@
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_WHITEHORSE"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_YELLOWKNIFE"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_LABRADOR_CITY"/>
+        <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_WINDSOR"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_IQALUIT"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_MARYSTOWN"/>
         <Replace CivilizationType="CIVILIZATION_CANADA" CityName="LOC_CITY_NAME_NAUJAAT"/>
@@ -436,7 +436,7 @@
         <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_FLORIDABLANCA"/>
         <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_TULUA"/>
         <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_APARTADO"/>
-        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_PANAMA_CITY"/> <!-- For scenario -->
+        <Replace CivilizationType="CIVILIZATION_COLOMBIA" CityName="LOC_CITY_NAME_PANAMA_CITY"/> <!-- in Panama, for scenario (or Gran Colombia) -->
     </CityNames>
 	<CityNames>		<!-- Congo -->
         <Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_KINSHASA"/>
@@ -1511,7 +1511,7 @@
 		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_TIKSI"/>
 		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_DIKSON"/>
 		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_ANADYR"/>
-		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_NORDVIK"/>
+		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_SYNNDASKO"/>
 		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_YUKAGIR"/>
 		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_KHODOVARIKHA"/>
 	</CityNames>
@@ -1538,6 +1538,8 @@
         <Replace CivilizationType="CIVILIZATION_SOUTH_AFRICA" CityName="LOC_CITY_NAME_KWADUKUZA"/>
         <Replace CivilizationType="CIVILIZATION_SOUTH_AFRICA" CityName="LOC_CITY_NAME_LADYSMITH"/>
         <Replace CivilizationType="CIVILIZATION_SOUTH_AFRICA" CityName="LOC_CITY_NAME_UPINGTON"/>
+        <Replace CivilizationType="CIVILIZATION_SOUTH_AFRICA" CityName="LOC_CITY_NAME_WALVIS_BAY"/> 	<!-- in Namibia, for Scenario -->
+        <Replace CivilizationType="CIVILIZATION_SOUTH_AFRICA" CityName="LOC_CITY_NAME_FRANCISTOWN"/> 	<!-- in Botswana, for Scenario -->
     </CityNames>
     <CityNames>     <!-- South Korea -->
         <Replace CivilizationType="CIVILIZATION_SOUTH_KOREA" CityName="LOC_CITY_NAME_SEOUL"/>    
@@ -1616,40 +1618,6 @@
         <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_KADUQLI"/>
         <Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_DUEIM"/>
     </CityNames>
-    <CityNames>     <!-- Sweden -->
-		<!--
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_STOCKHOLM"/>    
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_GOTHENBURG"/>    
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_MALMO"/>      
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_UPPSALA"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_VASTERAS"/>      
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_OREBRO"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_LINKOPING"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_HELSINGBORG"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_UMEA"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_JONKOPING"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_NORRKOPING"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_BORAS"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_LUND"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_GAVLE"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_ESKILSTUNA"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_HALMSTAD"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_VAXJO"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_SODERTALJE"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_KARLSTAD"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_SUNDSVALL"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_OSTERSUND"/>  
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_LULEA"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_TROLLHATTAN"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_BORLANGE"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_KALMAR"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_FALUN"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_KRISTIANSTAD"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_SKOVDE"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_KARLSKRONA"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN" CityName="LOC_CITY_NAME_SKELLEFTEA"/>
-		-->
-    </CityNames>
 	<CityNames>		<!-- Sweden Fix -->
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_STOCKHOLM"/>    
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_GOTHENBURG"/>    
@@ -1659,6 +1627,7 @@
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_OREBRO"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_LINKOPING"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_HELSINGBORG"/>
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_OSTERSUND"/> 
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_UMEA"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_JONKOPING"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_NORRKOPING"/>
@@ -1670,8 +1639,7 @@
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_VAXJO"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_SODERTALJE"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_KARLSTAD"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_SUNDSVALL"/>
-        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_OSTERSUND"/>  
+        <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_SUNDSVALL"/> 
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_LULEA"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_TROLLHATTAN"/>
         <Replace CivilizationType="CIVILIZATION_SWEDEN_FIX" CityName="LOC_CITY_NAME_BORLANGE"/>
@@ -1763,8 +1731,9 @@
         <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LEEDS"/>   
         <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LIVERPOOL"/>       
         <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_NEWCASTLE_UK"/>   
-        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_NOTTINGHAM"/>       
-        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BELFAST"/>  
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_NOTTINGHAM"/>
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_BELFAST"/>
+        <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_LANCASTER"/>  
         <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_GLASGOW"/>  
         <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_SHEFFIELD"/>
         <Replace CivilizationType="CIVILIZATION_UK" CityName="LOC_CITY_NAME_SOUTHHAMPTON"/>     

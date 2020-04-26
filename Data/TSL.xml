@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<!-- Giant Earth -->
+
+	<!-- Clean the StartPosition table -->
+	<StartPosition>
+		<Delete />
+	</StartPosition>
+	
+	<!-- ------------------ -->
+	<!-- 	Giant Earth 	-->
+	<!-- ------------------ -->
 	<ExtraPlacement>
 		<!-- Around Riyadh TSL -->
 		<Replace MapName="GiantEarth" X="39" Y="43" Civilization="CIVILIZATION_ARABIA"	TerrainType="TERRAIN_GRASS_HILLS" />
@@ -11,9 +19,16 @@
 		<!-- Copenhaguen TSL -->
 		<Replace MapName="GiantEarth" X="21" Y="75" Civilization="CIVILIZATION_DENMARK"	TerrainType="TERRAIN_GRASS" />
 	</ExtraPlacement>
-	
+
+	<!-- TSL override for Largest Earth modified landshapes when using the GiantEarth DB-->
 	<StartPosition>
-		<Delete />
+		<Replace MapScript="LargestEarthCustom.lua" Civilization="CIVILIZATION_DENMARK" 	X="26"	Y="95" />
+		<Replace MapScript="LargestEarthCustom.lua" Civilization="CIVILIZATION_FINLAND" 	X="37"	Y="99" />
+		<Replace MapScript="LargestEarthCustom.lua" Civilization="CIVILIZATION_ICELAND" 	X="2"	Y="104" />
+		<!-- -->
+	</StartPosition>
+	<!-- -->
+	<StartPosition>
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ALGERIA"		X="13" Y="52" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AMERICA"		X="155" Y="64" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ANGOLA"		X="21" Y="22" />
@@ -84,8 +99,10 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_VIETNAM"		X="77" Y="46" />
 
 	</StartPosition>
-
+	
+	<!-- ------------------ -->
 	<!-- Greatest Earth Map -->
+	<!-- ------------------ -->
 	<StartPosition>
 		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_ALGERIA"			X="45" Y="36" />
 		<Replace MapName="GreatestEarthMap" Civilization="CIVILIZATION_AMERICA"			X="19" Y="47" />
@@ -158,7 +175,9 @@
 		
 	</StartPosition>
 
-	<!-- Largest Earth -->
+	<!-- ------------------ -->
+	<!-- 	Largest Earth   -->
+	<!-- ------------------ -->
 	<ExtraPlacement>
 		<!-- Around Riyadh TSL -->
 		<Replace MapName="LargestEarth" X="52" Y="53" Civilization="CIVILIZATION_ARABIA"	TerrainType="TERRAIN_PLAINS_HILLS" ResourceType="RESOURCE_SHEEP"/>
@@ -222,7 +241,9 @@
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_VIETNAM"		X="101" Y="59" />
 	</StartPosition>
 
-	<!-- Play Europe Again -->
+	<!-- ------------------ -->
+	<!--  Play Europe Again -->
+	<!-- ------------------ -->
 	<StartPosition>		
 		<Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_ALGERIA" 		  X="24" Y="27" />
 		<Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_DENMARK" 		  X="47" Y="64" />
@@ -253,7 +274,9 @@
 	</StartPosition>
 
 
-	<!-- Cordiform Earth -->
+	<!-- ------------------ -->
+	<!--  Cordiform Earth   -->
+	<!-- ------------------ -->
 	<StartPosition>
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AMERICA"		X="13" Y="32" />
 		<Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ARGENTINA"		X="18" Y="6" />
