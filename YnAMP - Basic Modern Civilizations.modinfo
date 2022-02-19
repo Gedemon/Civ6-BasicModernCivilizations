@@ -45,7 +45,7 @@
 			<File Priority="10">Data/CivilizationData.sql</File>
 			<File Priority="1">Data/CivilizationPost.xml</File>			
 			<File Priority="1">Data/CityNames.xml</File>
-			<File Priority="1">Data/CitizenNames.xml</File>
+			<File Priority="1">Data/CitizenNames.sql</File>
 			<File Priority="1">Data/NamedPlaces.sql</File>
 			<File Priority="1">Data/Religions.sql</File>
 			<File Priority="1">Data/TSL.xml</File>
@@ -298,7 +298,7 @@
 		<File>Data/CivilizationData.sql</File>
 		<File>Data/CivilizationPost.xml</File>
 		<File>Data/CityNames.xml</File>
-		<File>Data/CitizenNames.xml</File>
+		<File>Data/CitizenNames.sql</File>
 		<File>Data/NamedPlaces.sql</File>
 		<File>Data/Religions.sql</File>
 		<File>Data/PreColors.sql</File>
