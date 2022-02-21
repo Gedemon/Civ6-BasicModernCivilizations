@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Mod id="61bdd50b-fa31-4d5b-9171-e239cca827a2">
 	<Properties>
 		<Name>LOC_YNAMP_BMC_TITLE</Name>
@@ -92,11 +92,11 @@
            	<Properties>
 				<LoadOrder>100700</LoadOrder>
            	</Properties>
-			<File>Text/CitizenNames_Text.sql</File>
+			<File>Text/CitizenText.sql</File>
 			<File>Text/CivilizationsText.sql</File>
 			<File>Text/GameText.xml</File>
 			<File>Text/LeaderText.sql</File>
-			<File>Text/NamedPlaces_Text.sql</File>
+			<File>Text/NamedPlaceText.sql</File>
 		</UpdateText>		
 		<ImportFiles id="YNAMP_BMC_IMPORT">
 			<File>Art/dom_blank.dds</File>
@@ -232,6 +232,7 @@
 			<File>Art/LOADING_UZBEKISTAN.dds</File>
 			<File>Art/LOADING_VENEZUELA.dds</File>
 			<File>Art/LOADING_VIETNAM.dds</File>
+			<File>UI/CityBannerManager.lua</File>
 			<File>UI/LoadScreen.lua</File>
 			<File>UI/LoadScreen.xml</File>
 		</ImportFiles>
@@ -306,17 +307,18 @@
 		<File>Data/TSL.xml</File>
 		<File>Data/Scenario.xml</File>
 		<File>Data/PostData.sql</File>
+		<File>Text/CitizenText.sql</File>
 		<File>Text/CivilizationsText.sql</File>
+		<File>Text/ConfigText.xml</File>
 		<File>Text/GameText.xml</File>
 		<File>Text/LeaderText.sql</File>
-		<File>Text/CitizenNames_Text.sql</File>
-		<File>Text/NamedPlaces_Text.sql</File>
-		<File>Text/ConfigText.xml</File>
+		<File>Text/NamedPlaceText.sql</File>
 		<File>Config/CivilizationsConfig.sql</File>
 		<File>Config/ScenarioConfig.xml</File>
 		<File>Config/PostConfig.sql</File>
 		<File>InGame/ModInGame.xml</File>
 		<File>InGame/ModInGame.lua</File>
+		<File>UI/CityBannerManager.lua</File>
 		<File>UI/LoadScreen.lua</File>
 		<File>UI/LoadScreen.xml</File>
 		<File>Art/dom_blank.dds</File>
