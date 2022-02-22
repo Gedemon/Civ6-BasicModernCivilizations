@@ -107,11 +107,15 @@ INSERT INTO CivilizationConfiguration
 --(	'BELGIUM',		'Players:StandardPlayers',	NULL,					NULL,					'YELLOW',	'EURO',		'BRUSSELS',	'Belgium', 		'Belgian',		'Kingdom of Belgium',				'Belgian Government'),--
 --(	'CZECHIA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'PRAGUE',	'Czechia',		'Czech',		'Czech Republic',				'Czech Government'),--
 --(	'FIJI',			'Players:StandardPlayers',	NULL,					NULL,					'BLUE',		'SOUTHAM',	'SUVA',		'Fiji',			'Fijian',		'Republic of Fiji',				'Fijian Government'),--
---(	'GEORGIA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'TBILISI',	'Georgia',		'Georgian',		'Republic of Georgi',				'Georgian Government'),--
+--(	'GEORGIA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'TBILISI',	'Georgia',		'Georgian',		'Republic of Georgia',				'Georgian Government'),--
 --(	'HUNGARY',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'EURO',		'BUDAPEST',	'Hungary',		'Hungarian',		'Hungary',					'Hungarian Government'),--
+--(	'LEBANON',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'MEDIT',	'BEIRUT',	'Lebanon', 		'Lebanese',		'Republic of Lebanon',				'Lebanese Government'),--
+--(	'LEBANON',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'MEDIT',	'KATHMANDU',	'Nepal', 		'Nepali',		'Federal Democratic Republic of Nepal',		'Nepali Government'),--
 --(	'PAPUA_NEW_GUINEA',	'Players:StandardPlayers',	NULL,					NULL,					'RED',		'ASIAN',	'PORT_MORESBY',	'Papua New Guinea',	'Papuan',		'Independent State of Papua New Guinea',	'Papuan Government'),--
 --(	'SOMALIA',		'Players:StandardPlayers',	NULL,					NULL,					'LIGHT_BLUE',	'AFRICAN',	'MOGADISHU',	'Somalia',		'Somali',		'Federal Republic of Somalia',			'Somali Government'),--
+--(	'SWITZERLAND'		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'BERN',		'Switzerland', 		'Swiss',		'Swiss Confederation',				'Swiss Government'),--
 --(	'UAE',			'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'MEDIT',	'ABU_DHABI',	'United Arab Emirates', 'Emirati',		'United Arab Emirates',				'Emirati Government'),--
+--(	'UGANDA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'AFRICAN',	'KAMPALA',	'Uganda',		'Ugandan',		'Republic of Uganda',				'Ugandan Government'),--
 --(	'ZIMBABWE',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'AFRICAN',	'HARARE',	'Zimbabwe',		'Zimbabwean',		'Republic of Zimbabwe',				'Zimbabwean Government'),--
 
 (	'END_OF_INSERT',	NULL,				NULL,					NULL,					NULL,		NULL,		NULL,		NULL,			NULL,			NULL,						NULL);	
