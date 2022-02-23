@@ -4,6 +4,7 @@
 	<!-- ENGLISH (en_US) -->
 
 	<LocalizedText>		<!-- Afghanistan -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_KABUL"						Text="Kabul"		  			Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_KANDAHAR"					Text="Kandahar"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_HERAT"						Text="Herat"					Language="en_US"/>
@@ -25,6 +26,7 @@
 		<Replace Tag="LOC_CITY_NAME_ZARANJ"						Text="Zaranj"		  			Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BALKH"						Text="Balkh"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BAMYAN"						Text="Bamyan"		 			Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Algeria -->
 		<Replace Tag="LOC_CITY_NAME_ALGIERS"					Text="Algiers"		  			Language="en_US"/>
@@ -58,7 +60,7 @@
 		<Replace Tag="LOC_CITY_NAME_ADRAR"						Text="Adrar"		 			Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TINDUF"						Text="Tinduf"		  			Language="en_US"/>
 	</LocalizedText>
-	<LocalizedText>				<!-- America -->
+	<LocalizedText>		<!-- America -->
 		<Replace Tag="LOC_CITY_NAME_WASHINGTON"					Text="Washington"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_NEW_YORK_CITY"				Text="New York City"			Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_LOS_ANGELES"				Text="Los Angeles"				Language="en_US"/>
@@ -241,6 +243,7 @@
 		<Replace Tag="LOC_CITY_NAME_COOBER_PEDY"				Text="Coober Pedy"				Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Austria -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_VIENNA"						Text="Vienna"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_GRAZ"						Text="Graz"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_LINZ"						Text="Linz"						Language="en_US"/>
@@ -261,8 +264,10 @@
 		<Replace Tag="LOC_CITY_NAME_WOLFSBERG"					Text="Wolfsberg"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_LEOBEN"						Text="Leoben"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_KREMS_AN_DER_DONAU"			Text="Krems an der Donau"		Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Bangladesh -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_DHAKA"						Text="Dhaka"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_CHITTAGONG"					Text="Chittagong"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_KHULNA"						Text="Khulna"					Language="en_US"/>
@@ -285,8 +290,10 @@
 		<Replace Tag="LOC_CITY_NAME_NARSINGDI"					Text="Narsingdi"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_NAWABGANJ"					Text="Nawabganj"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_CHANDPUR"					Text="Chandpur"					Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Belgium -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_BRUSSELS"					Text="Brussels"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_ANTWERP"					Text="Antwerp"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_GHENT"						Text="Ghent"					Language="en_US"/>
@@ -299,7 +306,6 @@
 		<Replace Tag="LOC_CITY_NAME_MOLENBEEK_SAINT_JEAN"		Text="Molenbeek-Saint-Jean"		Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_LEUVEN"						Text="Leuven"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_MONS"						Text="Mons"						Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_NAMUR"						Text="Namur"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_MECHELEN"					Text="Mechelen"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_AALST"						Text="Aalst"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_LA_LOUVIERE"				Text="La Louvière"				Language="en_US"/>
@@ -307,6 +313,7 @@
 		<Replace Tag="LOC_CITY_NAME_SINT_NIKLAAS"				Text="Sint-Niklaas"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_KORTRIJK"					Text="Kortrijk"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_OSTEND"						Text="Ostend"					Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Brazil -->
 		<Replace Tag="LOC_CITY_NAME_BRASILIA"					Text="Brasília"					Language="en_US"/>
@@ -582,6 +589,7 @@
 		<Replace Tag="LOC_CITY_NAME_VARADERO"					Text="Varadero"       	 		Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Czech Republic -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_PRAGUE"						Text="Prague"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BRNO"						Text="Brno"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_OSTRAVA"					Text="Ostrava"					Language="en_US"/>
@@ -609,6 +617,7 @@
 		<Replace Tag="LOC_CITY_NAME_PROSTEJOV"					Text="Prostějov"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_PREROV"						Text="Přerov"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TRINEC"						Text="Třinec"					Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Denmark -->
 		<Replace Tag="LOC_CITY_NAME_COPENHAGEN"					Text="Copenhagen"				Language="en_US"/>
@@ -691,6 +700,7 @@
 		<Replace Tag="LOC_CITY_NAME_ASELLA"						Text="Asella"					Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Fiji -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_SUVA"						Text="Suva"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_LAUTOKA"					Text="Lautoka"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BA"							Text="Ba"						Language="en_US"/>
@@ -714,6 +724,7 @@
 		<Replace Tag="LOC_CITY_NAME_KOROLEVU"					Text="Korolevu"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_NADELEI"					Text="Nadelei"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_NATUMBUA"					Text="Natumbua"					Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Finland -->
 		<Replace Tag="LOC_CITY_NAME_HELSINKI"					Text="Helsinki"					Language="en_US"/>
@@ -771,6 +782,7 @@
 		<Replace Tag="LOC_CITY_NAME_ORLEANS"					Text="Orléans"					Language="en_US"/>     
 	</LocalizedText>
 	<LocalizedText>		<!-- Georgia -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_TBILISI"					Text="Tbilisi"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BATUMI"						Text="Batumi"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_KUTAISI"					Text="Kutaisi"					Language="en_US"/>
@@ -794,6 +806,7 @@
 		<Replace Tag="LOC_CITY_NAME_SUKHUMI"					Text="Sukhumi"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TKVARCHELI"					Text="Tkvarcheli"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TSKHINVALI"					Text="Tskhinvali"				Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Germany -->
 		<Replace Tag="LOC_CITY_NAME_BERLIN"						Text="Berlin"					Language="en_US"/>
@@ -842,6 +855,7 @@
 		<Replace Tag="LOC_CITY_NAME_MYTILENE"					Text="Mytilene"					Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Hungary -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_BUDAPEST"					Text="Budapest"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_DEBRECEN"					Text="Debrecen"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SZEGED"						Text="Szeged"					Language="en_US"/>
@@ -865,6 +879,7 @@
 		<Replace Tag="LOC_CITY_NAME_DUNAUJVAROS"				Text="Dunaújváros"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_HODMEZOVASARHELY"			Text="Hódmezővásárhely"			Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_DUNAKESZI"					Text="Dunakeszi"				Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Iceland -->
 		<Replace Tag="LOC_CITY_NAME_REYKJAVIK"					Text="Reykjavík"				Language="en_US"/>
@@ -1146,6 +1161,7 @@
 		<Replace Tag="LOC_CITY_NAME_KIMILILI"					Text="Kimilili"					Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Lebanon -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_BEIRUT"						Text="Beitrut"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TRIPOLI_LEBANON"			Text="Tripoli"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SIDON"						Text="Sidon"					Language="en_US"/>
@@ -1166,6 +1182,7 @@
 		<Replace Tag="LOC_CITY_NAME_NAQOURA"					Text="Naqoura"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TOURA"						Text="Toura"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_JEZZINE"					Text="Jezzine"					Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Libya -->
 		<Replace Tag="LOC_CITY_NAME_TRIPOLI"					Text="Tripoli"					Language="en_US"/>
@@ -1361,6 +1378,7 @@
 		<Replace Tag="LOC_CITY_NAME_DAKHLA"						Text="Dakhla"					Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Nepal -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_KATHMANDU"					Text="Kathmandu"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_POKHARA"					Text="Pokhara"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BHARATPUR"					Text="Bharatpur"				Language="en_US"/>
@@ -1383,6 +1401,7 @@
 		<Replace Tag="LOC_CITY_NAME_TARAKESHWAR"				Text="Tarakeshwar"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_GOKARNESHWAR"				Text="Gokarneshwar"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TILOTTAMA"					Text="Tilottama"				Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Netherlands -->
 		<Replace Tag="LOC_CITY_NAME_AMSTERDAM"					Text="Amsterdam"				Language="en_US"/>
@@ -1499,6 +1518,7 @@
 		<Replace Tag="LOC_CITY_NAME_ALTA"						Text="Alta"						Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Papua New Guinea -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_PORT_MORESBY"				Text="Port Moresby"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_LAE"						Text="Lae"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_WEWAK"						Text="Wewak"					Language="en_US"/>
@@ -1529,6 +1549,7 @@
 		<Replace Tag="LOC_CITY_NAME_KAINANTU"					Text="Kainantu"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_WAU"						Text="Wau"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TARI"						Text="Tari"						Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Pakistan -->
 		<Replace Tag="LOC_CITY_NAME_ISLAMABAD"					Text="Islamabad"				Language="en_US"/>
@@ -1712,6 +1733,7 @@
 		<Replace Tag="LOC_CITY_NAME_NORILSK"					Text="Norilsk"					Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Somalia -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_MOGADISHU"					Text="Mogadishu"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_MARKA"						Text="Marka"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_JAMAAME"					Text="Jamaame"					Language="en_US"/>
@@ -1744,6 +1766,7 @@
 		<Replace Tag="LOC_CITY_NAME_HARGEISA"					Text="Hargeisa"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BURAO"						Text="Burao"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BERBERA"					Text="Berbera"					Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- South Africa -->
 		<Replace Tag="LOC_CITY_NAME_CAPE_TOWN"					Text="Cape Town"				Language="en_US"/>
@@ -1879,6 +1902,7 @@
 		<Replace Tag="LOC_CITY_NAME_SKELLEFTEA"					Text="Skellefteå"				Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Switzerland -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_BERN"						Text="Bern"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_ZURICH"						Text="Zürich"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BASEL"						Text="Basel"					Language="en_US"/>
@@ -1902,6 +1926,7 @@
 		<Replace Tag="LOC_CITY_NAME_NEUCHATEL"					Text="Neuchâtel"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_ZUG"						Text="Zug"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_FRAUENFELD"					Text="Frauenfeld"				Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- Tanzania -->
 		<Replace Tag="LOC_CITY_NAME_DODOMA"						Text="Dodoma"					Language="en_US"/>
@@ -1978,6 +2003,7 @@
 		<Replace Tag="LOC_CITY_NAME_TRABZON"					Text="Trabzon"					Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Uganda -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_KAMPALA"					Text="Kampala"		  			Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_NANSANA"					Text="Nansana"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_KIRA"						Text="Kira"						Language="en_US"/>
@@ -1999,8 +2025,10 @@
 		<Replace Tag="LOC_CITY_NAME_ENTEBBE"					Text="Entebbe"		  			Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_KITGUM"						Text="Kitgum"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SOROTI"						Text="Soroti"		 			Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- United Arab Emirates -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_ABU_DHABI"					Text="Dubai"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_DUBAI"						Text="Abu Dhabi"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SHARJAH"					Text="Sharjah"					Language="en_US"/>
@@ -2024,9 +2052,10 @@
 		<Replace Tag="LOC_CITY_NAME_AL_MADAM"					Text="Al Madam"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_ZUBARAH"					Text="Zubarah"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SWEIHAN"					Text="Sweihan"					Language="en_US"/>
+	-->
 	</LocalizedText>
 	<LocalizedText>		<!-- United Kingdom -->
-	 		<Replace Tag="LOC_CITY_NAME_LONDON"						Text="London"					Language="en_US"/>
+	 	<Replace Tag="LOC_CITY_NAME_LONDON"						Text="London"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_MANCHESTER"					Text="Manchester"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BIRMINGHAM"					Text="Birmingham"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_GLASGOW"					Text="Glasgow"					Language="en_US"/>
@@ -2150,6 +2179,7 @@
 		<Replace Tag="LOC_CITY_NAME_BAC_LIEU"					Text="Bac Liêu"					Language="en_US"/>
  	</LocalizedText>
 	<LocalizedText>		<!-- Zimbabwe -->
+	<!--
 		<Replace Tag="LOC_CITY_NAME_HARARE"						Text="Harare"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BULAWAYO"					Text="Bulawayo"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_CHITUNGWIZA"				Text="Chitungwiza"				Language="en_US"/>
@@ -2170,6 +2200,7 @@
 		<Replace Tag="LOC_CITY_NAME_REDCLIFFE"					Text="Redcliffe"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_HWANGE"						Text="Hwange"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_RUSAPE"						Text="Rusape"					Language="en_US"/>
+	-->
 	</LocalizedText>
 
 	<!-- SIMPLIFIED CHINESE (zh_Hans_CN) -->
@@ -2411,7 +2442,7 @@
 		<Replace Tag="LOC_CITY_NAME_TUY_HOA"					Text="绥和"						Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CITY_NAME_BAC_LIEU"					Text="薄寮"						Language="zh_Hans_CN"/>
 	</LocalizedText>
-	<LocalizedText>			 <!-- nation name -->
+	<LocalizedText>		<!-- nation name -->
 		<Replace Tag="LOC_CIVILIZATION_ALGERIA_NAME"			Text="阿尔及利亚"				Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_AMERICA_NAME"			Text="美国"						Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_ANGOLA_NAME"				Text="安哥拉"					Language="zh_HANS_CN"/>
