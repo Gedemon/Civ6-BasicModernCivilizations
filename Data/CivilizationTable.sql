@@ -111,6 +111,7 @@ INSERT INTO CivilizationConfiguration
 --(	'GEORGIA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'TBILISI',	'Georgia',		'Georgian',		'Republic of Georgia',				'Georgian Government'),--
 --(	'HUNGARY',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'EURO',		'BUDAPEST',	'Hungary',		'Hungarian',		'Hungary',					'Hungarian Government'),--
 --(	'LEBANON',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'MEDIT',	'BEIRUT',	'Lebanon', 		'Lebanese',		'Republic of Lebanon',				'Lebanese Government'),--
+--(	'MALDIVES',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'ASIAN',	'MALE',		'Maldives', 		'Maldivian',		'Republic of the Maldives',			'Maldivian Government'),--
 --(	'NEPAL',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'ASIAN',	'KATHMANDU',	'Nepal', 		'Nepali',		'Federal Democratic Republic of Nepal',		'Nepali Government'),--
 --(	'PAPUA_NEW_GUINEA',	'Players:StandardPlayers',	NULL,					NULL,					'RED',		'ASIAN',	'PORT_MORESBY',	'Papua New Guinea',	'Papuan',		'Independent State of Papua New Guinea',	'Papuan Government'),--
 --(	'SOMALIA',		'Players:StandardPlayers',	NULL,					NULL,					'LIGHT_BLUE',	'AFRICAN',	'MOGADISHU',	'Somalia',		'Somali',		'Federal Republic of Somalia',			'Somali Government'),--
