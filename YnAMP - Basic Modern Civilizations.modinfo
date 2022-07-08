@@ -4,7 +4,7 @@
 		<Name>LOC_YNAMP_BMC_TITLE</Name>
 		<Teaser>LOC_YNAMP_BMC_TEASER</Teaser>
 		<Description>LOC_YNAMP_BMC_DESCRIPTION</Description>
-		<Authors>Mobfire, DarthStarkiller, Gedemon, ...</Authors>
+		<Authors>Mobfire, DarthStarkiller, Gedemon, GameBoy2936, ...</Authors>
 		<EnabledByDefault>0</EnabledByDefault>
 		<EnabledAtStartup>0</EnabledAtStartup>
 		<CompatibleVersions>2.0</CompatibleVersions>
@@ -17,7 +17,7 @@
 			<en_US>65 Basic Modern Civilizations for YnAMP</en_US>
 		</Text>
 		<Text id="LOC_YNAMP_BMC_DESCRIPTION">
-			<en_US>65 Basic Modern Civilizations for YnAMP. Custom icons, colors, loading and diplo screens. No specific leaders, abilities or uniques, all Civilizations are identical.[NEWLINE][NEWLINE]True Starting Location for:[NEWLINE][ICON_Bullet]Giant Earth Map[NEWLINE][NEWLINE]Civilization list:[NEWLINE][ICON_Bullet]Algeria[NEWLINE][ICON_Bullet]America (United States of)[NEWLINE][ICON_Bullet]Angola[NEWLINE][ICON_Bullet]Arabia[NEWLINE][ICON_Bullet]Argentina[NEWLINE][ICON_Bullet]Australia[NEWLINE][ICON_Bullet]Brazil[NEWLINE][ICON_Bullet]Canada[NEWLINE][ICON_Bullet]Chile[NEWLINE][ICON_Bullet]China (PRC)[NEWLINE][ICON_Bullet]China (ROC)[NEWLINE][ICON_Bullet]Colombia[NEWLINE][ICON_Bullet]Congo[NEWLINE][ICON_Bullet]Cuba[NEWLINE][ICON_Bullet]Denmark[NEWLINE][ICON_Bullet]Egypt[NEWLINE][ICON_Bullet]Ethiopia[NEWLINE][ICON_Bullet]Finland[NEWLINE][ICON_Bullet]France[NEWLINE][ICON_Bullet]Germany[NEWLINE][ICON_Bullet]Greece[NEWLINE][ICON_Bullet]Iceland[NEWLINE][ICON_Bullet]India[NEWLINE][ICON_Bullet]Indonesia[NEWLINE][ICON_Bullet]Iran[NEWLINE][ICON_Bullet]Iraq[NEWLINE][ICON_Bullet]Ireland[NEWLINE][ICON_Bullet]Israel[NEWLINE][ICON_Bullet]Italy[NEWLINE][ICON_Bullet]Japan[NEWLINE][ICON_Bullet]Kazakhstan[NEWLINE][ICON_Bullet]Kenya[NEWLINE][ICON_Bullet]Libya[NEWLINE][ICON_Bullet]Madagascar[NEWLINE][ICON_Bullet]Malaysia[NEWLINE][ICON_Bullet]Mali[NEWLINE][ICON_Bullet]Mexico[NEWLINE][ICON_Bullet]Mongolia[NEWLINE][ICON_Bullet]Morocco[NEWLINE][ICON_Bullet]Myanmar[NEWLINE][ICON_Bullet]Netherlands[NEWLINE][ICON_Bullet]New Zealand[NEWLINE][ICON_Bullet]Nigeria[NEWLINE][ICON_Bullet]North Korea[NEWLINE][ICON_Bullet]Norway[NEWLINE][ICON_Bullet]Pakistan[NEWLINE][ICON_Bullet]Peru[NEWLINE][ICON_Bullet]Philippines[NEWLINE][ICON_Bullet]Poland[NEWLINE][ICON_Bullet]Portugal[NEWLINE][ICON_Bullet]Romania[NEWLINE][ICON_Bullet]Russia[NEWLINE][ICON_Bullet]South Africa[NEWLINE][ICON_Bullet]South Korea[NEWLINE][ICON_Bullet]Spain[NEWLINE][ICON_Bullet]Sudan[NEWLINE][ICON_Bullet]Sweden[NEWLINE][ICON_Bullet]Tanzania[NEWLINE][ICON_Bullet]Thailand[NEWLINE][ICON_Bullet]Turkey[NEWLINE][ICON_Bullet]United Kingdom[NEWLINE][ICON_Bullet]Ukraine[NEWLINE][ICON_Bullet]Uzbekistan[NEWLINE][ICON_Bullet]Venezuela[NEWLINE][ICON_Bullet]Vietnam[NEWLINE][NEWLINE]Possibly in the future:[NEWLINE][ICON_Bullet]Belgium[NEWLINE][ICON_Bullet]Bolivia[NEWLINE][ICON_Bullet]Czech Republic[NEWLINE][ICON_Bullet][NEWLINE][ICON_Bullet]Ecuador[NEWLINE][ICON_Bullet]Fiji[NEWLINE][ICON_Bullet]Georgia[NEWLINE][ICON_Bullet]Ghana[ICON_Bullet]Hungary[NEWLINE][ICON_Bullet]Jamaica[NEWLINE][ICON_Bullet]Nepal[NEWLINE][ICON_Bullet]Papua New Guinea[NEWLINE][ICON_Bullet]Senegal[NEWLINE][ICON_Bullet]Serbia[NEWLINE][ICON_Bullet]Uruguay[NEWLINE][ICON_Bullet]Zimbabwe[NEWLINE][NEWLINE]Credits:[NEWLINE][ICON_Bullet]Mobfire (Diplo/Loading Screens selection, Color Schemes and City lists)[NEWLINE][ICON_Bullet]DarthStarkiller (Civilization icons)[NEWLINE][ICON_Bullet]Janboruta (Spain, Norway, Poland and Russia icons)[NEWLINE][ICON_Bullet]Gedemon (coding)[NEWLINE][ICON_Bullet]And everyone contributing on CFC, thanks to all of you!</en_US>
+			<en_US>83 Basic Modern Civilizations for YnAMP. Custom icons, colors, loading and diplo screens. No specific leaders, abilities or uniques, all Civilizations are identical.[NEWLINE][NEWLINE]True Starting Location for:[NEWLINE][ICON_Bullet]Giant Earth Map[NEWLINE][NEWLINE]Civilization list:[NEWLINE][ICON_Bullet]Algeria[NEWLINE][ICON_Bullet]America (United States of)[NEWLINE][ICON_Bullet]Angola[NEWLINE][ICON_Bullet]Arabia[NEWLINE][ICON_Bullet]Argentina[NEWLINE][ICON_Bullet]Australia[NEWLINE][ICON_Bullet]Brazil[NEWLINE][ICON_Bullet]Canada[NEWLINE][ICON_Bullet]Chile[NEWLINE][ICON_Bullet]China (PRC)[NEWLINE][ICON_Bullet]China (ROC)[NEWLINE][ICON_Bullet]Colombia[NEWLINE][ICON_Bullet]Congo[NEWLINE][ICON_Bullet]Cuba[NEWLINE][ICON_Bullet]Denmark[NEWLINE][ICON_Bullet]Egypt[NEWLINE][ICON_Bullet]Ethiopia[NEWLINE][ICON_Bullet]Finland[NEWLINE][ICON_Bullet]France[NEWLINE][ICON_Bullet]Germany[NEWLINE][ICON_Bullet]Greece[NEWLINE][ICON_Bullet]Iceland[NEWLINE][ICON_Bullet]India[NEWLINE][ICON_Bullet]Indonesia[NEWLINE][ICON_Bullet]Iran[NEWLINE][ICON_Bullet]Iraq[NEWLINE][ICON_Bullet]Ireland[NEWLINE][ICON_Bullet]Israel[NEWLINE][ICON_Bullet]Italy[NEWLINE][ICON_Bullet]Japan[NEWLINE][ICON_Bullet]Kazakhstan[NEWLINE][ICON_Bullet]Kenya[NEWLINE][ICON_Bullet]Libya[NEWLINE][ICON_Bullet]Madagascar[NEWLINE][ICON_Bullet]Malaysia[NEWLINE][ICON_Bullet]Mali[NEWLINE][ICON_Bullet]Mexico[NEWLINE][ICON_Bullet]Mongolia[NEWLINE][ICON_Bullet]Morocco[NEWLINE][ICON_Bullet]Myanmar[NEWLINE][ICON_Bullet]Netherlands[NEWLINE][ICON_Bullet]New Zealand[NEWLINE][ICON_Bullet]Nigeria[NEWLINE][ICON_Bullet]North Korea[NEWLINE][ICON_Bullet]Norway[NEWLINE][ICON_Bullet]Pakistan[NEWLINE][ICON_Bullet]Peru[NEWLINE][ICON_Bullet]Philippines[NEWLINE][ICON_Bullet]Poland[NEWLINE][ICON_Bullet]Portugal[NEWLINE][ICON_Bullet]Romania[NEWLINE][ICON_Bullet]Russia[NEWLINE][ICON_Bullet]South Africa[NEWLINE][ICON_Bullet]South Korea[NEWLINE][ICON_Bullet]Spain[NEWLINE][ICON_Bullet]Sudan[NEWLINE][ICON_Bullet]Sweden[NEWLINE][ICON_Bullet]Tanzania[NEWLINE][ICON_Bullet]Thailand[NEWLINE][ICON_Bullet]Turkey[NEWLINE][ICON_Bullet]United Kingdom[NEWLINE][ICON_Bullet]Ukraine[NEWLINE][ICON_Bullet]Uzbekistan[NEWLINE][ICON_Bullet]Venezuela[NEWLINE][ICON_Bullet]Vietnam[NEWLINE][NEWLINE]Possibly in the future:[NEWLINE][ICON_Bullet]Belgium[NEWLINE][ICON_Bullet]Bolivia[NEWLINE][ICON_Bullet]Czech Republic[NEWLINE][ICON_Bullet][NEWLINE][ICON_Bullet]Ecuador[NEWLINE][ICON_Bullet]Fiji[NEWLINE][ICON_Bullet]Georgia[NEWLINE][ICON_Bullet]Ghana[ICON_Bullet]Hungary[NEWLINE][ICON_Bullet]Jamaica[NEWLINE][ICON_Bullet]Nepal[NEWLINE][ICON_Bullet]Papua New Guinea[NEWLINE][ICON_Bullet]Senegal[NEWLINE][ICON_Bullet]Serbia[NEWLINE][ICON_Bullet]Uruguay[NEWLINE][ICON_Bullet]Zimbabwe[NEWLINE][NEWLINE]Credits:[NEWLINE][ICON_Bullet]Mobfire (Diplo/Loading Screens selection, Color Schemes and City lists)[NEWLINE][ICON_Bullet]DarthStarkiller (Civilization icons)[NEWLINE][ICON_Bullet]Janboruta (Spain, Norway, Poland and Russia icons)[NEWLINE][ICON_Bullet]Gedemon (coding)[NEWLINE][ICON_Bullet]GameBoy2936 (2022 release's new countries, citizen names, named features, etc.)[NEWLINE][ICON_Bullet]And everyone contributing on CFC, thanks to all of you!</en_US>
 		</Text>
 	</LocalizedText>	
 	<InGameActions>
@@ -100,13 +100,18 @@
 		</UpdateText>		
 		<ImportFiles id="YNAMP_BMC_IMPORT">
 			<File>Art/dom_blank.dds</File>
+			<File>Art/DIPLO_AFGHANISTAN.dds</File>
 			<File>Art/DIPLO_ALGERIA.dds</File>
 			<File>Art/DIPLO_AMERICA.dds</File>
 			<File>Art/DIPLO_ANGOLA.dds</File>
 			<File>Art/DIPLO_ARABIA.dds</File>
 			<File>Art/DIPLO_ARGENTINA.dds</File>
 			<File>Art/DIPLO_AUSTRALIA.dds</File>
+			<File>Art/DIPLO_AUSTRIA.dds</File>
+			<File>Art/DIPLO_BANGLADESH.dds</File>
+			<File>Art/DIPLO_BELGIUM.dds</File>
 			<File>Art/DIPLO_BRAZIL.dds</File>
+			<File>Art/DIPLO_BULGARIA.dds</File>
 			<File>Art/DIPLO_CANADA.dds</File>
 			<File>Art/DIPLO_CHILE.dds</File>
 			<File>Art/DIPLO_CHINA_PRC.dds</File>
@@ -114,13 +119,17 @@
 			<File>Art/DIPLO_COLOMBIA.dds</File>
 			<File>Art/DIPLO_CONGO.dds</File>
 			<File>Art/DIPLO_CUBA.dds</File>
+			<File>Art/DIPLO_CZECHIA.dds</File>
 			<File>Art/DIPLO_DENMARK.dds</File>
 			<File>Art/DIPLO_EGYPT.dds</File>
 			<File>Art/DIPLO_ETHIOPIA.dds</File>
+			<File>Art/DIPLO_FIJI.dds</File>
 			<File>Art/DIPLO_FINLAND.dds</File>
 			<File>Art/DIPLO_FRANCE.dds</File>
+			<File>Art/DIPLO_GEORGIA.dds</File>
 			<File>Art/DIPLO_GERMANY.dds</File>
 			<File>Art/DIPLO_GREECE.dds</File>
+			<File>Art/DIPLO_HUNGARY.dds</File>
 			<File>Art/DIPLO_ICELAND.dds</File>
 			<File>Art/DIPLO_INDIA.dds</File>
 			<File>Art/DIPLO_INDONESIA.dds</File>
@@ -132,47 +141,61 @@
 			<File>Art/DIPLO_JAPAN.dds</File>
 			<File>Art/DIPLO_KAZAKHSTAN.dds</File>
 			<File>Art/DIPLO_KENYA.dds</File>
+			<File>Art/DIPLO_LEBANON.dds</File>
 			<File>Art/DIPLO_LIBYA.dds</File>
 			<File>Art/DIPLO_MADAGASCAR.dds</File>
 			<File>Art/DIPLO_MALAYSIA.dds</File>
+			<File>Art/DIPLO_MALDIVES.dds</File>
 			<File>Art/DIPLO_MALI.dds</File>
 			<File>Art/DIPLO_MEXICO.dds</File>
 			<File>Art/DIPLO_MONGOLIA.dds</File>
 			<File>Art/DIPLO_MOROCCO.dds</File>
 			<File>Art/DIPLO_MYANMAR.dds</File>
+			<File>Art/DIPLO_NEPAL.dds</File>
 			<File>Art/DIPLO_NETHERLANDS.dds</File>
 			<File>Art/DIPLO_NEW_ZEALAND.dds</File>
 			<File>Art/DIPLO_NIGERIA.dds</File>
 			<File>Art/DIPLO_NORTH_KOREA.dds</File>
 			<File>Art/DIPLO_NORWAY.dds</File>
 			<File>Art/DIPLO_PAKISTAN.dds</File>
+			<File>Art/DIPLO_PAPUA_NEW_GUINEA.dds</File>
 			<File>Art/DIPLO_PERU.dds</File>
 			<File>Art/DIPLO_PHILIPPINES.dds</File>
 			<File>Art/DIPLO_POLAND.dds</File>
 			<File>Art/DIPLO_PORTUGAL.dds</File>
 			<File>Art/DIPLO_ROMANIA.dds</File>
 			<File>Art/DIPLO_RUSSIA.dds</File>
+			<File>Art/DIPLO_SOMALIA.dds</File>
 			<File>Art/DIPLO_SOUTH_AFRICA.dds</File>
 			<File>Art/DIPLO_SOUTH_KOREA.dds</File>
 			<File>Art/DIPLO_SPAIN.dds</File>
 			<File>Art/DIPLO_SUDAN.dds</File>
 			<File>Art/DIPLO_SWEDEN.dds</File>
 			<File>Art/DIPLO_SWEDEN_FIX.dds</File>
+			<File>Art/DIPLO_SWITZERLAND.dds</File>
 			<File>Art/DIPLO_TANZANIA.dds</File>
 			<File>Art/DIPLO_THAILAND.dds</File>
 			<File>Art/DIPLO_TURKEY.dds</File>
+			<File>Art/DIPLO_UAE.dds</File>
+			<File>Art/DIPLO_UGANDA.dds</File>
 			<File>Art/DIPLO_UK.dds</File>
 			<File>Art/DIPLO_UKRAINE.dds</File>
 			<File>Art/DIPLO_UZBEKISTAN.dds</File>
 			<File>Art/DIPLO_VENEZUELA.dds</File>
 			<File>Art/DIPLO_VIETNAM.dds</File>
+			<File>Art/DIPLO_ZIMBABWE.dds</File>
+			<File>Art/LOADING_AFGHANISTAN.dds</File>
 			<File>Art/LOADING_ALGERIA.dds</File>
 			<File>Art/LOADING_AMERICA.dds</File>
 			<File>Art/LOADING_ANGOLA.dds</File>
 			<File>Art/LOADING_ARABIA.dds</File>
 			<File>Art/LOADING_ARGENTINA.dds</File>
 			<File>Art/LOADING_AUSTRALIA.dds</File>
+			<File>Art/LOADING_AUSTRIA.dds</File>
+			<File>Art/LOADING_BANGLADESH.dds</File>
+			<File>Art/LOADING_BELGIUM.dds</File>
 			<File>Art/LOADING_BRAZIL.dds</File>
+			<File>Art/LOADING_BULGARIA.dds</File>
 			<File>Art/LOADING_CANADA.dds</File>
 			<File>Art/LOADING_CHILE.dds</File>
 			<File>Art/LOADING_CHINA_PRC.dds</File>
@@ -180,13 +203,17 @@
 			<File>Art/LOADING_COLOMBIA.dds</File>
 			<File>Art/LOADING_CONGO.dds</File>
 			<File>Art/LOADING_CUBA.dds</File>
+			<File>Art/LOADING_CZECHIA.dds</File>
 			<File>Art/LOADING_DENMARK.dds</File>
 			<File>Art/LOADING_EGYPT.dds</File>
 			<File>Art/LOADING_ETHIOPIA.dds</File>
+			<File>Art/LOADING_FIJI.dds</File>
 			<File>Art/LOADING_FINLAND.dds</File>
 			<File>Art/LOADING_FRANCE.dds</File>
+			<File>Art/LOADING_GEORGIA.dds</File>
 			<File>Art/LOADING_GERMANY.dds</File>
 			<File>Art/LOADING_GREECE.dds</File>
+			<File>Art/LOADING_HUNGARY.dds</File>
 			<File>Art/LOADING_ICELAND.dds</File>
 			<File>Art/LOADING_INDIA.dds</File>
 			<File>Art/LOADING_INDONESIA.dds</File>
@@ -198,40 +225,49 @@
 			<File>Art/LOADING_JAPAN.dds</File>
 			<File>Art/LOADING_KAZAKHSTAN.dds</File>
 			<File>Art/LOADING_KENYA.dds</File>
+			<File>Art/LOADING_LEBANON.dds</File>
 			<File>Art/LOADING_LIBYA.dds</File>
 			<File>Art/LOADING_MADAGASCAR.dds</File>
 			<File>Art/LOADING_MALAYSIA.dds</File>
+			<File>Art/LOADING_MALDIVES.dds</File>
 			<File>Art/LOADING_MALI.dds</File>
 			<File>Art/LOADING_MEXICO.dds</File>
 			<File>Art/LOADING_MONGOLIA.dds</File>
 			<File>Art/LOADING_MOROCCO.dds</File>
 			<File>Art/LOADING_MYANMAR.dds</File>
+			<File>Art/LOADING_NEPAL.dds</File>
 			<File>Art/LOADING_NETHERLANDS.dds</File>
 			<File>Art/LOADING_NEW_ZEALAND.dds</File>
 			<File>Art/LOADING_NIGERIA.dds</File>
 			<File>Art/LOADING_NORTH_KOREA.dds</File>
 			<File>Art/LOADING_NORWAY.dds</File>
 			<File>Art/LOADING_PAKISTAN.dds</File>
+			<File>Art/LOADING_PAPUA_NEW_GUINEA.dds</File>
 			<File>Art/LOADING_PERU.dds</File>
 			<File>Art/LOADING_PHILIPPINES.dds</File>
 			<File>Art/LOADING_POLAND.dds</File>
 			<File>Art/LOADING_PORTUGAL.dds</File>
 			<File>Art/LOADING_ROMANIA.dds</File>
 			<File>Art/LOADING_RUSSIA.dds</File>
+			<File>Art/LOADING_SOMALIA.dds</File>
 			<File>Art/LOADING_SOUTH_AFRICA.dds</File>
 			<File>Art/LOADING_SOUTH_KOREA.dds</File>
 			<File>Art/LOADING_SPAIN.dds</File>
 			<File>Art/LOADING_SUDAN.dds</File>
 			<File>Art/LOADING_SWEDEN.dds</File>
 			<File>Art/LOADING_SWEDEN_FIX.dds</File>
+			<File>Art/LOADING_SWITZERLAND.dds</File>
 			<File>Art/LOADING_TANZANIA.dds</File>
 			<File>Art/LOADING_THAILAND.dds</File>
 			<File>Art/LOADING_TURKEY.dds</File>
+			<File>Art/LOADING_UAE.dds</File>
+			<File>Art/LOADING_UGANDA.dds</File>
 			<File>Art/LOADING_UK.dds</File>
 			<File>Art/LOADING_UKRAINE.dds</File>
 			<File>Art/LOADING_UZBEKISTAN.dds</File>
 			<File>Art/LOADING_VENEZUELA.dds</File>
 			<File>Art/LOADING_VIETNAM.dds</File>
+			<File>Art/LOADING_ZIMBABWE.dds</File>
 			<File>UI/CityBannerManager.lua</File>
 			<File>UI/LoadScreen.lua</File>
 			<File>UI/LoadScreen.xml</File>
@@ -322,79 +358,18 @@
 		<File>UI/LoadScreen.lua</File>
 		<File>UI/LoadScreen.xml</File>
 		<File>Art/dom_blank.dds</File>
-		<File>Art/DIPLO_ALGERIA.dds</File>
-		<File>Art/DIPLO_AMERICA.dds</File>
-		<File>Art/DIPLO_ANGOLA.dds</File>
-		<File>Art/DIPLO_ARABIA.dds</File>
-		<File>Art/DIPLO_ARGENTINA.dds</File>
-		<File>Art/DIPLO_AUSTRALIA.dds</File>
-		<File>Art/DIPLO_BRAZIL.dds</File>
-		<File>Art/DIPLO_CANADA.dds</File>
-		<File>Art/DIPLO_CHILE.dds</File>
-		<File>Art/DIPLO_CHINA_PRC.dds</File>
-		<File>Art/DIPLO_CHINA_ROC.dds</File>
-		<File>Art/DIPLO_COLOMBIA.dds</File>
-		<File>Art/DIPLO_CONGO.dds</File>
-		<File>Art/DIPLO_CUBA.dds</File>
-		<File>Art/DIPLO_DENMARK.dds</File>
-		<File>Art/DIPLO_EGYPT.dds</File>
-		<File>Art/DIPLO_ETHIOPIA.dds</File>
-		<File>Art/DIPLO_FINLAND.dds</File>
-		<File>Art/DIPLO_FRANCE.dds</File>
-		<File>Art/DIPLO_GERMANY.dds</File>
-		<File>Art/DIPLO_GREECE.dds</File>
-		<File>Art/DIPLO_ICELAND.dds</File>
-		<File>Art/DIPLO_INDIA.dds</File>
-		<File>Art/DIPLO_INDONESIA.dds</File>
-		<File>Art/DIPLO_IRAN.dds</File>
-		<File>Art/DIPLO_IRAQ.dds</File>
-		<File>Art/DIPLO_IRELAND.dds</File>
-		<File>Art/DIPLO_ISRAEL.dds</File>
-		<File>Art/DIPLO_ITALY.dds</File>
-		<File>Art/DIPLO_JAPAN.dds</File>
-		<File>Art/DIPLO_KAZAKHSTAN.dds</File>
-		<File>Art/DIPLO_KENYA.dds</File>
-		<File>Art/DIPLO_LIBYA.dds</File>
-		<File>Art/DIPLO_MADAGASCAR.dds</File>
-		<File>Art/DIPLO_MALAYSIA.dds</File>
-		<File>Art/DIPLO_MALI.dds</File>
-		<File>Art/DIPLO_MEXICO.dds</File>
-		<File>Art/DIPLO_MONGOLIA.dds</File>
-		<File>Art/DIPLO_MOROCCO.dds</File>
-		<File>Art/DIPLO_MYANMAR.dds</File>
-		<File>Art/DIPLO_NETHERLANDS.dds</File>
-		<File>Art/DIPLO_NEW_ZEALAND.dds</File>
-		<File>Art/DIPLO_NIGERIA.dds</File>
-		<File>Art/DIPLO_NORTH_KOREA.dds</File>
-		<File>Art/DIPLO_NORWAY.dds</File>
-		<File>Art/DIPLO_PAKISTAN.dds</File>
-		<File>Art/DIPLO_PERU.dds</File>
-		<File>Art/DIPLO_PHILIPPINES.dds</File>
-		<File>Art/DIPLO_POLAND.dds</File>
-		<File>Art/DIPLO_PORTUGAL.dds</File>
-		<File>Art/DIPLO_ROMANIA.dds</File>
-		<File>Art/DIPLO_RUSSIA.dds</File>
-		<File>Art/DIPLO_SOUTH_AFRICA.dds</File>
-		<File>Art/DIPLO_SOUTH_KOREA.dds</File>
-		<File>Art/DIPLO_SPAIN.dds</File>
-		<File>Art/DIPLO_SUDAN.dds</File>
-		<File>Art/DIPLO_SWEDEN.dds</File>
-		<File>Art/DIPLO_SWEDEN_FIX.dds</File>
-		<File>Art/DIPLO_TANZANIA.dds</File>
-		<File>Art/DIPLO_THAILAND.dds</File>
-		<File>Art/DIPLO_TURKEY.dds</File>
-		<File>Art/DIPLO_UK.dds</File>
-		<File>Art/DIPLO_UKRAINE.dds</File>
-		<File>Art/DIPLO_UZBEKISTAN.dds</File>
-		<File>Art/DIPLO_VENEZUELA.dds</File>
-		<File>Art/DIPLO_VIETNAM.dds</File>
+		<File>Art/LOADING_AFGHANISTAN.dds</File>
 		<File>Art/LOADING_ALGERIA.dds</File>
 		<File>Art/LOADING_AMERICA.dds</File>
 		<File>Art/LOADING_ANGOLA.dds</File>
 		<File>Art/LOADING_ARABIA.dds</File>
 		<File>Art/LOADING_ARGENTINA.dds</File>
 		<File>Art/LOADING_AUSTRALIA.dds</File>
+		<File>Art/LOADING_AUSTRIA.dds</File>
+		<File>Art/LOADING_BANGLADESH.dds</File>
+		<File>Art/LOADING_BELGIUM.dds</File>
 		<File>Art/LOADING_BRAZIL.dds</File>
+		<File>Art/LOADING_BULGARIA.dds</File>
 		<File>Art/LOADING_CANADA.dds</File>
 		<File>Art/LOADING_CHILE.dds</File>
 		<File>Art/LOADING_CHINA_PRC.dds</File>
@@ -402,13 +377,17 @@
 		<File>Art/LOADING_COLOMBIA.dds</File>
 		<File>Art/LOADING_CONGO.dds</File>
 		<File>Art/LOADING_CUBA.dds</File>
+		<File>Art/LOADING_CZECHIA.dds</File>
 		<File>Art/LOADING_DENMARK.dds</File>
 		<File>Art/LOADING_EGYPT.dds</File>
 		<File>Art/LOADING_ETHIOPIA.dds</File>
+		<File>Art/LOADING_FIJI.dds</File>
 		<File>Art/LOADING_FINLAND.dds</File>
 		<File>Art/LOADING_FRANCE.dds</File>
+		<File>Art/LOADING_GEORGIA.dds</File>
 		<File>Art/LOADING_GERMANY.dds</File>
 		<File>Art/LOADING_GREECE.dds</File>
+		<File>Art/LOADING_HUNGARY.dds</File>
 		<File>Art/LOADING_ICELAND.dds</File>
 		<File>Art/LOADING_INDIA.dds</File>
 		<File>Art/LOADING_INDONESIA.dds</File>
@@ -420,40 +399,49 @@
 		<File>Art/LOADING_JAPAN.dds</File>
 		<File>Art/LOADING_KAZAKHSTAN.dds</File>
 		<File>Art/LOADING_KENYA.dds</File>
+		<File>Art/LOADING_LEBANON.dds</File>
 		<File>Art/LOADING_LIBYA.dds</File>
 		<File>Art/LOADING_MADAGASCAR.dds</File>
 		<File>Art/LOADING_MALAYSIA.dds</File>
+		<File>Art/LOADING_MALDIVES.dds</File>
 		<File>Art/LOADING_MALI.dds</File>
 		<File>Art/LOADING_MEXICO.dds</File>
 		<File>Art/LOADING_MONGOLIA.dds</File>
 		<File>Art/LOADING_MOROCCO.dds</File>
 		<File>Art/LOADING_MYANMAR.dds</File>
+		<File>Art/LOADING_NEPAL.dds</File>
 		<File>Art/LOADING_NETHERLANDS.dds</File>
 		<File>Art/LOADING_NEW_ZEALAND.dds</File>
 		<File>Art/LOADING_NIGERIA.dds</File>
 		<File>Art/LOADING_NORTH_KOREA.dds</File>
 		<File>Art/LOADING_NORWAY.dds</File>
 		<File>Art/LOADING_PAKISTAN.dds</File>
+		<File>Art/LOADING_PAPUA_NEW_GUINEA.dds</File>
 		<File>Art/LOADING_PERU.dds</File>
 		<File>Art/LOADING_PHILIPPINES.dds</File>
 		<File>Art/LOADING_POLAND.dds</File>
 		<File>Art/LOADING_PORTUGAL.dds</File>
 		<File>Art/LOADING_ROMANIA.dds</File>
 		<File>Art/LOADING_RUSSIA.dds</File>
+		<File>Art/LOADING_SOMALIA.dds</File>
 		<File>Art/LOADING_SOUTH_AFRICA.dds</File>
 		<File>Art/LOADING_SOUTH_KOREA.dds</File>
 		<File>Art/LOADING_SPAIN.dds</File>
 		<File>Art/LOADING_SUDAN.dds</File>
 		<File>Art/LOADING_SWEDEN.dds</File>
 		<File>Art/LOADING_SWEDEN_FIX.dds</File>
+		<File>Art/LOADING_SWITZERLAND.dds</File>
 		<File>Art/LOADING_TANZANIA.dds</File>
 		<File>Art/LOADING_THAILAND.dds</File>
 		<File>Art/LOADING_TURKEY.dds</File>
+		<File>Art/LOADING_UAE.dds</File>
+		<File>Art/LOADING_UGANDA.dds</File>
 		<File>Art/LOADING_UK.dds</File>
 		<File>Art/LOADING_UKRAINE.dds</File>
 		<File>Art/LOADING_UZBEKISTAN.dds</File>
 		<File>Art/LOADING_VENEZUELA.dds</File>
 		<File>Art/LOADING_VIETNAM.dds</File>
+		<File>Art/LOADING_ZIMBABWE.dds</File>
 		<File>BMC.dep</File>
 	</Files>
 </Mod>
