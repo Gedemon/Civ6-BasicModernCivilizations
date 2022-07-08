@@ -148,7 +148,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_ALGERIA"/>
+									<m_ElementName text="CIVILIZATION_AFGHANISTAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -156,7 +156,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_IRAN"/>
+									<m_ElementName text="CIVILIZATION_ALGERIA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -164,7 +164,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_IRAQ"/>
+									<m_ElementName text="CIVILIZATION_IRAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -172,7 +172,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_ISRAEL"/>
+									<m_ElementName text="CIVILIZATION_IRAQ"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -180,7 +180,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_KAZAKHSTAN"/>
+									<m_ElementName text="CIVILIZATION_ISRAEL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -188,7 +188,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_LIBYA"/>
+									<m_ElementName text="CIVILIZATION_KAZAKHSTAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -196,7 +196,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_MOROCCO"/>
+									<m_ElementName text="CIVILIZATION_LEBANON"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -204,7 +204,7 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_PAKISTAN"/>
+									<m_ElementName text="CIVILIZATION_LIBYA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -212,7 +212,7 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_TURKEY"/>
+									<m_ElementName text="CIVILIZATION_MALDIVES"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -220,12 +220,52 @@
 									<m_ParamName text="Civilizations009"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_UZBEKISTAN"/>
+									<m_ElementName text="CIVILIZATION_MOROCCO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations010"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_NEPAL"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_PAKISTAN"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_TURKEY"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UAE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations014"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UZBEKISTAN"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations015"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -322,6 +362,30 @@
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations010"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_ZIMBABWE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UGANDA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_SOMALIA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -533,7 +597,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_ALGERIA"/>
+									<m_ElementName text="CIVILIZATION_AFGHANISTAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -541,7 +605,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_IRAN"/>
+									<m_ElementName text="CIVILIZATION_ALGERIA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -549,7 +613,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_IRAQ"/>
+									<m_ElementName text="CIVILIZATION_IRAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -557,7 +621,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_ISRAEL"/>
+									<m_ElementName text="CIVILIZATION_IRAQ"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -565,7 +629,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_KAZAKHSTAN"/>
+									<m_ElementName text="CIVILIZATION_ISRAEL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -573,7 +637,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_LIBYA"/>
+									<m_ElementName text="CIVILIZATION_KAZAKHSTAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -581,7 +645,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_MOROCCO"/>
+									<m_ElementName text="CIVILIZATION_LEBANON"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -589,7 +653,7 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_PAKISTAN"/>
+									<m_ElementName text="CIVILIZATION_LIBYA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -597,7 +661,7 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_TURKEY"/>
+									<m_ElementName text="CIVILIZATION_MALDIVES"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -605,12 +669,52 @@
 									<m_ParamName text="Civilizations009"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_UZBEKISTAN"/>
+									<m_ElementName text="CIVILIZATION_MOROCCO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations010"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_NEPAL"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_PAKISTAN"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_TURKEY"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UAE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations014"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UZBEKISTAN"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations015"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -707,6 +811,30 @@
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations010"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_ZIMBABWE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UGANDA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_SOMALIA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -921,7 +1049,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_ALGERIA"/>
+									<m_ElementName text="CIVILIZATION_AFGHANISTAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -929,7 +1057,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_IRAN"/>
+									<m_ElementName text="CIVILIZATION_ALGERIA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -937,7 +1065,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_IRAQ"/>
+									<m_ElementName text="CIVILIZATION_IRAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -945,7 +1073,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_ISRAEL"/>
+									<m_ElementName text="CIVILIZATION_IRAQ"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -953,7 +1081,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_KAZAKHSTAN"/>
+									<m_ElementName text="CIVILIZATION_ISRAEL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -961,7 +1089,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_LIBYA"/>
+									<m_ElementName text="CIVILIZATION_KAZAKHSTAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -969,7 +1097,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_MOROCCO"/>
+									<m_ElementName text="CIVILIZATION_LEBANON"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -977,7 +1105,7 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_PAKISTAN"/>
+									<m_ElementName text="CIVILIZATION_LIBYA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -985,7 +1113,7 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_TURKEY"/>
+									<m_ElementName text="CIVILIZATION_MALDIVES"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -993,12 +1121,52 @@
 									<m_ParamName text="Civilizations009"/>
 								</Element>
 								<Element class="AssetObjects::ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_UZBEKISTAN"/>
+									<m_ElementName text="CIVILIZATION_MOROCCO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations010"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_NEPAL"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_PAKISTAN"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_TURKEY"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UAE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations014"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UZBEKISTAN"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations015"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -1096,6 +1264,30 @@
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations010"/>
 								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_ZIMBABWE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_UGANDA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_SOMALIA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
+								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
 						</Element>
@@ -1172,4 +1364,3 @@
 		</Element>
 	</m_RootCollections>
 </AssetObjects::ArtDefSet>
-
