@@ -105,12 +105,13 @@ INSERT INTO CivilizationConfiguration
 --(	'AUSTRIA',		'Players:StandardPlayers',	NULL,					NULL,					'WHITE',	'EURO',		'VIENNA',	'Austria', 		'Austrian',		'Republic of Austria',				'Austrian Government'),--
 --(	'BANGLADESH',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'ASIAN',	'DHAKA',	'Bangladesh',		'Bangladeshi',		'Peoples Republic of Bangladesh',		'Bangladeshi Government'),--
 --(	'BELGIUM',		'Players:StandardPlayers',	NULL,					NULL,					'YELLOW',	'EURO',		'BRUSSELS',	'Belgium', 		'Belgian',		'Kingdom of Belgium',				'Belgian Government'),--
+--(	'BULGARIA',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'EURO',		'SOFIA',	'Bulgaria', 		'Bulgarian',		'Republic of Bulgaria',				'Bulgarian Government'),--
 --(	'CZECHIA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'PRAGUE',	'Czechia',		'Czech',		'Czech Republic',				'Czech Government'),--
 --(	'FIJI',			'Players:StandardPlayers',	NULL,					NULL,					'BLUE',		'SOUTHAM',	'SUVA',		'Fiji',			'Fijian',		'Republic of Fiji',				'Fijian Government'),--
 --(	'GEORGIA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'TBILISI',	'Georgia',		'Georgian',		'Republic of Georgia',				'Georgian Government'),--
 --(	'HUNGARY',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'EURO',		'BUDAPEST',	'Hungary',		'Hungarian',		'Hungary',					'Hungarian Government'),--
 --(	'LEBANON',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'MEDIT',	'BEIRUT',	'Lebanon', 		'Lebanese',		'Republic of Lebanon',				'Lebanese Government'),--
---(	'LEBANON',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'MEDIT',	'KATHMANDU',	'Nepal', 		'Nepali',		'Federal Democratic Republic of Nepal',		'Nepali Government'),--
+--(	'NEPAL',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'ASIAN',	'KATHMANDU',	'Nepal', 		'Nepali',		'Federal Democratic Republic of Nepal',		'Nepali Government'),--
 --(	'PAPUA_NEW_GUINEA',	'Players:StandardPlayers',	NULL,					NULL,					'RED',		'ASIAN',	'PORT_MORESBY',	'Papua New Guinea',	'Papuan',		'Independent State of Papua New Guinea',	'Papuan Government'),--
 --(	'SOMALIA',		'Players:StandardPlayers',	NULL,					NULL,					'LIGHT_BLUE',	'AFRICAN',	'MOGADISHU',	'Somalia',		'Somali',		'Federal Republic of Somalia',			'Somali Government'),--
 --(	'SWITZERLAND'		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'BERN',		'Switzerland', 		'Swiss',		'Swiss Confederation',				'Swiss Government'),--
