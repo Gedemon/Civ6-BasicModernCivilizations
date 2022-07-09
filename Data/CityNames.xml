@@ -310,7 +310,11 @@
 		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_HASSELT"/> 
 		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_SINT_NIKLAAS"/>
 		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_KORTRIJK"/>
-		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_OSTEND"/> 
+		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_OSTEND"/>
+		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_BASTOGNE"/> 
+		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_GENK"/> 
+		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_TURNHOUT"/> 
+		<Replace CivilizationType="CIVILIZATION_BELGIUM" CityName="LOC_CITY_NAME_BOUILLON"/> 
 	</CityNames>
 	<CityNames> <!-- Brazil -->
 		<Replace CivilizationType="CIVILIZATION_BRAZIL" CityName="LOC_CITY_NAME_BRASILIA"/>
@@ -720,6 +724,7 @@
 		<Replace CivilizationType="CIVILIZATION_ETHIOPIA" CityName="LOC_CITY_NAME_NEKEMTE"/> 
 		<Replace CivilizationType="CIVILIZATION_ETHIOPIA" CityName="LOC_CITY_NAME_DEBRE_BIRHAN"/>
 		<Replace CivilizationType="CIVILIZATION_ETHIOPIA" CityName="LOC_CITY_NAME_ASELLA"/>
+		<Replace CivilizationType="CIVILIZATION_ETHIOPIA" CityName="LOC_CITY_NAME_GODE"/>
 	</CityNames>
 	<CityNames> <!-- Fiji -->
 		<Replace CivilizationType="CIVILIZATION_FIJI" CityName="LOC_CITY_NAME_SUVA"/>
@@ -768,6 +773,9 @@
 		<Replace CivilizationType="CIVILIZATION_FINLAND" CityName="LOC_CITY_NAME_KOTKA"/> 
 		<Replace CivilizationType="CIVILIZATION_FINLAND" CityName="LOC_CITY_NAME_SALO"/> 
 		<Replace CivilizationType="CIVILIZATION_FINLAND" CityName="LOC_CITY_NAME_KOKKOLA"/>
+		<Replace CivilizationType="CIVILIZATION_FINLAND" CityName="LOC_CITY_NAME_II"/>
+		<Replace CivilizationType="CIVILIZATION_FINLAND" CityName="LOC_CITY_NAME_SAARISELKA"/>
+		<Replace CivilizationType="CIVILIZATION_FINLAND" CityName="LOC_CITY_NAME_KUUSAMO"/>
 	</CityNames>
 	<CityNames> <!-- France -->
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_PARIS"/>
@@ -801,6 +809,8 @@
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_METZ"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_ORLEANS"/>
 		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_SAINT_NAZAIRE"/>
+		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_BESANCON"/>
+		<Replace CivilizationType="CIVILIZATION_FRANCE" CityName="LOC_CITY_NAME_CANNES"/>
 		</CityNames>
 	<CityNames> <!-- Georgia -->
 		<Replace CivilizationType="CIVILIZATION_GEORGIA" CityName="LOC_CITY_NAME_TBILISI"/>
@@ -1302,6 +1312,9 @@
 		<Replace CivilizationType="CIVILIZATION_MALDIVES" CityName="LOC_CITY_NAME_GAN"/>
 		<Replace CivilizationType="CIVILIZATION_MALDIVES" CityName="LOC_CITY_NAME_RASDHOO"/>
 		<Replace CivilizationType="CIVILIZATION_MALDIVES" CityName="LOC_CITY_NAME_DHARAVANDHOO"/>
+		<Replace CivilizationType="CIVILIZATION_MALDIVES" CityName="LOC_CITY_NAME_FARESMAATHODAA"/>
+		<Replace CivilizationType="CIVILIZATION_MALDIVES" CityName="LOC_CITY_NAME_EYDHAFUSHI"/>
+		<Replace CivilizationType="CIVILIZATION_MALDIVES" CityName="LOC_CITY_NAME_THULUSDHOO"/>
 	</CityNames>
 	<CityNames> <!-- Mali -->
 		<Replace CivilizationType="CIVILIZATION_MALI" CityName="LOC_CITY_NAME_BAMAKO"/> 
@@ -1349,6 +1362,9 @@
 		<Replace CivilizationType="CIVILIZATION_MEXICO" CityName="LOC_CITY_NAME_SALTILLO"/>
 		<Replace CivilizationType="CIVILIZATION_MEXICO" CityName="LOC_CITY_NAME_VERACRUZ"/> 
 		<Replace CivilizationType="CIVILIZATION_MEXICO" CityName="LOC_CITY_NAME_LA_VENTA"/> 
+		<Replace CivilizationType="CIVILIZATION_MEXICO" CityName="LOC_CITY_NAME_HERMOSILLO"/> 
+		<Replace CivilizationType="CIVILIZATION_MEXICO" CityName="LOC_CITY_NAME_COATZACOALCOS"/> 
+		<Replace CivilizationType="CIVILIZATION_MEXICO" CityName="LOC_CITY_NAME_OAXACA"/> 
 	</CityNames>
 	<CityNames> <!-- Myanmar -->
 		<Replace CivilizationType="CIVILIZATION_MYANMAR" CityName="LOC_CITY_NAME_NAYPYIDAW"/>
@@ -1665,6 +1681,8 @@
 		<Replace CivilizationType="CIVILIZATION_PHILIPPINES" CityName="LOC_CITY_NAME_CABANATUAN"/>
 		<Replace CivilizationType="CIVILIZATION_PHILIPPINES" CityName="LOC_CITY_NAME_LEGAZPI"/>
 		<Replace CivilizationType="CIVILIZATION_PHILIPPINES" CityName="LOC_CITY_NAME_TUGUEGARAO"/>
+		<Replace CivilizationType="CIVILIZATION_PHILIPPINES" CityName="LOC_CITY_NAME_TAGBILARAN"/>
+		<Replace CivilizationType="CIVILIZATION_PHILIPPINES" CityName="LOC_CITY_NAME_QUEZON"/>
 	</CityNames> 
 	<CityNames> <!-- Poland -->
 		<Replace CivilizationType="CIVILIZATION_POLAND" CityName="LOC_CITY_NAME_WARSAW"/> 
@@ -1903,6 +1921,9 @@
 		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_A_CORUNA"/> 
 		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_TARRAGONA"/> 
 		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SAN_SEBASTIAN"/> 
+		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_BADAJOZ"/> 
+		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_CORDOBA_SPAIN"/> 
+		<Replace CivilizationType="CIVILIZATION_SPAIN" CityName="LOC_CITY_NAME_SANTIAGO_DE_COMPOSTELA"/> 
 	</CityNames>	
 	<CityNames> <!-- Sudan -->
 		<Replace CivilizationType="CIVILIZATION_SUDAN" CityName="LOC_CITY_NAME_KHARTOUM"/>
