@@ -109,8 +109,8 @@ INSERT INTO CivilizationConfiguration
 (	'TANZANIA',		'Players:StandardPlayers',	NULL,					NULL,					'YELLOW',	'AFRICAN',	'DODOMA',	'Tanzania',		'Tanzanian',		'United Republic of Tanzania',          	'Tanzanian Government'),
 (	'THAILAND',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'ASIAN',	'BANGKOK',	'Thailand',		'Thai',			'Kingdom of Thailand',				'Thai Government'),
 (	'TURKEY',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'MEDIT',	'ANKARA',	'Turkey',		'Turkish',		'Republic of Turkey',				'Turkish Government'),
-(	'UAE',			'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'MEDIT',	'ABU_DHABI',	'United Arab Emirates', 'Emirati',		'United Arab Emirates',				'Emirati Government'),--
---(	'UGANDA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'AFRICAN',	'KAMPALA',	'Uganda',		'Ugandan',		'Republic of Uganda',				'Ugandan Government'),--
+(	'UAE',			'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'MEDIT',	'ABU_DHABI',	'United Arab Emirates', 'Emirati',		'United Arab Emirates',				'Emirati Government'),
+(	'UGANDA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'AFRICAN',	'KAMPALA',	'Uganda',		'Ugandan',		'Republic of Uganda',				'Ugandan Government'),
 (	'UK',			'Players:StandardPlayers',	'ENGLAND_PRIMARY',			'ENGLAND_SECONDARY',			'WHITE',	'EURO',		'LONDON',	'The United Kingdom', 	'British',		'United Kingdom',				'British Government'),
 (	'UKRAINE',		'Players:StandardPlayers',	NULL,					NULL,					'YELLOW',	'EURO',		'KIEV',		'Ukraine',		'Ukrainian',		'Ukraine',					'Ukrainian Government'),
 (	'UZBEKISTAN',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'ASIAN',	'TASHKENT',	'Uzbekistan',		'Uzbekistani',		'Republic of Uzbekistan',               	'Uzbekistani Government'),
