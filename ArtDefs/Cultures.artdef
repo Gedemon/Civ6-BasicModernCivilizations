@@ -387,6 +387,14 @@
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations013"/>
 								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_GHANA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations014"/>
+								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
 						</Element>
@@ -835,6 +843,14 @@
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations013"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_GHANA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations014"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -1287,6 +1303,14 @@
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations013"/>
+								</Element>
+								<Element class="AssetObjects::ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_GHANA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations014"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
