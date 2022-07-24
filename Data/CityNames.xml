@@ -860,6 +860,35 @@
 		<Replace CivilizationType="CIVILIZATION_GERMANY" CityName="LOC_CITY_NAME_BOCHUM"/>
 		<Replace CivilizationType="CIVILIZATION_GERMANY" CityName="LOC_CITY_NAME_BRAUNSCHWEIG"/> 
 	</CityNames>
+	<CityNames> <!-- Ghana -->
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_ACCRA"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_KUMASI"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_TAMALE"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_TAKORADI"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_ASHAIMAN"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_SUNYANI"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_CAPE_COAST"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_OBUASI"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_TESHIE"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_TEMA"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_MADINA"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_KOFORIDUA"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_WA"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_TEICHMAN"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_HO"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_NUNGUA"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_LASHIBI"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_DOME"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_TEBA"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_GWABE"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_ODUPONKPEHE"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_EJURA"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_TAIFA"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_BAWKU"/> 
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_AFLAO"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_BOLGATANGA"/>
+		<Replace CivilizationType="CIVILIZATION_GHANA" CityName="LOC_CITY_NAME_BEREKUM"/>
+	</CityNames>
 	<CityNames> <!-- Greece -->
 		<Replace CivilizationType="CIVILIZATION_GREECE" CityName="LOC_CITY_NAME_ATHENS"/> 
 		<Replace CivilizationType="CIVILIZATION_GREECE" CityName="LOC_CITY_NAME_THESSALONIKI"/> 
