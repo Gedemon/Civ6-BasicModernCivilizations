@@ -61,6 +61,7 @@ INSERT INTO CivilizationConfiguration
 (	'FRANCE',		'Players:StandardPlayers',	NULL,					NULL,					'WHITE',	'EURO',		'PARIS',	'France', 		'French',		'French Republic',				'French Government'),
 (	'GEORGIA',		'Players:StandardPlayers',	NULL,					NULL,					'RED',		'EURO',		'TBILISI',	'Georgia',		'Georgian',		'Republic of Georgia',				'Georgian Government'),
 (	'GERMANY',		'Players:StandardPlayers',	NULL,					NULL,					'WHITE',	'EURO',		'BERLIN',	'Germany', 		'German',		'Federal Republic of Germany',			'German Government'),
+(	'GHANA',		'Players:StandardPlayers',	NULL,					NULL,					'YELLOW',	'AFRICAN',	'ACCRA',	'GHANA', 		'Ghanaian',		'Republic of Ghana',				'Ghanaian Government'),
 (	'GREECE',		'Players:StandardPlayers',	NULL,					NULL,					'BLUE',		'MEDIT',	'ATHENS',	'Greece', 		'Greek',		'Hellenic Republic',				'Greek Government'),
 (	'HUNGARY',		'Players:StandardPlayers',	NULL,					NULL,					'GREEN',	'EURO',		'BUDAPEST',	'Hungary',		'Hungarian',		'Hungary',					'Hungarian Government'),
 (	'ICELAND',		'Players:StandardPlayers',	NULL,					NULL,					'WHITE',	'EURO',		'REYKJAVIK',	'Iceland',		'Icelandic',		'Iceland',					'Icelandic Government'),
