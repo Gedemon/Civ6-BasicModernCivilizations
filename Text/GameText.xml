@@ -847,6 +847,35 @@
 		<Replace Tag="LOC_CITY_NAME_BOCHUM"						Text="Bochum"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BRAUNSCHWEIG"				Text="Braunschweig"				Language="en_US"/>
 	</LocalizedText>
+	<LocalizedText>		<!-- Ghana -->
+		<Replace Tag="LOC_CITY_NAME_ACCRA"						Text="Accra"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_KUMASI"						Text="Kumasi"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_TAMALE"						Text="Tamale"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_TAKORADI"					Text="Takoradi"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_ASHAIMAN"					Text="Ashaiman"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_SUNYANI"					Text="Sunyani"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_CAPE_COAST"					Text="Cape Coast"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_OBUASI"						Text="Obuasi"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_TESHIE"						Text="Teshie"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_TEMA"						Text="Tema"						Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_MADINA"						Text="Madina"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_KOFORIDUA"					Text="Koforidua"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_WA"							Text="Wa"						Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_TEICHMAN"					Text="Teichman"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_HO"							Text="Ho"						Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_NUNGUA"						Text="Nungua"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_LASHIBI"					Text="Lashibi"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_DOME"						Text="Dome"						Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_TEMA"						Text="Tema"						Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_GWABE"						Text="Gwabe"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_ODUPONKPEHE"				Text="Oduponkpehe"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_EJURA"						Text="Ejura"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_TAIFA"						Text="Taifa"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_BAWKU"						Text="Bawku"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_AFLAO"						Text="Aflao"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_BOLGATANGA"					Text="Bolgatanga"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_BEREKUM"					Text="Berekum"					Language="en_US"/>
+	</LocalizedText>
 	<LocalizedText>		<!-- Greece -->
 		<Replace Tag="LOC_CITY_NAME_ATHENS"						Text="Athens"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_THESSALONIKI"				Text="Thessaloniki"				Language="en_US"/>
@@ -2012,8 +2041,8 @@
 	</LocalizedText>
 	<LocalizedText>		<!-- Turkey	 -->
 		<Replace Tag="LOC_CITY_NAME_ANKARA"						Text="Ankara"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_ISTANBUL"					Text="Istanbul"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_IZMIR"						Text="Izmir"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_ISTANBUL"					Text="İstanbul"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_IZMIR"						Text="İzmir"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BURSA"						Text="Bursa"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_ADANA"						Text="Adana"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_GAZIANTEP"					Text="Gaziantep"				Language="en_US"/>
@@ -2022,19 +2051,25 @@
 		<Replace Tag="LOC_CITY_NAME_DIYARBAKIR"					Text="Diyarbakir"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_KAYSERI"					Text="Kayseri"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_MERSIN"						Text="Mersin"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_ESKISHEHR"					Text="Eskishehr"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_ESKISHEHR"					Text="Eskişehir"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_URFA"						Text="Urfa"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_DENIZLI"					Text="Denizli"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SAMSUN"						Text="Samsun"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_GEBZE"						Text="Gebze"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_KHARAMANMARAS"				Text="Kharamanmaras"			Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_ADAPAZARI"					Text="Adapazari"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_KHARAMANMARAS"				Text="Kahramanmaraş"			Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_ADAPAZARI"					Text="Adapazarı"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_VAN"						Text="Van"						Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_ERZURUM"					Text="Erzurum"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_MALATYA"					Text="Malatya"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BATMAN"						Text="Batman"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SIVAS"						Text="Sivas"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_TRABZON"					Text="Trabzon"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_CANAKKALE"					Text="Çanakkale"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_MARMARIS"					Text="Marmaris"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_ERDINE"						Text="Erdine"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_CESME"						Text="Çeşme"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_BALIKESIR"					Text="Balıkesir"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_TEKIRDAG"					Text="Tekirdağ"					Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Uganda -->
 		<Replace Tag="LOC_CITY_NAME_KAMPALA"					Text="Kampala"		  			Language="en_US"/>
@@ -2500,6 +2535,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="Frankreich"				Language="de_DE"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="Georgien"					Language="de_DE"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="Deutschland"				Language="de_DE"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="Ghana"					Language="de_DE"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="Griechenland"				Language="de_DE"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="Ungarn"					Language="de_DE"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="Island"					Language="de_DE"/>
@@ -2586,6 +2622,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="Francia"					Language="es_ES"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="Georgia"					Language="es_ES"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="Alemania"					Language="es_ES"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="Ghana"					Language="es_ES"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="Grecia"					Language="es_ES"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="Hungría"					Language="es_ES"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="Islandia"					Language="es_ES"/>
@@ -2672,6 +2709,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="France"					Language="fr_FR"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="Géorgie"					Language="fr_FR"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="Allemagne"				Language="fr_FR"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="Ghana"					Language="fr_FR"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="Grèce"					Language="fr_FR"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="Hongrie"					Language="fr_FR"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="Islande"					Language="fr_FR"/>
@@ -2758,6 +2796,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="Francia"					Language="it_IT"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="Georgia"					Language="it_IT"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="Germania"					Language="it_IT"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="Ghana"					Language="it_IT"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="Grecia"					Language="it_IT"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="Ungheria"					Language="it_IT"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="Islanda"					Language="it_IT"/>
@@ -2817,20 +2856,20 @@
 
         <!-- JAPANESE -->
 		<Replace Tag="LOC_CIVILIZATION_AFGHANISTAN_NAME"		Text="アフガニスタン"				Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_ALGERIA_NAME"			Text="アルジェリア"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_ALGERIA_NAME"			Text="アルジェリア"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_AMERICA_NAME"			Text="アメリカ合衆国"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_ANGOLA_NAME"				Text="アンゴラ"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_ARABIA_NAME"				Text="サウジアラビア"				Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_ARGENTINA_NAME"			Text="アルゼンチン"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_ARGENTINA_NAME"			Text="アルゼンチン"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_NAME"			Text="オーストラリア"				Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_AUSTRIA_NAME"			Text="オーストリア"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRIA_NAME"			Text="オーストリア"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_BANGLADESH_NAME"			Text="バングラデシュ"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_BELGIUM_NAME"			Text="ベルギー"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_BRAZIL_NAME"				Text="ブラジル"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_BULGARIA_NAME"			Text="ブルガリア"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_CANADA_NAME"				Text="カナダ"						Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_CHINA_PRC_NAME"			Text="中華人民 共和国"			Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_CHINA_ROC_NAME"			Text="台湾						Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_CHINA_ROC_NAME"			Text="台湾"						Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_CHILE_NAME"				Text="チリ"						Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_COLOMBIA_NAME"			Text="コロンビア"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_CONGO_NAME"				Text="コンゴ"						Language="ja_JP"/>
@@ -2844,22 +2883,23 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="フランス"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="ジョージア"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="ドイツ"						Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="ギリシャ						Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="ガーナ"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="ギリシャ"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="ハンガリー"					Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="アイスランド"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="アイスランド"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_INDIA_NAME"				Text="インド"						Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME"			Text="インドネシア"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME"			Text="インドネシア"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_ITALY_NAME"				Text="イタリア"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_IRAN_NAME"				Text="イラン"						Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_IRAQ_NAME"				Text="イラク"						Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_ISRAEL_NAME"				Text="イスラエル"					Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_IRELAND_NAME"			Text="アイルランド"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_IRELAND_NAME"			Text="アイルランド"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_JAPAN_NAME"				Text="日本"						Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_KAZAKHSTAN_NAME"			Text="カザフスタン"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_KAZAKHSTAN_NAME"			Text="カザフスタン"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_KENYA_NAME"				Text="ケニア"						Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_LEBANON_NAME"			Text="レバノン"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_LIBYA_NAME"				Text="リビア"						Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_MADAGASCAR_NAME"			Text="マダガスカル"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_MADAGASCAR_NAME"			Text="マダガスカル"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_MALAYSIA_NAME"			Text="マレーシア"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_MALDIVES_NAME"			Text="モルディブ"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_MALI_NAME"				Text="マリ"						Language="ja_JP"/>
@@ -2870,12 +2910,12 @@
 		<Replace Tag="LOC_CIVILIZATION_NEPAL_NAME"				Text="ネパール"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_NETHERLANDS_NAME"		Text="オランダ"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_NEW_ZEALAND_NAME"		Text="ニュージーランド"				Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_NIGERIA_NAME"			Text="ナイジェリア"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_NIGERIA_NAME"			Text="ナイジェリア"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_NORTH_KOREA_NAME"		Text="北朝鮮"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_NORWAY_NAME"				Text="ノルウェー"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_PAKISTAN_NAME"			Text="パキスタン"					Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_PAPUA_NEW_GUINEA_NAME"	Text="パプアニューギニア"				Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_PERU_NAME"				Text="ペルー"						Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_PAPUA_NEW_GUINEA_NAME"	Text="パプアニューギニア"			Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_PERU_NAME"				Text="ペルー"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_PHILIPPINES_NAME"		Text="フィリピン"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_POLAND_NAME"				Text="ポーランド"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_PORTUGAL_NAME"			Text="ポルトガル"					Language="ja_JP"/>
@@ -2886,8 +2926,8 @@
 		<Replace Tag="LOC_CIVILIZATION_SOUTH_KOREA_NAME"		Text="大韓民国"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_SPAIN_NAME"				Text="西班牙"					Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_SUDAN_NAME"				Text="スペイン"					Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_SWEDEN_NAME"				Text="スウェーデン"					Language="ja_JP"/>
-		<Replace Tag="LOC_CIVILIZATION_SWEDEN_FIX_NAME"			Text="スウェーデン"					Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_SWEDEN_NAME"				Text="スウェーデン"				Language="ja_JP"/>
+		<Replace Tag="LOC_CIVILIZATION_SWEDEN_FIX_NAME"			Text="スウェーデン"				Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_SWITZERLAND_NAME"		Text="スイス"						Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_THAILAND_NAME"			Text="タイ"						Language="ja_JP"/>
 		<Replace Tag="LOC_CIVILIZATION_TURKEY_NAME"				Text="トルコ"						Language="ja_JP"/>
@@ -2930,6 +2970,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="프랑스"						Language="ko_KR"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="조지아"						Language="ko_KR"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="독일"						Language="ko_KR"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="가나"						Language="ko_KR"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="그리스"						Language="ko_KR"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="헝가리"						Language="ko_KR"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="아이슬란드"					Language="ko_KR"/>
@@ -3016,6 +3057,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="Francja"					Language="pl_PL"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="Gruzja"					Language="pl_PL"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="Niemcy"					Language="pl_PL"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="Ghana"					Language="pl_PL"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="Grecja"					Language="pl_PL"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="Węgry"					Language="pl_PL"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="Islandia"					Language="pl_PL"/>
@@ -3102,6 +3144,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="França"					Language="pt_BR"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="Geórgia"					Language="pt_BR"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="Alemanha"					Language="pt_BR"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="Gana"						Language="pt_BR"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="Grécia"					Language="pt_BR"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="Hungria"					Language="pt_BR"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="Islândia"					Language="pt_BR"/>
@@ -3188,6 +3231,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="Франция"					Language="ru_RU"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="Грузия"					Language="ru_RU"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="Германия"					Language="ru_RU"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="Гана"						Language="ru_RU"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="Греция"					Language="ru_RU"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="Венгрия"					Language="ru_RU"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="Исландия"					Language="ru_RU"/>
@@ -3274,6 +3318,7 @@
 		<Replace Tag="LOC_CIVILIZATION_FRANCE_NAME"				Text="法国"						Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME"			Text="格鲁吉亚"					Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_GERMANY_NAME"			Text="德国"						Language="zh_HANS_CN"/>
+		<Replace Tag="LOC_CIVILIZATION_GHANA_NAME"				Text="加纳"						Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_GREECE_NAME"				Text="希腊"						Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_HUNGARY_NAME"			Text="匈牙利"					Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_ICELAND_NAME"			Text="冰岛"						Language="zh_HANS_CN"/>
@@ -3321,7 +3366,7 @@
 		<Replace Tag="LOC_CIVILIZATION_SWITZERLAND_NAME"		Text="瑞士"						Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_THAILAND_NAME"			Text="泰国"						Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_TURKEY_NAME"				Text="土耳其"					Language="zh_HANS_CN"/>
-		<Replace Tag="LOC_CIVILIZATION_UAE_NAME"				Text="阿拉伯联合 酋长国"			Language="zh_HANS_CN"/>
+		<Replace Tag="LOC_CIVILIZATION_UAE_NAME"				Text="阿拉伯联合 酋长国"		Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_UGANDA_NAME"				Text="乌干达"					Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_UK_NAME"					Text="英国"						Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_UKRAINE_NAME"			Text="乌克兰"					Language="zh_HANS_CN"/>
