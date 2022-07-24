@@ -72,6 +72,7 @@
 		<Replace Name="ICON_LEADER_FRANCE"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="5"/>
 		<Replace Name="ICON_LEADER_GEORGIA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="72"/>
 		<Replace Name="ICON_LEADER_GERMANY"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="18"/>
+		<Replace Name="ICON_LEADER_GHANA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="81"/>
 		<Replace Name="ICON_LEADER_GREECE"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="10"/>
 		<Replace Name="ICON_LEADER_HUNGARY"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="73"/>
 		<Replace Name="ICON_LEADER_ICELAND"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="41"/>
@@ -127,7 +128,7 @@
 		<Replace Name="ICON_LEADER_UZBEKISTAN"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="57"/>
 		<Replace Name="ICON_LEADER_VENEZUELA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="58"/>
 		<Replace Name="ICON_LEADER_VIETNAM"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="24"/>
-		<Replace Name="ICON_LEADER_UGANDA"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="80"/>
+		<Replace Name="ICON_LEADER_ZIMBABWE"		Atlas="ICON_ATLAS_GCO_FLAGS" Index="80"/>
 
 		<Replace Name="ICON_CIVILIZATION_AFGHANISTAN"	Atlas="ICON_ATLAS_GCO_CIVS" Index="64"/>
 		<Replace Name="ICON_CIVILIZATION_ALGERIA"	Atlas="ICON_ATLAS_GCO_CIVS" Index="0"/>
@@ -157,6 +158,7 @@
 		<Replace Name="ICON_CIVILIZATION_FRANCE"	Atlas="ICON_ATLAS_GCO_CIVS" Index="27"/>
 		<Replace Name="ICON_CIVILIZATION_GEORGIA"	Atlas="ICON_ATLAS_GCO_CIVS" Index="71"/>
 		<Replace Name="ICON_CIVILIZATION_GERMANY"	Atlas="ICON_ATLAS_GCO_CIVS" Index="10"/>
+		<Replace Name="ICON_CIVILIZATION_GHANA"		Atlas="ICON_ATLAS_GCO_CIVS" Index="82"/>
 		<Replace Name="ICON_CIVILIZATION_GREECE"	Atlas="ICON_ATLAS_GCO_CIVS" Index="24"/>
 		<Replace Name="ICON_CIVILIZATION_HUNGARY"	Atlas="ICON_ATLAS_GCO_CIVS" Index="72"/>
 		<Replace Name="ICON_CIVILIZATION_ICELAND"	Atlas="ICON_ATLAS_GCO_CIVS" Index="41"/>
