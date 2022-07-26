@@ -20,7 +20,7 @@
 		<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="32"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas32.dds"/>
 		<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="36"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas36.dds"/>
 		<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="44"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas44.dds"/>
-		<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="45"  IconsPerRow="8" IconsPerColumn="16" Filename="CivsAtlas45.dds"/> <!--Baked in color-->
+		<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="45"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas45.dds"/>
 		<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="48"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas48.dds"/>
 		<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="50"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas50.dds"/>
 		<Row Name="ICON_ATLAS_GCO_CIVS" IconSize="55"  IconsPerRow="8" IconsPerColumn="16" Filename="CivIconsAtlas55.dds"/> <!--not used in vanilla -->
