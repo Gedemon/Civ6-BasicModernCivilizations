@@ -583,7 +583,6 @@
 		<Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MBANZA_NGUNGU"/>
 		<Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_MOANDA"/>
 		<Replace CivilizationType="CIVILIZATION_CONGO" CityName="LOC_CITY_NAME_LISALA"/>
-
 	</CityNames>
 	<CityNames> <!-- Cuba -->
 		<Replace CivilizationType="CIVILIZATION_CUBA" CityName="LOC_CITY_NAME_HAVANA"/> 
@@ -1417,6 +1416,7 @@
 		<Replace CivilizationType="CIVILIZATION_MYANMAR" CityName="LOC_CITY_NAME_MAGWAY"/>
 		<Replace CivilizationType="CIVILIZATION_MYANMAR" CityName="LOC_CITY_NAME_PAKOKKU"/>
 		<Replace CivilizationType="CIVILIZATION_MYANMAR" CityName="LOC_CITY_NAME_DAWEI"/>
+		<Replace CivilizationType="CIVILIZATION_MYANMAR" CityName="LOC_CITY_NAME_YE"/>
 	</CityNames>
 	<CityNames> <!-- Mongolia -->
 		<Replace CivilizationType="CIVILIZATION_MONGOLIA" CityName="LOC_CITY_NAME_ULAANBAATAR"/> 
@@ -1612,6 +1612,28 @@
 		<Replace CivilizationType="CIVILIZATION_NORWAY" CityName="LOC_CITY_NAME_MOLDE"/>
 		<Replace CivilizationType="CIVILIZATION_NORWAY" CityName="LOC_CITY_NAME_ALTA"/>
 	</CityNames>
+	<CityNames> <!-- Pakistan --> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_ISLAMABAD"/>
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_KARACHI"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_LAHORE"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_FAISALABAD"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_MULTAN"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_RAWALPINDI"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_HYDERABAD_PKS"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_GUJRANWALA"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_PESHAWAR"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_QUETTA"/>
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_SARGODHA"/>
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_SIALKOT"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_BAHAWALPUR"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_SUKKUR"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_JHANG"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_SHEKHUPURA"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_MARDAN"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_LARKANA"/>
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_GUJRAT"/> 
+		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_TURBAT"/>
+	</CityNames>
 	<CityNames> <!-- Papua New Guinea -->
 		<Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_PORT_MORESBY"/> 
 		<Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_LAE"/> 
@@ -1644,28 +1666,6 @@
 		<Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_WAU"/>
 		<Replace CivilizationType="CIVILIZATION_PAPUA_NEW_GUINEA" CityName="LOC_CITY_NAME_TARI"/>
 	</CityNames>
-	<CityNames> <!-- Pakistan --> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_ISLAMABAD"/>
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_KARACHI"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_LAHORE"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_FAISALABAD"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_MULTAN"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_RAWALPINDI"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_HYDERABAD_PKS"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_GUJRANWALA"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_PESHAWAR"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_QUETTA"/>
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_SARGODHA"/>
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_SIALKOT"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_BAHAWALPUR"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_SUKKUR"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_JHANG"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_SHEKHUPURA"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_MARDAN"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_LARKANA"/>
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_GUJRAT"/> 
-		<Replace CivilizationType="CIVILIZATION_PAKISTAN" CityName="LOC_CITY_NAME_TURBAT"/>
-	</CityNames>	
 	<CityNames> <!-- Peru --> 
 		<Replace CivilizationType="CIVILIZATION_PERU" CityName="LOC_CITY_NAME_LIMA"/>
 		<Replace CivilizationType="CIVILIZATION_PERU" CityName="LOC_CITY_NAME_AREQUIPA"/> 
@@ -1838,7 +1838,7 @@
 		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_SYNNDASKO"/>
 		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_YUKAGIR"/>
 		<Replace CivilizationType="CIVILIZATION_RUSSIA" CityName="LOC_CITY_NAME_KHODOVARIKHA"/>
-		</CityNames>
+	</CityNames>
 	<CityNames> <!-- Somalia --> 
 		<Replace CivilizationType="CIVILIZATION_SOMALIA" CityName="LOC_CITY_NAME_MOGADISHU"/> 
 		<Replace CivilizationType="CIVILIZATION_SOMALIA" CityName="LOC_CITY_NAME_MARKA"/> 
