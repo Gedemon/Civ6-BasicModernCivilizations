@@ -205,7 +205,7 @@
 		<Replace Tag="LOC_CITY_NAME_MELBOURNE"					Text="Melbourne"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BRISBANE"					Text="Brisbane"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_PERTH"						Text="Perth"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_ADELAIDE"					Text="Adelaide"					Lannuage="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_ADELAIDE"					Text="Adelaide"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_GOLD_COAST"					Text="Gold Coast"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_NEWCASTLE"					Text="Newcastle"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SUNSHINE_COAST"				Text="Sunshine Coast"			Language="en_US"/>
@@ -311,26 +311,6 @@
 		<Replace Tag="LOC_CITY_NAME_TURNHOUT"					Text="Turnhout"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_BOUILLON"					Text="Bouillon"					Language="en_US"/>
 	</LocalizedText>
-	<LocalizedText>		<!-- Bulgaria -->
-		<Replace Tag="LOC_CITY_NAME_SOFIA"						Text="Sofia"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_PLOVDIV"					Text="Plovdiv"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_VARNA"						Text="Varna"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_BURGAS"						Text="Burgas"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_RUSE"						Text="Ruse"						Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_STARA_ZAGORA"				Text="Stara Zagora"				Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_PLEVEN"						Text="Pleven"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_SLIVEN"						Text="Sliven"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_DOBRICH"					Text="Dobrich"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_SHUMEN"						Text="Shumen"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_PERNIK"						Text="Pernik"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_HASKOVO"					Text="Haskovo"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_YAMBOL"						Text="Yambol"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_PAZARDZHIK"					Text="Pazardzhik"				Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_BLAGOEVGRAD"				Text="Blagoevgrad"				Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_VELIKO_TARNOVO"				Text="Veliko Tarnovo"			Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_VRATSA"						Text="Vratsa"					Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_GABROVO"					Text="Gabrovo"					Language="en_US"/>
-	</LocalizedText>
 	<LocalizedText>		<!-- Brazil -->
 		<Replace Tag="LOC_CITY_NAME_BRASILIA"					Text="Brasília"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SAO_PAULO"					Text="São Paulo"				Language="en_US"/>
@@ -362,6 +342,26 @@
 		<Replace Tag="LOC_CITY_NAME_UBERLANDIA"					Text="Uberlândia"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_SOROCABA"					Text="Sorocaba"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_ARACAJU"					Text="Aracaju"					Language="en_US"/>
+	</LocalizedText>
+	<LocalizedText>		<!-- Bulgaria -->
+		<Replace Tag="LOC_CITY_NAME_SOFIA"						Text="Sofia"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_PLOVDIV"					Text="Plovdiv"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_VARNA"						Text="Varna"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_BURGAS"						Text="Burgas"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_RUSE"						Text="Ruse"						Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_STARA_ZAGORA"				Text="Stara Zagora"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_PLEVEN"						Text="Pleven"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_SLIVEN"						Text="Sliven"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_DOBRICH"					Text="Dobrich"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_SHUMEN"						Text="Shumen"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_PERNIK"						Text="Pernik"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_HASKOVO"					Text="Haskovo"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_YAMBOL"						Text="Yambol"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_PAZARDZHIK"					Text="Pazardzhik"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_BLAGOEVGRAD"				Text="Blagoevgrad"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_VELIKO_TARNOVO"				Text="Veliko Tarnovo"			Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_VRATSA"						Text="Vratsa"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_GABROVO"					Text="Gabrovo"					Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Canada -->
 		<Replace Tag="LOC_CITY_NAME_OTTAWA"						Text="Ottawa"					Language="en_US"/>
@@ -932,7 +932,7 @@
 		<Replace Tag="LOC_CITY_NAME_ISAFJORDUR"					Text="Ísafjörður"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_AKRANES"					Text="Akranes"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_VESTMANNAEYJAR"				Text="Vestmannaeyjar"			Language="en_US"/>
-		<Replace Tag="LOC_CITY_NAME_SAUDARKROKUR"				Text="Saudárkrókur"				Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_SAUTHARKROKUR"				Text="Sauðárkrókur"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_EGILSSTADIR"				Text="Egilsstadir"				Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_HUSAVIK"					Text="Húsavík"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_GRINDAVIK"					Text="Grindavík"				Language="en_US"/>
@@ -1387,6 +1387,7 @@
 		<Replace Tag="LOC_CITY_NAME_MAGWAY"						Text="Magway"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_PAKOKKU"					Text="Pakokku"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_DAWEI"						Text="Dawei"					Language="en_US"/>
+		<Replace Tag="LOC_CITY_NAME_YE"							Text="Ye"						Language="en_US"/>
 	</LocalizedText>
 	<LocalizedText>		<!-- Mongolia -->
 		<Replace Tag="LOC_CITY_NAME_ULAANBAATAR"				Text="Ulaanbaatar"				Language="en_US"/>
@@ -2265,7 +2266,7 @@
 		<Replace Tag="LOC_CITY_NAME_HWANGE"						Text="Hwange"					Language="en_US"/>
 		<Replace Tag="LOC_CITY_NAME_RUSAPE"						Text="Rusape"					Language="en_US"/>
 	</LocalizedText>
-
+	
 	<!-- SIMPLIFIED CHINESE (zh_Hans_CN) -->
 	<LocalizedText>		<!-- Algeria -->
 		<Replace Tag="LOC_CITY_NAME_ALGIERS"					Text="阿尔及尔"					Language="zh_HANS_CN"/>
@@ -3376,5 +3377,4 @@
 		<Replace Tag="LOC_CIVILIZATION_ZIMBABWE_NAME"			Text="津巴布韦"					Language="zh_HANS_CN"/>
 		<Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME"			Text="野蛮人"					Language="zh_HANS_CN"/>
  </LocalizedText>
-
 </GameData>
